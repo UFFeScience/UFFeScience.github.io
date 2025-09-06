@@ -1,20 +1,21 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'UFF eScience Research Group'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "https://avatars.githubusercontent.com/u/22843502"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "https://avatars.githubusercontent.com/u/22843502"
+  desktop_height: "64px"
+  desktop_width: "64px"
 
-home: 
+home:
+  image_style: "object-fit: contain; width: 100%; height: auto;"
   limit_services: 6
 
 collections:
-  services:
+  projects:
     output: true
     sort_by: weight
   team:
@@ -23,9 +24,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "projects"
     values:
-      layout: "service"
+      layout: "project"
   - scope:
       path: ""
       type: "team"

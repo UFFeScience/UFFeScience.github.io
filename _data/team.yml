@@ -1,0 +1,9 @@
+- name: Dr. Alice Smith
+  role: Principal Investigator
+  bio: Expert in data science and social impact research.
+- name: Dr. Bob Johnson
+  role: Senior Researcher
+  bio: Specializes in machine learning and data analytics.
+- name: Dr. Carol Lee
+  role: Researcher
+  bio: Focused on healthcare applications of machine learning.

@@ -7,6 +7,15 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Our Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Meet the members of the UFF eScience Group.
+
+{% for member in site.data.team %}
+## {{ member.name }}
+**Role:** {{ member.role }}
+
+{{ member.bio }}
+
+---
+{% endfor %}

@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="container pt-6 pb-6">
+  <div class="row">
+    <div class="col-12 col-lg-8">
+      <h1>{{ page.title }}</h1>
+      {% if page.repo %}
+      <p><a href="{{ page.repo }}" target="_blank" class="button button-primary">GitHub Repository</a></p>
+      {% endif %}
+      <div class="project-description">
+        {{ content }}
+      </div>
+      {% if page.language %}
+      <p><strong>Language:</strong> {{ page.language }}</p>
+      {% endif %}
+      {% if page.license %}
+      <p><strong>License:</strong> {{ page.license }}</p>
+      {% endif %}
+      {% if page.last_updated %}
+      <p><strong>Last updated:</strong> {{ page.last_updated }}</p>
+      {% endif %}
+    </div>
+    <div class="col-12 col-lg-4">
+      <h2>Team Members</h2>
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Photo</th>
+            <th>Name</th>
+            <th>Role</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for member in site.data.team %}
+          <tr>
+            <td><img src="{{ member.photo | default: '/images/team/default.png' }}" alt="{{ member.name }}" style="width:48px;height:48px;border-radius:50%;object-fit:cover;"></td>
+            <td>{{ member.name }}</td>
+            <td>{{ member.role }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

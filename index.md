@@ -1,13 +1,17 @@
 ---
-title: Jekyll Serif Theme
+title: "UFF eScience Research Group"
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: The UFF eScience Research Group is dedicated to advancing research in Data Science, Machine Learning, and their applications to social good and healthcare.
+intro_image: "images/ic-2.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# UFF eScience Research Group
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Welcome to the official page of the UFF eScience Research Group, part of the Instituto de Computação at Universidade Federal Fluminense (UFF).
+
+Our group is dedicated to advancing research in Data Science, Machine Learning, and their applications to social good and healthcare. Here you will find information about our team, ongoing projects, and scientific publications.
+
+Explore the menu to learn more about our research, team members, projects, and publications.
