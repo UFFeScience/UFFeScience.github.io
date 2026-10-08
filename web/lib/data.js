@@ -1,10 +1,14 @@
 import 'server-only';
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import snapshot from './github-snapshot.json';
-import {readPublications} from './publication-store';
-export async function getGithub(){
- try{return {...JSON.parse(await fs.readFile(path.join(process.cwd(),'data/projects.json'),'utf8')),source:'stored'};}
- catch{return {...snapshot,details:{},source:'snapshot'};}
+import { readPublications } from './publication-store';
+
+export async function getGithub() {
+  const store = JSON.parse(
+    await fs.readFile(path.join(process.cwd(), 'data/projects.json'), 'utf8'),
+  );
+  return store;
 }
-export async function getNews(){return readPublications();}
+export async function getNews() {
+  return readPublications();
+}

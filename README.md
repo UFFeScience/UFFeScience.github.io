@@ -6,4 +6,4 @@ The live website is a static Next.js application in [`web/`](web/README.md). Git
 
 [Update and deployment workflow](https://github.com/UFFeScience/uffescience.github.io/actions/workflows/pages.yml) runs weekly on Monday at 09:00 Brasília and can be run manually. Apify credentials are stored only in Actions Secrets and ignored local environment files.
 
-See [development and content documentation](web/README.md) for local preview, synchronization, storage and deployment details. Legacy Jekyll sources remain in the root as historical material; the Jekyll deployment workflow has been replaced.
+See [development and content documentation](web/README.md) for local preview, synchronization, storage and deployment details.

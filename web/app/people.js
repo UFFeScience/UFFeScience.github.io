@@ -1,7 +1,85 @@
-import {ArrowUpRight} from 'lucide-react';
+import { ArrowUpRight } from 'lucide-react';
 import PersonAvatar from './person-avatar';
-function Person({person}){return <article className="person-card"><PersonAvatar person={person}/><div><h4>{person.name}</h4>{person.linkKind!=='source' && <a href={person.url} target="_blank" rel="noreferrer">{person.linkKind==='work'?'View work':'Profile'} <ArrowUpRight size={12}/></a>}</div></article>;}
-export default function People({people}){
- const current=people.students.filter(person=>person.current),former=people.students.filter(person=>!person.current);
- return <section id="pessoas" className="people-section"><div className="section-heading"><div><div className="kicker">PEOPLE / CONNECTIONS</div><h2>Team</h2></div></div><div className="people-lead"><PersonAvatar person={people.daniel}/><div><span className="kicker">RESEARCH AND SUPERVISION</span><h3>Daniel de Oliveira</h3><p>Professor at UFF’s Institute of Computing, co-leading UFFeScience research and supervising students.</p></div></div><div className="people-group"><h3>Students</h3><div className="people-grid">{current.map(person=><Person key={person.id} person={person}/>)}</div>{former.length>0 && <details className="people-more"><summary>Former students <span>{former.length}</span></summary><div className="people-grid">{former.map(person=><Person key={person.id} person={person}/>)}</div></details>}</div><div className="people-group"><h3>Collaborators</h3><p className="people-description">Research collaborators across institutions, from current and past projects.</p><div className="people-grid">{people.collaborators.slice(0,12).map(person=><Person key={person.id} person={person}/>)}</div>{people.collaborators.length>12 && <details className="people-more"><summary>All collaborators <span>{people.collaborators.length}</span></summary><div className="people-grid">{people.collaborators.slice(12).map(person=><Person key={person.id} person={person}/>)}</div></details>}</div></section>;
+function Person({ person }) {
+  return (
+    <article className="person-card">
+      <PersonAvatar person={person} />
+      <div>
+        <h4>{person.name}</h4>
+        {person.linkKind !== 'source' && (
+          <a href={person.url} target="_blank" rel="noreferrer">
+            {person.linkKind === 'work' ? 'View work' : 'Profile'} <ArrowUpRight size={12} />
+          </a>
+        )}
+      </div>
+    </article>
+  );
+}
+export default function People({ people }) {
+  const current = people.students.filter((person) => person.current),
+    former = people.students.filter((person) => !person.current);
+  return (
+    <section id="pessoas" className="people-section">
+      <div className="section-heading">
+        <div>
+          <div className="kicker">PEOPLE / CONNECTIONS</div>
+          <h2>Team</h2>
+        </div>
+      </div>
+      <div className="people-lead">
+        <PersonAvatar person={people.daniel} />
+        <div>
+          <span className="kicker">RESEARCH AND SUPERVISION</span>
+          <h3>Daniel de Oliveira</h3>
+          <p>
+            Professor at UFF’s Institute of Computing, co-leading UFFeScience research and
+            supervising students.
+          </p>
+        </div>
+      </div>
+      <div className="people-group">
+        <h3>Students</h3>
+        <div className="people-grid">
+          {current.map((person) => (
+            <Person key={person.id} person={person} />
+          ))}
+        </div>
+        {former.length > 0 && (
+          <details className="people-more">
+            <summary>
+              Former students <span>{former.length}</span>
+            </summary>
+            <div className="people-grid">
+              {former.map((person) => (
+                <Person key={person.id} person={person} />
+              ))}
+            </div>
+          </details>
+        )}
+      </div>
+      <div className="people-group">
+        <h3>Collaborators</h3>
+        <p className="people-description">
+          Research collaborators across institutions, from current and past projects.
+        </p>
+        <div className="people-grid">
+          {people.collaborators.slice(0, 12).map((person) => (
+            <Person key={person.id} person={person} />
+          ))}
+        </div>
+        {people.collaborators.length > 12 && (
+          <details className="people-more">
+            <summary>
+              All collaborators <span>{people.collaborators.length}</span>
+            </summary>
+            <div className="people-grid">
+              {people.collaborators.slice(12).map((person) => (
+                <Person key={person.id} person={person} />
+              ))}
+            </div>
+          </details>
+        )}
+      </div>
+    </section>
+  );
 }

@@ -35,3 +35,18 @@ Apify uses actor `buIWk2uOUzTmcLsuB` for UFFeScience’s company page and Daniel
 Open Actions → **Update content and deploy Next.js to Pages** → **Run workflow** on main. Keep `refresh_content` checked to update stored data, or uncheck it for a deployment only. For local updates: `npm run sync:weekly` with APIFY_TOKEN and optionally GITHUB_TOKEN in `.env.local` or the process environment. `--force` on the publication importer bypasses the local shortcut, but never the source/week extraction guard.
 
 APIFY_TOKEN must be a repository Actions Secret and/or an ignored local environment variable. Never use NEXT_PUBLIC for credentials. `data/apify-config.json` contains only resource identifiers, not credentials. Set Pages source to GitHub Actions. Workflow contents write permission is required for content commits.
+
+## Source formatting
+
+JavaScript, JSX, CSS, JSON configuration and documentation use Prettier, with two-space indentation and a 100-character line width. Run `npm run format` to apply formatting and `npm run format:check` to verify it.
+
+For the Python scraper, install the development formatter in a virtual environment:
+
+```sh
+python3 -m venv .venv
+.venv/bin/pip install -r requirements-dev.txt
+.venv/bin/python -m black scripts
+.venv/bin/python -m black --check scripts
+```
+
+Content JSON files are generated with indentation by the importers; media and generated build output are excluded from formatting. Missing or invalid stored data stops the build so a broken export cannot replace the published content.

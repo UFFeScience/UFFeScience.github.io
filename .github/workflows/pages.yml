@@ -42,6 +42,12 @@ jobs:
       - name: Install dependencies
         working-directory: web
         run: npm ci
+      - name: Check source formatting
+        working-directory: web
+        run: |
+          npm run format:check
+          python -m pip install -r requirements-dev.txt
+          python -m black --check scripts
       - name: Update stored content
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_content)
         working-directory: web

@@ -12,20 +12,6 @@
       "url": "https://www.linkedin.com/in/daniel-de-oliveira-b258368/"
     }
   ],
-  "runs": [
-    {
-      "id": "wqBLGPhcr0u4VG7eB",
-      "taskId": "ApeMyM9MfdX6fpjPH",
-      "status": "READY"
-    },
-    {
-      "id": "dlAIbIrRIx7LGGJ0i",
-      "taskId": "w7sEIreYSimjaIOnL",
-      "status": "READY"
-    }
-  ],
-  "backfillRunId": "xe43itFUVizUfgCWt",
   "storeId": "tOJCj89elzSvIqNdg",
-  "scheduleId": "8hfR8QcOtZd63Vdt6",
-  "scheduleEnabled": false
+  "backfillRunId": "xe43itFUVizUfgCWt"
 }
