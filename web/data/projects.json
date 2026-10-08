@@ -1,0 +1,2460 @@
+{
+  "repos": [
+    {
+      "name": "aether",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/aether",
+      "stargazers_count": 1,
+      "pushed_at": "2026-10-07T17:35:30Z"
+    },
+    {
+      "name": "PPDR",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/PPDR",
+      "stargazers_count": 3,
+      "pushed_at": "2026-10-07T00:17:01Z"
+    },
+    {
+      "name": "akoflow",
+      "description": "AkôFlow is an open-source engine for orchestrating and executing container-based scientific workflows in the computing continuum. It was originally developed within the e-Science Research Group at the Institute of Computing, Fluminense Federal University (UFF).",
+      "html_url": "https://github.com/UFFeScience/akoflow",
+      "stargazers_count": 64,
+      "pushed_at": "2026-10-06T18:09:14Z"
+    },
+    {
+      "name": "Stratus",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/Stratus",
+      "stargazers_count": 1,
+      "pushed_at": "2026-10-05T11:44:18Z"
+    },
+    {
+      "name": "CellLens",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/CellLens",
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-01T18:32:33Z"
+    },
+    {
+      "name": "akoflow-examples",
+      "description": "Runnable workflows, showcase assets, and experiment tooling for AkôFlow.",
+      "html_url": "https://github.com/UFFeScience/akoflow-examples",
+      "stargazers_count": 0,
+      "pushed_at": "2026-10-01T05:46:13Z"
+    },
+    {
+      "name": "akoflow-desktop",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akoflow-desktop",
+      "stargazers_count": 0,
+      "pushed_at": "2026-09-20T16:19:20Z"
+    },
+    {
+      "name": "Eval-Graph-DB-Graph-Modeling-Strategies",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/Eval-Graph-DB-Graph-Modeling-Strategies",
+      "stargazers_count": 0,
+      "pushed_at": "2026-09-03T12:51:24Z"
+    },
+    {
+      "name": "sscad-2026",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/sscad-2026",
+      "stargazers_count": 0,
+      "pushed_at": "2026-08-27T14:52:24Z"
+    },
+    {
+      "name": "flexe_plus",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/flexe_plus",
+      "stargazers_count": 0,
+      "pushed_at": "2026-08-23T04:10:03Z"
+    },
+    {
+      "name": "FedObserve",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/FedObserve",
+      "stargazers_count": 0,
+      "pushed_at": "2026-08-20T12:07:26Z"
+    },
+    {
+      "name": "anchor",
+      "description": "ANCHOR is a framework for capturing the provenance of multi-agent workflows using an interaction-centric approach.",
+      "html_url": "https://github.com/UFFeScience/anchor",
+      "stargazers_count": 1,
+      "pushed_at": "2026-08-05T21:34:53Z"
+    },
+    {
+      "name": "phylotreeminer",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/phylotreeminer",
+      "stargazers_count": 0,
+      "pushed_at": "2026-07-10T11:53:00Z"
+    },
+    {
+      "name": "jidm-analysis",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/jidm-analysis",
+      "stargazers_count": 0,
+      "pushed_at": "2026-06-23T08:11:57Z"
+    },
+    {
+      "name": "triptych",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/triptych",
+      "stargazers_count": 0,
+      "pushed_at": "2026-06-22T14:56:54Z"
+    },
+    {
+      "name": "UTK-PROV",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/UTK-PROV",
+      "stargazers_count": 0,
+      "pushed_at": "2026-06-09T18:15:21Z"
+    },
+    {
+      "name": "denethor",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/denethor",
+      "stargazers_count": 13,
+      "pushed_at": "2026-05-26T01:58:11Z"
+    },
+    {
+      "name": "llm-clinical-analysis",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/llm-clinical-analysis",
+      "stargazers_count": 0,
+      "pushed_at": "2026-04-26T00:58:11Z"
+    },
+    {
+      "name": "MemoirGRASP",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/MemoirGRASP",
+      "stargazers_count": 1,
+      "pushed_at": "2026-04-10T17:28:28Z"
+    },
+    {
+      "name": ".github",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/.github",
+      "stargazers_count": 0,
+      "pushed_at": "2026-04-02T16:36:03Z"
+    },
+    {
+      "name": "akoflow-example-wf-etl-clothing",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akoflow-example-wf-etl-clothing",
+      "stargazers_count": 0,
+      "pushed_at": "2026-03-30T15:16:00Z"
+    },
+    {
+      "name": "akoflow-driver-dataverse-uploader",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akoflow-driver-dataverse-uploader",
+      "stargazers_count": 0,
+      "pushed_at": "2026-03-29T23:26:48Z"
+    },
+    {
+      "name": "protector",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/protector",
+      "stargazers_count": 1,
+      "pushed_at": "2026-03-10T16:51:42Z"
+    },
+    {
+      "name": "akoflow-driver-gcs-uploader",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akoflow-driver-gcs-uploader",
+      "stargazers_count": 0,
+      "pushed_at": "2026-02-28T12:18:57Z"
+    },
+    {
+      "name": "akoflow-driver-s3-uploader",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akoflow-driver-s3-uploader",
+      "stargazers_count": 0,
+      "pushed_at": "2026-02-28T11:20:22Z"
+    },
+    {
+      "name": "akoflow-aws-fedlearning-deployment",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akoflow-aws-fedlearning-deployment",
+      "stargazers_count": 0,
+      "pushed_at": "2026-02-24T23:22:04Z"
+    },
+    {
+      "name": "-PROVGov-SoS",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/-PROVGov-SoS",
+      "stargazers_count": 0,
+      "pushed_at": "2026-02-04T11:46:46Z"
+    },
+    {
+      "name": "akocloud",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akocloud",
+      "stargazers_count": 0,
+      "pushed_at": "2026-01-24T23:42:21Z"
+    },
+    {
+      "name": "akoflow-admin",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akoflow-admin",
+      "stargazers_count": 0,
+      "pushed_at": "2025-12-26T17:20:01Z"
+    },
+    {
+      "name": "SciCumulus",
+      "description": "SciCumulus workflow Engine",
+      "html_url": "https://github.com/UFFeScience/SciCumulus",
+      "stargazers_count": 14,
+      "pushed_at": "2025-12-23T23:19:32Z"
+    },
+    {
+      "name": "Dataverse-Dados-de-Rede",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/Dataverse-Dados-de-Rede",
+      "stargazers_count": 0,
+      "pushed_at": "2025-12-02T14:51:15Z"
+    },
+    {
+      "name": "dlprov_dataverse",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/dlprov_dataverse",
+      "stargazers_count": 0,
+      "pushed_at": "2025-11-26T17:42:05Z"
+    },
+    {
+      "name": "akorunner",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/akorunner",
+      "stargazers_count": 0,
+      "pushed_at": "2025-10-18T15:04:06Z"
+    },
+    {
+      "name": "flare_prov",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/flare_prov",
+      "stargazers_count": 4,
+      "pushed_at": "2025-08-20T18:36:30Z"
+    },
+    {
+      "name": "cyclops",
+      "description": "A workflow scheduling approach",
+      "html_url": "https://github.com/UFFeScience/cyclops",
+      "stargazers_count": 12,
+      "pushed_at": "2025-08-06T10:40:37Z"
+    },
+    {
+      "name": "arani",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/arani",
+      "stargazers_count": 10,
+      "pushed_at": "2025-08-01T20:18:26Z"
+    },
+    {
+      "name": "CrimeDashboard",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/CrimeDashboard",
+      "stargazers_count": 0,
+      "pushed_at": "2025-06-06T02:49:57Z"
+    },
+    {
+      "name": "eduprov",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/eduprov",
+      "stargazers_count": 3,
+      "pushed_at": "2025-04-23T00:58:51Z"
+    },
+    {
+      "name": "dlprov",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/dlprov",
+      "stargazers_count": 15,
+      "pushed_at": "2025-04-15T00:40:01Z"
+    },
+    {
+      "name": "Flower-PROV",
+      "description": "Provenance-based Dynamic Fine-Tuning of Federated Machine Learning Framework",
+      "html_url": "https://github.com/UFFeScience/Flower-PROV",
+      "stargazers_count": 12,
+      "pushed_at": "2025-04-01T03:25:52Z"
+    },
+    {
+      "name": "marin",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/marin",
+      "stargazers_count": 5,
+      "pushed_at": "2024-12-17T22:56:24Z"
+    },
+    {
+      "name": "lsst-uff",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/lsst-uff",
+      "stargazers_count": 0,
+      "pushed_at": "2024-12-06T21:15:06Z"
+    },
+    {
+      "name": "athena-",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/athena-",
+      "stargazers_count": 1,
+      "pushed_at": "2024-07-20T21:09:28Z"
+    },
+    {
+      "name": "okinawa",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/okinawa",
+      "stargazers_count": 1,
+      "pushed_at": "2024-07-18T00:25:06Z"
+    },
+    {
+      "name": "GRASPCC-LB",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/GRASPCC-LB",
+      "stargazers_count": 0,
+      "pushed_at": "2024-06-27T20:13:18Z"
+    },
+    {
+      "name": "MAESTRO",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/MAESTRO",
+      "stargazers_count": 10,
+      "pushed_at": "2024-05-06T19:15:40Z"
+    },
+    {
+      "name": "REPLACE",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/REPLACE",
+      "stargazers_count": 1,
+      "pushed_at": "2024-03-30T21:35:28Z"
+    },
+    {
+      "name": "NMFSt.P",
+      "description": "The NMFSt.P Notebook is introduced as a tool in bioinformatics for conducting exploratory analysis on phylogenetic trees. It simplifies the comparison of multiple trees to identify frequent subtrees, addressing the computational intensity and laboriousness associated with this task, particularly in scenarios involving large input tree sets.",
+      "html_url": "https://github.com/UFFeScience/NMFSt.P",
+      "stargazers_count": 9,
+      "pushed_at": "2024-03-16T17:03:41Z"
+    },
+    {
+      "name": "SAMbA",
+      "description": "SAMbA: Extending Apache Spark for Scientific Computational Experiments",
+      "html_url": "https://github.com/UFFeScience/SAMbA",
+      "stargazers_count": 16,
+      "pushed_at": "2023-10-27T14:43:48Z"
+    },
+    {
+      "name": "SambA-SciPhy",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/SambA-SciPhy",
+      "stargazers_count": 2,
+      "pushed_at": "2023-10-27T14:37:51Z"
+    },
+    {
+      "name": "ALTES",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/ALTES",
+      "stargazers_count": 0,
+      "pushed_at": "2023-09-26T18:54:04Z"
+    },
+    {
+      "name": "instructor",
+      "description": "IdeNtification of anomalous veSsel TRajectory Using ClusTers Of tRajectories",
+      "html_url": "https://github.com/UFFeScience/instructor",
+      "stargazers_count": 0,
+      "pushed_at": "2023-09-26T03:58:09Z"
+    },
+    {
+      "name": "ironstone",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/ironstone",
+      "stargazers_count": 0,
+      "pushed_at": "2023-08-14T02:05:57Z"
+    },
+    {
+      "name": "TiME",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/TiME",
+      "stargazers_count": 0,
+      "pushed_at": "2023-04-25T23:20:52Z"
+    },
+    {
+      "name": "CrimeRoutes",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/CrimeRoutes",
+      "stargazers_count": 0,
+      "pushed_at": "2023-04-14T20:15:28Z"
+    },
+    {
+      "name": "DfAnalyzer",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/DfAnalyzer",
+      "stargazers_count": 11,
+      "pushed_at": "2023-04-13T21:23:07Z"
+    },
+    {
+      "name": "pandora",
+      "description": "A Collaborative Platform for Semiautomatic Transcription of Handwritten Crime Reports",
+      "html_url": "https://github.com/UFFeScience/pandora",
+      "stargazers_count": 0,
+      "pushed_at": "2023-03-20T03:47:09Z"
+    },
+    {
+      "name": "Hurricane",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/Hurricane",
+      "stargazers_count": 0,
+      "pushed_at": "2023-02-25T15:41:48Z"
+    },
+    {
+      "name": "Polyflow",
+      "description": "Provenance Queries over Polystore Databases",
+      "html_url": "https://github.com/UFFeScience/Polyflow",
+      "stargazers_count": 1,
+      "pushed_at": "2023-01-06T03:25:33Z"
+    },
+    {
+      "name": "bioprov",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/bioprov",
+      "stargazers_count": 0,
+      "pushed_at": "2022-12-05T21:50:36Z"
+    },
+    {
+      "name": "newscollab",
+      "description": "NewsCollab: a crowdsourcing system to support data-driven journalism",
+      "html_url": "https://github.com/UFFeScience/newscollab",
+      "stargazers_count": 0,
+      "pushed_at": "2022-11-29T22:50:24Z"
+    },
+    {
+      "name": "ReASSIgN",
+      "description": "Workflowsim for Reinforcement Learning",
+      "html_url": "https://github.com/UFFeScience/ReASSIgN",
+      "stargazers_count": 0,
+      "pushed_at": "2022-11-16T03:46:19Z"
+    },
+    {
+      "name": "orbiter",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/orbiter",
+      "stargazers_count": 1,
+      "pushed_at": "2022-09-29T10:19:55Z"
+    },
+    {
+      "name": "diversity_browsing",
+      "description": "Public repository for diversity browsing baseline implementation",
+      "html_url": "https://github.com/UFFeScience/diversity_browsing",
+      "stargazers_count": 0,
+      "pushed_at": "2022-08-26T19:13:52Z"
+    },
+    {
+      "name": "dimply",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/dimply",
+      "stargazers_count": 0,
+      "pushed_at": "2022-08-15T22:50:48Z"
+    },
+    {
+      "name": "uff_snap",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/uff_snap",
+      "stargazers_count": 0,
+      "pushed_at": "2021-03-25T19:28:06Z"
+    },
+    {
+      "name": "TEMPO",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/TEMPO",
+      "stargazers_count": 0,
+      "pushed_at": "2021-03-24T17:57:40Z"
+    },
+    {
+      "name": "OntoExpLine",
+      "description": "An Ontology for Experiment Lines",
+      "html_url": "https://github.com/UFFeScience/OntoExpLine",
+      "stargazers_count": 0,
+      "pushed_at": "2020-11-30T21:07:56Z"
+    },
+    {
+      "name": "LetItRain",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/LetItRain",
+      "stargazers_count": 0,
+      "pushed_at": "2020-11-23T04:33:21Z"
+    },
+    {
+      "name": "HEA",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/HEA",
+      "stargazers_count": 1,
+      "pushed_at": "2020-11-08T22:32:40Z"
+    },
+    {
+      "name": "POStURE",
+      "description": "POStURE - A Framework for Analyzing Political Speeches Evolution and Similarities with Learned Linguistic Representations",
+      "html_url": "https://github.com/UFFeScience/POStURE",
+      "stargazers_count": 1,
+      "pushed_at": "2020-11-06T14:17:51Z"
+    },
+    {
+      "name": "Phenomanager",
+      "description": "Phenomanager",
+      "html_url": "https://github.com/UFFeScience/Phenomanager",
+      "stargazers_count": 13,
+      "pushed_at": "2020-08-20T19:51:55Z"
+    },
+    {
+      "name": "OFIP",
+      "description": "OFIP",
+      "html_url": "https://github.com/UFFeScience/OFIP",
+      "stargazers_count": 0,
+      "pushed_at": "2020-08-07T00:00:02Z"
+    },
+    {
+      "name": "Wf-GPU",
+      "description": "Wf-GPU",
+      "html_url": "https://github.com/UFFeScience/Wf-GPU",
+      "stargazers_count": 1,
+      "pushed_at": "2020-04-25T16:39:27Z"
+    },
+    {
+      "name": "SPACE",
+      "description": "Spark Configuration Engine",
+      "html_url": "https://github.com/UFFeScience/SPACE",
+      "stargazers_count": 0,
+      "pushed_at": "2020-01-14T20:30:02Z"
+    },
+    {
+      "name": "LDA-DB",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/LDA-DB",
+      "stargazers_count": 0,
+      "pushed_at": "2019-07-07T16:05:17Z"
+    },
+    {
+      "name": "Myria",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/Myria",
+      "stargazers_count": 0,
+      "pushed_at": "2019-07-04T00:39:09Z"
+    },
+    {
+      "name": "PRELUDE",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/PRELUDE",
+      "stargazers_count": 0,
+      "pushed_at": "2019-07-03T13:41:50Z"
+    },
+    {
+      "name": "SciManager",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/SciManager",
+      "stargazers_count": 2,
+      "pushed_at": "2019-07-02T19:38:38Z"
+    },
+    {
+      "name": "Df-ASet",
+      "description": "Um dataset de traces de proveniência em dataflows",
+      "html_url": "https://github.com/UFFeScience/Df-ASet",
+      "stargazers_count": 0,
+      "pushed_at": "2019-06-11T19:08:15Z"
+    },
+    {
+      "name": "Tennis-Analytics",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/Tennis-Analytics",
+      "stargazers_count": 1,
+      "pushed_at": "2019-04-26T16:12:06Z"
+    },
+    {
+      "name": "C-ParGRES",
+      "description": "ParGRES for Cloud",
+      "html_url": "https://github.com/UFFeScience/C-ParGRES",
+      "stargazers_count": 11,
+      "pushed_at": "2019-02-19T01:21:47Z"
+    },
+    {
+      "name": "CRiMINaL",
+      "description": "CRiMINaL is a framework to uncover crimes patterns using logic-based relational machine learning techniques develop by UFF eScience group",
+      "html_url": "https://github.com/UFFeScience/CRiMINaL",
+      "stargazers_count": 3,
+      "pushed_at": "2018-05-14T01:58:04Z"
+    },
+    {
+      "name": "OPTIC",
+      "description": "OPTImization Confidentially of workflow results",
+      "html_url": "https://github.com/UFFeScience/OPTIC",
+      "stargazers_count": 0,
+      "pushed_at": "2018-04-02T13:14:30Z"
+    },
+    {
+      "name": "Cognitive-Game-Analytics",
+      "description": "Database for Cognitive Game Analytics",
+      "html_url": "https://github.com/UFFeScience/Cognitive-Game-Analytics",
+      "stargazers_count": 0,
+      "pushed_at": "2017-12-30T15:51:09Z"
+    },
+    {
+      "name": "FTT",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/FTT",
+      "stargazers_count": 0,
+      "pushed_at": "2017-06-25T18:37:35Z"
+    },
+    {
+      "name": "FFT",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/FFT",
+      "stargazers_count": 0,
+      "pushed_at": "2017-06-25T18:35:07Z"
+    },
+    {
+      "name": "CognitiveTraining",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/CognitiveTraining",
+      "stargazers_count": 0,
+      "pushed_at": "2017-03-24T20:32:58Z"
+    },
+    {
+      "name": "PredFail",
+      "description": "Component for Predicting Failures in Scientific Workflows",
+      "html_url": "https://github.com/UFFeScience/PredFail",
+      "stargazers_count": 0,
+      "pushed_at": "2017-03-23T17:20:28Z"
+    },
+    {
+      "name": "Systematic-Mapping-of-Software-Requirements-Negotiation-Techniques",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/Systematic-Mapping-of-Software-Requirements-Negotiation-Techniques",
+      "stargazers_count": 0,
+      "pushed_at": "2017-03-09T22:57:51Z"
+    },
+    {
+      "name": "SciAgile",
+      "description": "Agile Methodology for Simulation-based Scientific Experiments",
+      "html_url": "https://github.com/UFFeScience/SciAgile",
+      "stargazers_count": 1,
+      "pushed_at": "2017-01-22T18:23:55Z"
+    },
+    {
+      "name": "Tupi",
+      "description": null,
+      "html_url": "https://github.com/UFFeScience/Tupi",
+      "stargazers_count": 0,
+      "pushed_at": "2017-01-18T15:23:06Z"
+    },
+    {
+      "name": "Spielzyklus",
+      "description": "Spielzyklus: a Non-Intrusive Approach for Identifying Cycles in Games Based on Provenance Data",
+      "html_url": "https://github.com/UFFeScience/Spielzyklus",
+      "stargazers_count": 1,
+      "pushed_at": "2016-11-14T12:02:49Z"
+    },
+    {
+      "name": "ParGRES",
+      "description": "ParGRES Database Cluster Middleware",
+      "html_url": "https://github.com/UFFeScience/ParGRES",
+      "stargazers_count": 0,
+      "pushed_at": "2015-09-01T19:10:57Z"
+    }
+  ],
+  "details": {
+    "aether": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:52.722Z"
+    },
+    "PPDR": {
+      "contributors": [
+        {
+          "actor": "deIta-ij",
+          "avatar": "/media/f1747578788c425f6083a380197d.jpg",
+          "profileUrl": "https://github.com/deIta-ij"
+        },
+        {
+          "actor": "miguel-jehle",
+          "avatar": "/media/52af0d650055c61ba640c103711c.jpg",
+          "profileUrl": "https://github.com/miguel-jehle"
+        },
+        {
+          "actor": "A1lonso",
+          "avatar": "/media/b7e6d03694136ac7e7a0608c5663.png",
+          "profileUrl": "https://github.com/A1lonso"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:53.099Z"
+    },
+    "Stratus": {
+      "contributors": [
+        {
+          "actor": "marcellowmr",
+          "avatar": "/media/a16e251304d438f7db530e57ba0e.png",
+          "profileUrl": "https://github.com/marcellowmr"
+        },
+        {
+          "actor": "miguel-jehle",
+          "avatar": "/media/52af0d650055c61ba640c103711c.jpg",
+          "profileUrl": "https://github.com/miguel-jehle"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:53.786Z"
+    },
+    "CellLens": {
+      "contributors": [
+        {
+          "actor": "JohKemPo",
+          "avatar": "/media/9af488cf24e7a096cbad357602ca.jpg",
+          "profileUrl": "https://github.com/JohKemPo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:54.438Z"
+    },
+    "akoflow": {
+      "contributors": [
+        {
+          "actor": "ovvesley",
+          "avatar": "/media/a02a2661e9f942b2e3cdc6b5fe3c.jpg",
+          "profileUrl": "https://github.com/ovvesley"
+        },
+        {
+          "actor": "RaphaelRGarcia",
+          "avatar": "/media/67e049e181d7e9bc3822a06198d0.jpg",
+          "profileUrl": "https://github.com/RaphaelRGarcia"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        },
+        {
+          "actor": "zaclummys",
+          "avatar": "/media/9cb6263ae4a9ccb4212df970d05a.jpg",
+          "profileUrl": "https://github.com/zaclummys"
+        },
+        {
+          "actor": "nevesLiliane",
+          "avatar": "/media/f6547423ac6b6bf1753379ba6183.png",
+          "profileUrl": "https://github.com/nevesLiliane"
+        }
+      ],
+      "updates": [
+        {
+          "id": "16734803859",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "completed a task",
+          "title": "AKO: Export recovery-aware Montage stage audit and final comparison",
+          "url": "https://github.com/UFFeScience/akoflow/issues/135",
+          "category": "Tasks",
+          "date": "2026-10-08T14:12:15Z"
+        },
+        {
+          "id": "16743205845",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Export recovery-aware Montage stage audit and final comparison",
+          "url": "https://github.com/UFFeScience/akoflow/issues/135#issuecomment-6061762344",
+          "category": "Discussion",
+          "date": "2026-10-08T14:12:13Z"
+        },
+        {
+          "id": "16734798964",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "completed a task",
+          "title": "AKO: Safely prune unchanged cloud workspace inputs owned by Docker root",
+          "url": "https://github.com/UFFeScience/akoflow/issues/134",
+          "category": "Tasks",
+          "date": "2026-10-08T14:12:11Z"
+        },
+        {
+          "id": "16744134059",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Safely prune unchanged cloud workspace inputs owned by Docker root",
+          "url": "https://github.com/UFFeScience/akoflow/issues/134#issuecomment-6061761422",
+          "category": "Discussion",
+          "date": "2026-10-08T14:12:10Z"
+        },
+        {
+          "id": "16734794507",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "completed a task",
+          "title": "AKO: Preserve bounded SSH failure diagnostics for sealed peer snapshot operations",
+          "url": "https://github.com/UFFeScience/akoflow/issues/133",
+          "category": "Tasks",
+          "date": "2026-10-08T14:12:08Z"
+        },
+        {
+          "id": "16734794251",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Preserve bounded SSH failure diagnostics for sealed peer snapshot operations",
+          "url": "https://github.com/UFFeScience/akoflow/issues/133#issuecomment-6061760458",
+          "category": "Discussion",
+          "date": "2026-10-08T14:12:07Z"
+        },
+        {
+          "id": "16734789836",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "completed a task",
+          "title": "AKO: Separate SSH stdout from diagnostics when validating peer preparation directories",
+          "url": "https://github.com/UFFeScience/akoflow/issues/132",
+          "category": "Tasks",
+          "date": "2026-10-08T14:12:05Z"
+        },
+        {
+          "id": "16734789678",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Separate SSH stdout from diagnostics when validating peer preparation directories",
+          "url": "https://github.com/UFFeScience/akoflow/issues/132#issuecomment-6061759449",
+          "category": "Discussion",
+          "date": "2026-10-08T14:12:04Z"
+        },
+        {
+          "id": "16733930219",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "AKO: Export recovery-aware Montage stage audit and final comparison",
+          "url": "https://github.com/UFFeScience/akoflow/issues/135",
+          "category": "Tasks",
+          "date": "2026-10-08T14:02:29Z"
+        },
+        {
+          "id": "16731793479",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "AKO: Safely prune unchanged cloud workspace inputs owned by Docker root",
+          "url": "https://github.com/UFFeScience/akoflow/issues/134",
+          "category": "Tasks",
+          "date": "2026-10-08T13:38:11Z"
+        },
+        {
+          "id": "16731612960",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "AKO: Preserve bounded SSH failure diagnostics for sealed peer snapshot operations",
+          "url": "https://github.com/UFFeScience/akoflow/issues/133",
+          "category": "Tasks",
+          "date": "2026-10-08T13:36:09Z"
+        },
+        {
+          "id": "16727835670",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "AKO: Separate SSH stdout from diagnostics when validating peer preparation directories",
+          "url": "https://github.com/UFFeScience/akoflow/issues/132",
+          "category": "Tasks",
+          "date": "2026-10-08T12:45:08Z"
+        },
+        {
+          "id": "16736074215",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Separate SSH channel queue time from archive upload execution",
+          "url": "https://github.com/UFFeScience/akoflow/issues/130#issuecomment-6058802148",
+          "category": "Discussion",
+          "date": "2026-10-08T11:24:55Z"
+        },
+        {
+          "id": "16735874842",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Separate SSH channel queue time from archive upload execution",
+          "url": "https://github.com/UFFeScience/akoflow/issues/130#issuecomment-6058749450",
+          "category": "Discussion",
+          "date": "2026-10-08T11:21:33Z"
+        },
+        {
+          "id": "16735579189",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Reduce remote whole-workspace merge process overhead",
+          "url": "https://github.com/UFFeScience/akoflow/issues/131#issuecomment-6058671097",
+          "category": "Discussion",
+          "date": "2026-10-08T11:16:40Z"
+        },
+        {
+          "id": "16721526538",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Reduce remote whole-workspace merge process overhead",
+          "url": "https://github.com/UFFeScience/akoflow/issues/131#issuecomment-6058416464",
+          "category": "Discussion",
+          "date": "2026-10-08T11:01:16Z"
+        },
+        {
+          "id": "16721087510",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "AKO: Reduce remote whole-workspace merge process overhead",
+          "url": "https://github.com/UFFeScience/akoflow/issues/131",
+          "category": "Tasks",
+          "date": "2026-10-08T10:54:30Z"
+        },
+        {
+          "id": "16735172862",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Separate SSH channel queue time from archive upload execution",
+          "url": "https://github.com/UFFeScience/akoflow/issues/130#issuecomment-6058113944",
+          "category": "Discussion",
+          "date": "2026-10-08T10:43:20Z"
+        },
+        {
+          "id": "16719780725",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "AKO: Separate SSH channel queue time from archive upload execution",
+          "url": "https://github.com/UFFeScience/akoflow/issues/130",
+          "category": "Tasks",
+          "date": "2026-10-08T10:32:50Z"
+        },
+        {
+          "id": "16731999561",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Reuse sealed whole-workspace peer archives across concurrent consumers",
+          "url": "https://github.com/UFFeScience/akoflow/issues/129#issuecomment-6057629044",
+          "category": "Discussion",
+          "date": "2026-10-08T10:13:17Z"
+        },
+        {
+          "id": "16718151664",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "AKO: Reuse sealed whole-workspace peer archives across concurrent consumers",
+          "url": "https://github.com/UFFeScience/akoflow/issues/129",
+          "category": "Tasks",
+          "date": "2026-10-08T10:02:55Z"
+        },
+        {
+          "id": "16731513142",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Attribute post-transfer remote Docker launch delay to workspace snapshot and container start",
+          "url": "https://github.com/UFFeScience/akoflow/issues/128#issuecomment-6057049289",
+          "category": "Discussion",
+          "date": "2026-10-08T09:38:46Z"
+        },
+        {
+          "id": "16716857835",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "AKO: Attribute post-transfer remote Docker launch delay to workspace snapshot and container start",
+          "url": "https://github.com/UFFeScience/akoflow/issues/128",
+          "category": "Tasks",
+          "date": "2026-10-08T09:37:00Z"
+        },
+        {
+          "id": "16728914304",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Diagnose private peer probe failures and verify OpenSSH credential compatibility",
+          "url": "https://github.com/UFFeScience/akoflow/issues/127#issuecomment-6056694769",
+          "category": "Discussion",
+          "date": "2026-10-08T09:16:55Z"
+        },
+        {
+          "id": "16724847741",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Correct POSIX shell quoting for nested transfer commands and temporary credential cleanup",
+          "url": "https://github.com/UFFeScience/akoflow/issues/126#issuecomment-6056343322",
+          "category": "Discussion",
+          "date": "2026-10-08T08:55:08Z"
+        },
+        {
+          "id": "16723675534",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Avoid control-plane gateway upload for eligible distinct cloud workspace peers",
+          "url": "https://github.com/UFFeScience/akoflow/issues/125#issuecomment-6056022094",
+          "category": "Discussion",
+          "date": "2026-10-08T08:35:47Z"
+        },
+        {
+          "id": "16725081648",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Avoid control-plane gateway upload for eligible distinct cloud workspace peers",
+          "url": "https://github.com/UFFeScience/akoflow/issues/125#issuecomment-6055983587",
+          "category": "Discussion",
+          "date": "2026-10-08T08:33:30Z"
+        },
+        {
+          "id": "16723053501",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Avoid control-plane gateway upload for eligible distinct cloud workspace peers",
+          "url": "https://github.com/UFFeScience/akoflow/issues/125#issuecomment-6055924037",
+          "category": "Discussion",
+          "date": "2026-10-08T08:29:46Z"
+        },
+        {
+          "id": "16720227245",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Stream provisioning playbook output while configuration is running",
+          "url": "https://github.com/UFFeScience/akoflow/issues/124#issuecomment-6055604614",
+          "category": "Discussion",
+          "date": "2026-10-08T08:08:54Z"
+        },
+        {
+          "id": "16717370880",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "AKO: Copy whole dependency workspaces internally on the same verified cloud instance",
+          "url": "https://github.com/UFFeScience/akoflow/issues/123#issuecomment-6055242131",
+          "category": "Discussion",
+          "date": "2026-10-08T07:46:53Z"
+        }
+      ],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:54.772Z"
+    },
+    "akoflow-examples": {
+      "contributors": [
+        {
+          "actor": "ovvesley",
+          "avatar": "/media/a02a2661e9f942b2e3cdc6b5fe3c.jpg",
+          "profileUrl": "https://github.com/ovvesley"
+        }
+      ],
+      "updates": [
+        {
+          "id": "22811171429",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T05:46:14Z"
+        },
+        {
+          "id": "16161304483",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "proposed a contribution",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Collaboration",
+          "date": "2026-10-01T05:27:40Z"
+        },
+        {
+          "id": "16159873870",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "Showcase environment bundles reuse global runtime and resource IDs",
+          "url": "https://github.com/UFFeScience/akoflow-examples/issues/22",
+          "category": "Tasks",
+          "date": "2026-10-01T04:54:13Z"
+        },
+        {
+          "id": "16159722575",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "completed a task",
+          "title": "Add a Blender Render Farm workflow",
+          "url": "https://github.com/UFFeScience/akoflow-examples/issues/9",
+          "category": "Tasks",
+          "date": "2026-10-01T04:50:41Z"
+        },
+        {
+          "id": "22658191647",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T04:50:37Z"
+        },
+        {
+          "id": "16159866195",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated a contribution",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Collaboration",
+          "date": "2026-10-01T04:50:35Z"
+        },
+        {
+          "id": "22686275666",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T04:45:53Z"
+        },
+        {
+          "id": "22686270300",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T04:45:48Z"
+        },
+        {
+          "id": "22789367051",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T04:43:29Z"
+        },
+        {
+          "id": "22788823375",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T04:35:31Z"
+        },
+        {
+          "id": "22787340302",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T04:13:07Z"
+        },
+        {
+          "id": "22680799181",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T03:28:59Z"
+        },
+        {
+          "id": "22794055718",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-10-01T03:27:15Z"
+        }
+      ],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:55.311Z"
+    },
+    "akoflow-desktop": {
+      "contributors": [
+        {
+          "actor": "ovvesley",
+          "avatar": "/media/a02a2661e9f942b2e3cdc6b5fe3c.jpg",
+          "profileUrl": "https://github.com/ovvesley"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:55.481Z"
+    },
+    "Eval-Graph-DB-Graph-Modeling-Strategies": {
+      "contributors": [
+        {
+          "actor": "A1lonso",
+          "avatar": "/media/b7e6d03694136ac7e7a0608c5663.png",
+          "profileUrl": "https://github.com/A1lonso"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:55.840Z"
+    },
+    "sscad-2026": {
+      "contributors": [
+        {
+          "actor": "paulinhax",
+          "avatar": "/media/531b6423da5a94068e5df136ac06.jpg",
+          "profileUrl": "https://github.com/paulinhax"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:56.077Z"
+    },
+    "flexe_plus": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:56.252Z"
+    },
+    "FedObserve": {
+      "contributors": [
+        {
+          "actor": "JanaBS",
+          "avatar": "/media/dd06d22c5d4b5d1547ae492c09f7.jpg",
+          "profileUrl": "https://github.com/JanaBS"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:56.655Z"
+    },
+    "anchor": {
+      "contributors": [
+        {
+          "actor": "valescamoura",
+          "avatar": "/media/4a5b5c6a887e7d7bc54302465f15.jpg",
+          "profileUrl": "https://github.com/valescamoura"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:57.237Z"
+    },
+    "phylotreeminer": {
+      "contributors": [
+        {
+          "actor": "JohKemPo",
+          "avatar": "/media/9af488cf24e7a096cbad357602ca.jpg",
+          "profileUrl": "https://github.com/JohKemPo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:57.263Z"
+    },
+    "jidm-analysis": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:57.646Z"
+    },
+    "triptych": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:57.785Z"
+    },
+    "UTK-PROV": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:58.201Z"
+    },
+    "denethor": {
+      "contributors": [
+        {
+          "actor": "marcellowmr",
+          "avatar": "/media/a16e251304d438f7db530e57ba0e.png",
+          "profileUrl": "https://github.com/marcellowmr"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:58.469Z"
+    },
+    "llm-clinical-analysis": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:58.607Z"
+    },
+    "MemoirGRASP": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:59.099Z"
+    },
+    ".github": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:59.245Z"
+    },
+    "akoflow-example-wf-etl-clothing": {
+      "contributors": [
+        {
+          "actor": "ovvesley",
+          "avatar": "/media/a02a2661e9f942b2e3cdc6b5fe3c.jpg",
+          "profileUrl": "https://github.com/ovvesley"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:36:59.714Z"
+    },
+    "akoflow-driver-dataverse-uploader": {
+      "contributors": [
+        {
+          "actor": "lucasnfcosta",
+          "avatar": "/media/380f29d3d334f0bb53b1ae21bbdb.jpg",
+          "profileUrl": "https://github.com/lucasnfcosta"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:00.094Z"
+    },
+    "protector": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:00.273Z"
+    },
+    "akoflow-driver-gcs-uploader": {
+      "contributors": [
+        {
+          "actor": "LuizMVB",
+          "avatar": "/media/fdcba329bac596aeb0ae9acdd82e.jpg",
+          "profileUrl": "https://github.com/LuizMVB"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:00.890Z"
+    },
+    "akoflow-driver-s3-uploader": {
+      "contributors": [
+        {
+          "actor": "LuizMVB",
+          "avatar": "/media/fdcba329bac596aeb0ae9acdd82e.jpg",
+          "profileUrl": "https://github.com/LuizMVB"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:00.890Z"
+    },
+    "-PROVGov-SoS": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:01.310Z"
+    },
+    "akoflow-aws-fedlearning-deployment": {
+      "contributors": [
+        {
+          "actor": "ovvesley",
+          "avatar": "/media/a02a2661e9f942b2e3cdc6b5fe3c.jpg",
+          "profileUrl": "https://github.com/ovvesley"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:01.441Z"
+    },
+    "akoflow-admin": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:01.868Z"
+    },
+    "akocloud": {
+      "contributors": [
+        {
+          "actor": "ovvesley",
+          "avatar": "/media/a02a2661e9f942b2e3cdc6b5fe3c.jpg",
+          "profileUrl": "https://github.com/ovvesley"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:01.869Z"
+    },
+    "Dataverse-Dados-de-Rede": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:02.457Z"
+    },
+    "SciCumulus": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:02.508Z"
+    },
+    "akorunner": {
+      "contributors": [
+        {
+          "actor": "ovvesley",
+          "avatar": "/media/a02a2661e9f942b2e3cdc6b5fe3c.jpg",
+          "profileUrl": "https://github.com/ovvesley"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:03.085Z"
+    },
+    "dlprov_dataverse": {
+      "contributors": [
+        {
+          "actor": "dbpina",
+          "avatar": "/media/75064bfa6e9646ea80cddaeca670.png",
+          "profileUrl": "https://github.com/dbpina"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:03.735Z"
+    },
+    "flare_prov": {
+      "contributors": [
+        {
+          "actor": "nymeria-42",
+          "avatar": "/media/eacf04fb76902ac7aa93e1ab9233.jpg",
+          "profileUrl": "https://github.com/nymeria-42"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:03.902Z"
+    },
+    "cyclops": {
+      "contributors": [
+        {
+          "actor": "rodrigo-prado",
+          "avatar": "/media/62628cb23a0e12392086957d41c8.png",
+          "profileUrl": "https://github.com/rodrigo-prado"
+        },
+        {
+          "actor": "yuri-frota",
+          "avatar": "/media/73b2c3149537dd6cf3c4435d057b.jpg",
+          "profileUrl": "https://github.com/yuri-frota"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:04.661Z"
+    },
+    "arani": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:04.788Z"
+    },
+    "CrimeDashboard": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:05.185Z"
+    },
+    "eduprov": {
+      "contributors": [
+        {
+          "actor": "NairaArruda84",
+          "avatar": "/media/ca86294aca534a989f4cdc0250be.png",
+          "profileUrl": "https://github.com/NairaArruda84"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:05.431Z"
+    },
+    "dlprov": {
+      "contributors": [
+        {
+          "actor": "dbpina",
+          "avatar": "/media/75064bfa6e9646ea80cddaeca670.png",
+          "profileUrl": "https://github.com/dbpina"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:05.824Z"
+    },
+    "Flower-PROV": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        },
+        {
+          "actor": "nymeria-42",
+          "avatar": "/media/eacf04fb76902ac7aa93e1ab9233.jpg",
+          "profileUrl": "https://github.com/nymeria-42"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:06.025Z"
+    },
+    "marin": {
+      "contributors": [
+        {
+          "actor": "italoportinho",
+          "avatar": "/media/5119375b1bd97f20f766e6e0c88e.jpg",
+          "profileUrl": "https://github.com/italoportinho"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:06.643Z"
+    },
+    "lsst-uff": {
+      "contributors": [
+        {
+          "actor": "marialuizafalci",
+          "avatar": "/media/12519978ac26356c2810b6ea3dbd.png",
+          "profileUrl": "https://github.com/marialuizafalci"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:06.850Z"
+    },
+    "athena-": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:07.055Z"
+    },
+    "okinawa": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:07.204Z"
+    },
+    "GRASPCC-LB": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:07.742Z"
+    },
+    "MAESTRO": {
+      "contributors": [
+        {
+          "actor": "luizgdias",
+          "avatar": "/media/7d87944d0e0a65e24c0429fdb0b4.jpg",
+          "profileUrl": "https://github.com/luizgdias"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:07.883Z"
+    },
+    "REPLACE": {
+      "contributors": [
+        {
+          "actor": "rmparanhos",
+          "avatar": "/media/e35a51a6556a3ee8168c12a036fa.jpg",
+          "profileUrl": "https://github.com/rmparanhos"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:08.493Z"
+    },
+    "NMFSt.P": {
+      "contributors": [
+        {
+          "actor": "JohKemPo",
+          "avatar": "/media/9af488cf24e7a096cbad357602ca.jpg",
+          "profileUrl": "https://github.com/JohKemPo"
+        },
+        {
+          "actor": "milabixcode",
+          "avatar": "/media/7130846099b2fda3085dcce58a8f.jpg",
+          "profileUrl": "https://github.com/milabixcode"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:08.682Z"
+    },
+    "SAMbA": {
+      "contributors": [
+        {
+          "actor": "thaylongs",
+          "avatar": "/media/ce23dce9b9aa3c423b73bd302b3e.jpg",
+          "profileUrl": "https://github.com/thaylongs"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        },
+        {
+          "actor": "marcosivni",
+          "avatar": "/media/7f515c2528dcbdb55e57529f34a4.png",
+          "profileUrl": "https://github.com/marcosivni"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:09.140Z"
+    },
+    "SambA-SciPhy": {
+      "contributors": [
+        {
+          "actor": "marcosivni",
+          "avatar": "/media/7f515c2528dcbdb55e57529f34a4.png",
+          "profileUrl": "https://github.com/marcosivni"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:09.290Z"
+    },
+    "ALTES": {
+      "contributors": [
+        {
+          "actor": "annieamorim",
+          "avatar": "/media/02d625960e97d63fe7ae1ee18555.jpg",
+          "profileUrl": "https://github.com/annieamorim"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:09.990Z"
+    },
+    "instructor": {
+      "contributors": [
+        {
+          "actor": "ribeirocv",
+          "avatar": "/media/e8553a4eca0ce2057dca1ea3bb2c.jpg",
+          "profileUrl": "https://github.com/ribeirocv"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:10.107Z"
+    },
+    "ironstone": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:10.585Z"
+    },
+    "TiME": {
+      "contributors": [
+        {
+          "actor": "annieamorim",
+          "avatar": "/media/02d625960e97d63fe7ae1ee18555.jpg",
+          "profileUrl": "https://github.com/annieamorim"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:10.693Z"
+    },
+    "CrimeRoutes": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:11.003Z"
+    },
+    "pandora": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:11.359Z"
+    },
+    "DfAnalyzer": {
+      "contributors": [
+        {
+          "actor": "vssousa",
+          "avatar": "/media/193a97dcda5d7750e127b219142d.jpg",
+          "profileUrl": "https://github.com/vssousa"
+        },
+        {
+          "actor": "viniciusscampos",
+          "avatar": "/media/da2561f5a85f5884160a582cb074.png",
+          "profileUrl": "https://github.com/viniciusscampos"
+        }
+      ],
+      "updates": [
+        {
+          "id": "14832729687",
+          "project": "DfAnalyzer",
+          "repoUrl": "https://github.com/UFFeScience/DfAnalyzer",
+          "actor": "lobomatheus",
+          "avatar": "https://avatars.githubusercontent.com/u/50490187?",
+          "profileUrl": "https://github.com/lobomatheus",
+          "action": "proposed a contribution",
+          "title": "",
+          "url": "https://github.com/UFFeScience/DfAnalyzer",
+          "category": "Collaboration",
+          "date": "2026-09-11T03:25:50Z"
+        }
+      ],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:11.586Z"
+    },
+    "Hurricane": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:11.908Z"
+    },
+    "Polyflow": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:12.191Z"
+    },
+    "bioprov": {
+      "contributors": [
+        {
+          "actor": "vinisalazar",
+          "avatar": "/media/431e6faa27464e50825b768c7974.jpg",
+          "profileUrl": "https://github.com/vinisalazar"
+        },
+        {
+          "actor": "jvfe",
+          "avatar": "/media/8b4c94404cfbb70e443add1a43c4.jpg",
+          "profileUrl": "https://github.com/jvfe"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:12.621Z"
+    },
+    "newscollab": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:12.652Z"
+    },
+    "ReASSIgN": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:13.153Z"
+    },
+    "orbiter": {
+      "contributors": [
+        {
+          "actor": "JPedro-loureiro",
+          "avatar": "/media/c1e06857928cb999e8644550ae2b.jpg",
+          "profileUrl": "https://github.com/JPedro-loureiro"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:13.348Z"
+    },
+    "dimply": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:13.684Z"
+    },
+    "diversity_browsing": {
+      "contributors": [
+        {
+          "actor": "Jasbick",
+          "avatar": "/media/d8cd8d20491dd130a4dbcbec2f92.jpg",
+          "profileUrl": "https://github.com/Jasbick"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:13.868Z"
+    },
+    "uff_snap": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:14.119Z"
+    },
+    "TEMPO": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:14.212Z"
+    },
+    "OntoExpLine": {
+      "contributors": [
+        {
+          "actor": "luizgdias",
+          "avatar": "/media/7d87944d0e0a65e24c0429fdb0b4.jpg",
+          "profileUrl": "https://github.com/luizgdias"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:14.778Z"
+    },
+    "LetItRain": {
+      "contributors": [
+        {
+          "actor": "bcunhasa",
+          "avatar": "/media/b6c64efb14276ab5d96a20d3ef35.png",
+          "profileUrl": "https://github.com/bcunhasa"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:15.249Z"
+    },
+    "HEA": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:15.320Z"
+    },
+    "POStURE": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        },
+        {
+          "actor": "kvvaldez",
+          "avatar": "/media/b7eb18788baa52eaa635c7bc751a.png",
+          "profileUrl": "https://github.com/kvvaldez"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:15.829Z"
+    },
+    "Phenomanager": {
+      "contributors": [
+        {
+          "actor": "LeonardoRamos",
+          "avatar": "/media/7bb69b4b083f84e9832085f44680.png",
+          "profileUrl": "https://github.com/LeonardoRamos"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:16.208Z"
+    },
+    "OFIP": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:16.293Z"
+    },
+    "SPACE": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:16.886Z"
+    },
+    "Wf-GPU": {
+      "contributors": [
+        {
+          "actor": "d5storm",
+          "avatar": "/media/20b7b0fd231aaec4b715d0c70af1.jpg",
+          "profileUrl": "https://github.com/d5storm"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:16.981Z"
+    },
+    "LDA-DB": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:17.318Z"
+    },
+    "Myria": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:17.541Z"
+    },
+    "SciManager": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:17.934Z"
+    },
+    "PRELUDE": {
+      "contributors": [
+        {
+          "actor": "alinepaes",
+          "avatar": "/media/54eaaed52e3e54be6443fc296b1c.jpg",
+          "profileUrl": "https://github.com/alinepaes"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:17.991Z"
+    },
+    "Df-ASet": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:18.453Z"
+    },
+    "Tennis-Analytics": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:18.593Z"
+    },
+    "C-ParGRES": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:19.048Z"
+    },
+    "OPTIC": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:19.466Z"
+    },
+    "CRiMINaL": {
+      "contributors": [
+        {
+          "actor": "vitornl",
+          "avatar": "/media/2a6dc82153b94aa696c9b9fdad7b.png",
+          "profileUrl": "https://github.com/vitornl"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:19.566Z"
+    },
+    "FTT": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:19.966Z"
+    },
+    "Cognitive-Game-Analytics": {
+      "contributors": [
+        {
+          "actor": "dsnardi",
+          "avatar": "/media/d550c976e1cb47d0786b937d9453.png",
+          "profileUrl": "https://github.com/dsnardi"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:20.050Z"
+    },
+    "FFT": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:20.408Z"
+    },
+    "CognitiveTraining": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:20.425Z"
+    },
+    "Systematic-Mapping-of-Software-Requirements-Negotiation-Techniques": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:20.983Z"
+    },
+    "PredFail": {
+      "contributors": [
+        {
+          "actor": "danieljunior",
+          "avatar": "/media/5264f9ed0c35df0a89a08d0ee4f5.jpg",
+          "profileUrl": "https://github.com/danieljunior"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:21.220Z"
+    },
+    "Tupi": {
+      "contributors": [],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:21.651Z"
+    },
+    "SciAgile": {
+      "contributors": [
+        {
+          "actor": "acrromeiro",
+          "avatar": "/media/874c4d43d4dcc6115ce54d4507e0.jpg",
+          "profileUrl": "https://github.com/acrromeiro"
+        },
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:21.774Z"
+    },
+    "Spielzyklus": {
+      "contributors": [
+        {
+          "actor": "danielcmo",
+          "avatar": "/media/81034f523dc79f317a2280732a2e.jpg",
+          "profileUrl": "https://github.com/danielcmo"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:22.290Z"
+    },
+    "ParGRES": {
+      "contributors": [
+        {
+          "actor": "assis",
+          "avatar": "/media/d3cbc53b3b389ae52564d947ee49.jpg",
+          "profileUrl": "https://github.com/assis"
+        }
+      ],
+      "updates": [],
+      "contributorsAvailable": true,
+      "updatesAvailable": true,
+      "fetchedAt": "2026-10-08T16:37:22.363Z"
+    }
+  },
+  "fetchedAt": "2026-10-08T16:37:22.363Z"
+}

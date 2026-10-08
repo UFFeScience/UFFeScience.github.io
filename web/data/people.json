@@ -1,0 +1,2803 @@
+{
+  "fetchedAt": "2026-10-08T16:29:03.478862+00:00",
+  "daniel": {
+    "id": "daniel",
+    "name": "Daniel de Oliveira",
+    "url": "https://danielcmo.github.io/",
+    "imageUrl": "https://danielcmo.github.io/arquivos/Daniel.jpeg",
+    "image": "/media/1c017b766098c64387917f65fa8f.jpg"
+  },
+  "students": [
+    {
+      "id": "a3d4a4a6dfcac35d",
+      "name": "Valesca Moura de Sousa",
+      "imageUrl": "https://danielcmo.github.io/arquivos/valesca.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/aa36dcac7b955501ac246a1e88f4.jpg"
+    },
+    {
+      "id": "663afaf595875c75",
+      "name": "Wesley Santos Ferreira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/1729136299931.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/81dab37edd3e746f3385f730faef.jpg"
+    },
+    {
+      "id": "6dc227b51c62ccb3",
+      "name": "Paula do Nascimento Woyames",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Paula.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/0ff49b1ff4cd3e5d44a86d78a18b.jpg"
+    },
+    {
+      "id": "68ee381e46413fc6",
+      "name": "Italo Leite Ferreira Portinho",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Italo.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/4a2abbdb2adf4f569404144d275b.jpg"
+    },
+    {
+      "id": "164bd54eb8cf329b",
+      "name": "Thiago da Costa Jordão",
+      "imageUrl": "https://danielcmo.github.io/arquivos/ThiagoJordao.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/95bbcd04881a034f14b4959cee5b.jpg"
+    },
+    {
+      "id": "cff8ae55cedeb505",
+      "name": "Layse Gomes Castro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Layse.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/fb87da94da1ec57fb28bc49a5358.jpg"
+    },
+    {
+      "id": "d0969ded2385a504",
+      "name": "Matheus Nascimento",
+      "imageUrl": "https://danielcmo.github.io/arquivos/MatheusNascimento.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/1405d65d864a49b68d2458017e26.jpg"
+    },
+    {
+      "id": "b02e33a5b1070b4f",
+      "name": "Janaina Borges",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Janaina.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/bf6be16a543a3f6438c6113aaa09.jpg"
+    },
+    {
+      "id": "94c332e72a860502",
+      "name": "Douglas Brum",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Douglas.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/67d4d0dbd5f77e40ecd0a00177bd.jpg"
+    },
+    {
+      "id": "30040378cbf02de2",
+      "name": "Daniel Pinheiro da Silva Junior",
+      "imageUrl": "https://danielcmo.github.io/arquivos/DanielJr.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/a6f375def64575131349d82505cd.jpg"
+    },
+    {
+      "id": "6fc985cb654707d6",
+      "name": "Luis Carlos Ramos Alvarenga",
+      "imageUrl": "https://danielcmo.github.io/arquivos/alvarenga.png",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/521fbcc243b0278cd3bb6aeca34a.png"
+    },
+    {
+      "id": "7ce63022afcce373",
+      "name": "Camila de Oliveira Lopes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/CamilaLopes.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/4eba1f2f850ab5b8ae164248d946.jpg"
+    },
+    {
+      "id": "8f4962f95041b2ef",
+      "name": "Gustavo Alexandre Sousa Santos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/gustavo_alex.png",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/c0b729c5f5b38ded76fc9ff23943.png"
+    },
+    {
+      "id": "20ce5facdee28c42",
+      "name": "Tobias Ribeiro Barreto",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Tobias.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/b364484a994941ac71ffa78f8943.jpg"
+    },
+    {
+      "id": "51565848f589c78d",
+      "name": "Maria Luiza Furtuozo Falci",
+      "imageUrl": "https://danielcmo.github.io/arquivos/MariaLuiza.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/96e5ffa16e1a8604b15755a3ae3b.jpg"
+    },
+    {
+      "id": "76fcb7692eb8f810",
+      "name": "Annie Vianna Amorim",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Annie.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/486b9a58b00dd7d46d693ce8c3f2.jpg"
+    },
+    {
+      "id": "5f8efbb2bb0e0ccf",
+      "name": "Lyncoln Sousa de Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lyncoln.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/cd8df8bdab81a66fcd269980228e.jpg"
+    },
+    {
+      "id": "d66aba7abf653c4a",
+      "name": "Marcello Willians Messina Ribeiro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Marcello.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/221c0fbe1e092273582166a1901c.jpg"
+    },
+    {
+      "id": "6fd1a1c818c3636e",
+      "name": "Luiz Gustavo Dias",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LuizGustavo.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/0610c0a3211923bf0165c0745fd5.jpg"
+    },
+    {
+      "id": "5157ff834b2341cc",
+      "name": "João Vítor Mendonça de Moraes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/JoaoMoraes.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/3eb7cc11e4423ebfdbb7675e12f7.jpg"
+    },
+    {
+      "id": "294fdfb3a36b3a77",
+      "name": "Daniele Pimenta",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Daniele.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/0b828a303bc4f2db83d754830e23.jpg"
+    },
+    {
+      "id": "331963ad0353f665",
+      "name": "Juliana Moura",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Juliana.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/e4222ca96c92ec773e1bbf5db2a7.jpg"
+    },
+    {
+      "id": "c200902c74290715",
+      "name": "Lylian Pacheco",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lylian.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/8fc27e0515909f64514986a79441.jpg"
+    },
+    {
+      "id": "fd78f8f9d4b38657",
+      "name": "Alonso Brêda Bassin",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Alonso.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/47e3054de7da81ab414ac52522bc.jpg"
+    },
+    {
+      "id": "9ed09f12574b4eae",
+      "name": "Miguel Jehle",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Miguel.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/6eea5668ed4339492af8dccfeb71.jpg"
+    },
+    {
+      "id": "1b802c3839257923",
+      "name": "Lucca Possas",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lucca.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/322c5ad691a95e9c9209ae67d0a0.jpg"
+    },
+    {
+      "id": "3968924b8330e8e6",
+      "name": "Elena Costa Blanco",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Elena.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/ec080808207db9befb91746c8293.jpg"
+    },
+    {
+      "id": "f41f412931c3903c",
+      "name": "Josué Santos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Josue.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/8e453af83a71ae4a584b46d35307.jpg"
+    },
+    {
+      "id": "0c18ee7ce1d550a7",
+      "name": "Mathews Vaz Reis",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "d3db0f4295310a30",
+      "name": "Rodrigo Teixeira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/RodrigoTeixeira.webp",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/d51eb0f32dcfe348f1cdd4463bf4.webp"
+    },
+    {
+      "id": "ba97e71f948dcb45",
+      "name": "Vinícius Barreto",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "55214c85c47d4020",
+      "name": "João Victor Mainoth Pereira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/JoaoMainoth.webp",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/ef009faaa25b8acdfa0854ddc556.webp"
+    },
+    {
+      "id": "f7edf7739903c64e",
+      "name": "Daniel Henrique Vieira Fontoura",
+      "imageUrl": "https://danielcmo.github.io/arquivos/DanielHenrique.webp",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": true,
+      "image": "/media/8c4adfa20585deae7c40d89c7eac.webp"
+    },
+    {
+      "id": "0ddfc5be4042ad55",
+      "name": "Débora Barbosa Pina",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Debora.jpeg",
+      "url": "https://www.cos.ufrj.br/uploadfile/publicacao/3208.pdf",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Provenance Data as a First-Class Citizen for Deep Learning Workflow Analyses",
+          "url": "https://www.cos.ufrj.br/uploadfile/publicacao/3208.pdf"
+        }
+      ],
+      "current": false,
+      "image": "/media/26fd5b5f604bada8f5b701b7c0fc.jpg"
+    },
+    {
+      "id": "a07ffa87ab999fe4",
+      "name": "Claudio Vasconcelos Ribeiro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/ClaudioRibeiro.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1177.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "A Collaborative Analysis of Anomalous Trajectories of Vessels Based on Clustering Algorithms",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1177.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/c05044603ce16b0219628bbc03e3.jpg"
+    },
+    {
+      "id": "1c798c196fa606fe",
+      "name": "Rodrigo Alves Prado da Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Rodrigo.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1235.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "CYCLOPS: Uma Abordagem para Escalonamento de Workflows em Nuvens de Computadores com Restrições de Confidencialidade",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1235.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/ef7cbfae9c619c297cbb438ee84f.jpg"
+    },
+    {
+      "id": "67794f0bae0297d3",
+      "name": "Liliane Neves de Oliveira Kunstmann",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Liliane.jpeg",
+      "url": "https://www.cos.ufrj.br/uploadfile/publicacao/3192.pdf",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Apoio à Implantação de Workflows Conteinerizados",
+          "url": "https://www.cos.ufrj.br/uploadfile/publicacao/3192.pdf"
+        }
+      ],
+      "current": false,
+      "image": "/media/671758a57a82bc659105a7265ff5.jpg"
+    },
+    {
+      "id": "1935b0a02f86692c",
+      "name": "Wellington Moreira de Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Wellington.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=849.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Integrated Analysis of Heterogeneous Provenance Graphs",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=849.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/5776fe98988b9d830854075cb90d.jpg"
+    },
+    {
+      "id": "1e0bb0e763792e17",
+      "name": "Vítor Silva Sousa",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Vitor.jpeg",
+      "url": "https://www.cos.ufrj.br/uploadfile/publicacao/2853.pdf",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Análise de Dados Científicos Sobre Múltiplas Fontes de Dados ao Longo da Execução de Simulações Computacionais",
+          "url": "https://www.cos.ufrj.br/uploadfile/publicacao/2853.pdf"
+        }
+      ],
+      "current": false,
+      "image": "/media/f966b6762a79457f05a7f6aaa71f.jpg"
+    },
+    {
+      "id": "813426123d98343c",
+      "name": "Douglas Ericson Marcelino de Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Douglas.jpg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=841.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Otimização da Execução de Workflows Intensivos de Dados em Frameworks MapReduce",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=841.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/534116b5032b160e363bdb79e6d4.jpg"
+    },
+    {
+      "id": "70c6efab776914c5",
+      "name": "Flavio da Silva Costa",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Flavio.jpeg",
+      "url": "https://www.cos.ufrj.br/uploadfile/publicacao/2636.pdf",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Uma Abordagem Distribuída e Adaptativa para a Gerência dos Dados de Proveniência de Experimentos Científicos Executados em Nuvens Computacionais",
+          "url": "https://www.cos.ufrj.br/uploadfile/publicacao/2636.pdf"
+        }
+      ],
+      "current": false,
+      "image": "/media/b2ebabbb20404173eeb1fcb29c86.jpg"
+    },
+    {
+      "id": "57daf5fa22ed4270",
+      "name": "Ary Henrique Morais de Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ary.jpeg",
+      "url": "https://www.cos.ufrj.br/uploadfile/publicacao/2584.pdf",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Reprodução de Experimentos Computacionais na Infraestrutura de Computação em Nuvem",
+          "url": "https://www.cos.ufrj.br/uploadfile/publicacao/2584.pdf"
+        }
+      ],
+      "current": false,
+      "image": "/media/bdc35fb21fec1d828f407068dd61.jpg"
+    },
+    {
+      "id": "79627a611d6de874",
+      "name": "Naira Alice Andrade Arruda",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Naira.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1250.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Uso de Dados de Proveniência para Análise do Ensino de Programação Baseada em Blocos",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1250.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/42682974e8e705953ca2412715c0.jpg"
+    },
+    {
+      "id": "9cb81722b8aad592",
+      "name": "Ygor Carlos Ferreira Rolim",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ygor.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1283.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Derrubando Silos na Pesquisa Científica: Conectando Dados, Código e Escrita por meio da Abordagem Triptych",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1283.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/a001185dcc2f9894c9e89208cf97.jpg"
+    },
+    {
+      "id": "e6de108427710e9c",
+      "name": "Jessica Louise Monçôres de Almeida",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1281.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Governança de Dados em Sistemas-de-Sistemas por meio de Dados de Proveniência",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1281.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "ae1dc43f4ff84a9f",
+      "name": "Raiza Correia de Albuquerque",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Raiza.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1252.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Uma Abordagem para Adequação de Pipelines de Extração, Transformação e Carga à Lei Geral de Proteção de Dados",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1252.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/48a8584a94b8ff674d1f1c14c245.jpg"
+    },
+    {
+      "id": "d2729ccfed60f1f7",
+      "name": "Raslan Oliveira Ribeiro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Raslan.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1161.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "APOENA: uma Abordagem de Dimensionamento de Ambiente de Nuvem para Execução de Cargas de trabalho SQL-like por meio de Aprendizado de Máquina e Dados de Proveniência",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1161.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/22df03717f82df0ec0f1e358ff49.jpg"
+    },
+    {
+      "id": "e1452bc344bb892d",
+      "name": "Raffael Muralha Paranhos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Raffael.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1158.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "A Provenance-Based Approach for Land Use Analysis in Cities",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1158.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/736c354d078a9cc3b57d7f3ce76a.jpg"
+    },
+    {
+      "id": "ca918faefd7a6f48",
+      "name": "Amanda Flor",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Amanda.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1234.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "UTK-PROV: Analisando a Construção de Visualizações Web Urbanas Baseadas em Gramática Através de Proveniência",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1234.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/4c00d457e216057b3bb17e24fdca.jpg"
+    },
+    {
+      "id": "21a3cdc348f3b503",
+      "name": "Fabio Victorino da Cruz",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Fabio.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1186.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Monitoramento em Tempo Real e Análise Histórica das Chuvas e seus Impactos em Áreas Urbanas",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1186.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/7dc18fedfde4ff5018d2d19562c4.jpg"
+    },
+    {
+      "id": "a68cf5d5059057b3",
+      "name": "Bruna de Mello Almeida",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Bruna.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1201.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Otimização de Parâmetros em Aplicações de Big Data Baseadas em Múltiplos Frameworks",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1201.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/286d41d693d335c17acc4e4c91ba.jpg"
+    },
+    {
+      "id": "969d46b8529ac786",
+      "name": "Matheus Antunes Vieira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1198.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Enriquecimento do Processo de ETL em Data Warehouses por meio de Dados de Proveniência",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1198.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "8c8c9c96e4329afa",
+      "name": "Elbe Alves Miranda",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Elbe.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1146.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "O SPARQL Pode Falar em Português? Respondendo a Perguntas em Linguagem Natural Direcionadas a Grafos de Conhecimento",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1146.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/286967e88462e43c89d686008e91.jpg"
+    },
+    {
+      "id": "a2eb8ee07c27cbb3",
+      "name": "Luis Felipe Xavier Augusto de Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/felipe.png",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1149.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Mapeamento de Rotas para Resposta de Emergência a Eventos Climáticos: Uma Abordagem Orientada por Dados",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1149.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/a91f47cff9db677a3e6eb3bb29e9.png"
+    },
+    {
+      "id": "26c328e1b49a5c8b",
+      "name": "Wagner Guimarães Santos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Wagner.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1141.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "PANDORA: Uma Plataforma Colaborativa para Transcrição Semiautomática de Boletins de Ocorrência Manuscritos",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1141.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/7ec03f3cbc30967385509b267bf4.jpg"
+    },
+    {
+      "id": "ff95bb471e48cbc8",
+      "name": "Gustavo Decarlo Ferreira Secchim",
+      "imageUrl": "https://danielcmo.github.io/arquivos/GustavoDecarlo.jpeg",
+      "url": "https://tede.lncc.br/bitstream/tede/371/5/Dissertacao_Gustavo%20Decarlo%20Ferreira%20Secchim.pdf",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Otimização de dataflows em frameworks de big data por meio do reúso de dados",
+          "url": "https://tede.lncc.br/bitstream/tede/371/5/Dissertacao_Gustavo%20Decarlo%20Ferreira%20Secchim.pdf"
+        }
+      ],
+      "current": false,
+      "image": "/media/c1f281b29bbe400e571a88637edd.jpg"
+    },
+    {
+      "id": "56a35b835e212f0c",
+      "name": "Lorenna Christ'na Araújo Nascimento",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lorenna.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1056.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Análise de Abordagens de Gerência de Dados para Apoiar a Visualização Interativa de Dados Pluviométricos",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1056.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/d9bf81e24b0eec3f73567eec206a.jpg"
+    },
+    {
+      "id": "7a199752480c47db",
+      "name": "Maicon Ribeiro Banni",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Maicon.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1070.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "HURRICANE: Um Serviço para Integração de Dados de Aplicações de Cidades Inteligentes",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1070.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/405e641c6762ca14926db38c460e.jpg"
+    },
+    {
+      "id": "de778be258d6eff8",
+      "name": "Lucas Bertelli Martins",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LucasBertelli.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1034.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "DIMPLY: Uma Abordagem para Privacidade Diferencial em Sistemas Polystore",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1034.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/1000e56137e014c2391db166a205.jpg"
+    },
+    {
+      "id": "2e388212dcf5b039",
+      "name": "Daniel Leonardo Jasbick",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Jasbick.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1017.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Buscas por Similaridade Diversificada com o Apoio de Índices Métricos",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=1017.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/2564fc9ecd895a52206f6fc9f39e.jpg"
+    },
+    {
+      "id": "d3f677dcf4ff0cba",
+      "name": "Lucas de Souza Tito",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LucasTito.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=995.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Gerência de Data Lakes Científicos com o ξ-DL: um estudo de caso da COVID-19",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=995.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/3341f80ca3c7c1302ed736822ce8.jpg"
+    },
+    {
+      "id": "2123c63df30645a0",
+      "name": "Yan Mendes Ferreira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Yan.jpeg",
+      "url": "https://repositorio.ufjf.br/jspui/bitstream/ufjf/12302/1/yanmendesferreira.pdf",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Polyflow: a Polystore-compliant mechanism to provide interoperability to heterogeneous provenance graphs",
+          "url": "https://repositorio.ufjf.br/jspui/bitstream/ufjf/12302/1/yanmendesferreira.pdf"
+        }
+      ],
+      "current": false,
+      "image": "/media/b3f9526a300bbe9f68c40e01808b.jpg"
+    },
+    {
+      "id": "9af500668077b6bc",
+      "name": "Leonardo Sousa Lima Ramos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LeoRamos.png",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=930.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "PhenoManager: Uma Abordagem para Gerência de Hipóteses Científicas",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=930.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/23f61b714f8231e42d6aa61fce77.png"
+    },
+    {
+      "id": "4d623428d277f3de",
+      "name": "Filipe Tadeu Santiago da Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/FelipeSantiago.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=955.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Uma Abordagem para a Execução de Workflows Científicos Intensivos em Ambientes de Computação em Nuvem Híbridos",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=955.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/fc1658df8e6d8d99e2a352eb87f0.jpg"
+    },
+    {
+      "id": "c85a255fc72dc19d",
+      "name": "Carlos Gracioli Neto",
+      "imageUrl": "https://danielcmo.github.io/arquivos/CarlosGracioli.jpg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=912.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Uma Abordagem baseada em Definição de Escopo e Elementos Esperados para Apoiar Inspeção de Modelos de Software",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=912.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/83e6720ba4dc90fab0fbfc380488.jpg"
+    },
+    {
+      "id": "e670e83c32b35045",
+      "name": "Kid Yonatan Valeriano Valdez",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Kid.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=926.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "POStURE: A Framework for Unsupervised Semantic Analysis of Political Speeches",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=926.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/ab2c6dee1b437ff937f1d1cb5c77.jpg"
+    },
+    {
+      "id": "c1d34d4666d4c525",
+      "name": "Hugo Arraes Henley",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Hugo.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=870.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Prelude: uma Arquitetura para Análise de Evasão no Ensino Superior por meio de Aprendizado de Máquina Relacional",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=870.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/cff07e0a51be83c14e60c75b5c5f.jpg"
+    },
+    {
+      "id": "ea7cb4daa2b57c95",
+      "name": "André Luís da Costa Nascimento",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Andre.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=892.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Uma Estratégia de Escalonamento baseada em Aprendizado por Reforço para Workflows Científicos em Nuvens de Computadores",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=892.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/1f38e24ed5f4540b8cadb2ff46d7.jpg"
+    },
+    {
+      "id": "f0177551b7f5e7be",
+      "name": "Thaylon Guedes Santos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Thaylon.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=876.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Análise e Captura de Dados de Proveniência no Apache Spark",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=876.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/7ee141e816fa86e151ec42457afc.jpg"
+    },
+    {
+      "id": "b9046d8ad1357ab5",
+      "name": "Augusto Consulmagnos Romeiro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Augusto.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=761.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "SciAgile: Uma Abordagem Ágil em Processos de Experimentação Científica",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=761.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/080c6f9a9d6d3100cbccf5115df8.jpg"
+    },
+    {
+      "id": "6f219e87e9ffd00d",
+      "name": "Leonardo Araújo de Jesus",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LeonardoAraujo.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=788.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Tolerância a Falhas Em Workflows Científicos Executados em Nuvens Computacionais",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=788.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/1334d8f217c3695c586b2cfb5d51.jpg"
+    },
+    {
+      "id": "d4219005fd8666bf",
+      "name": "Igor Barreto Rodrigues",
+      "imageUrl": "https://danielcmo.github.io/arquivos/IgorBarreto.png",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=728.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Uma Abordagem Hierárquica para Escalonamento de Atividades de Workflows Científicos Executados em Nuvens de Computadores",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=728.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/f731ff9605ddb3b1fae2a5684b77.png"
+    },
+    {
+      "id": "5cb090970ce990af",
+      "name": "Lidson Barbosa Jacob",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lidson.jpeg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=691.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Spielzyklus: Identificando Padrões de Ciclos em Dados de Proveniência Extraídos de Forma não Intrusiva",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=691.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/5b29f863bf431f8e39c763d4fd6b.jpg"
+    },
+    {
+      "id": "9987ed1908f92b5d",
+      "name": "Rainier Augusto Ferreira Sales",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Rainier.jpg",
+      "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=631.pdf&tipo=trabalho",
+      "linkKind": "work",
+      "links": [
+        {
+          "label": "Aplicação de NPC Afetivo em Jogos de Simulação",
+          "url": "https://www.ic.uff.br/wp-content/tesesedissertacoes/frontend-tesesdissertacoes/download.php?id=631.pdf&tipo=trabalho"
+        }
+      ],
+      "current": false,
+      "image": "/media/d2f7ecbf0c0e4e97d76435567866.jpg"
+    },
+    {
+      "id": "21efdd0cc415bb45",
+      "name": "Raphael Reis Garcia",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Raphael.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6ce0beb6f9e28e3ce8f21d170176.jpg"
+    },
+    {
+      "id": "dc4a87586f715e33",
+      "name": "Lucas Aguiar Tostes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LucasTostes.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/8877b4e7a4f231e34504070df991.jpg"
+    },
+    {
+      "id": "4fa0b6e2fa2c31bd",
+      "name": "Lucas Natan França Costa",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LucasNatan.webp",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/2bc85d0e0e809fa63b2b12721aed.webp"
+    },
+    {
+      "id": "99cd00a88578653e",
+      "name": "Pedro Costa Xavier",
+      "imageUrl": "https://danielcmo.github.io/arquivos/PedroCosta.webp",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c6eacb1396c36568e6d3d6f8fec0.webp"
+    },
+    {
+      "id": "51bfec4206d7b78d",
+      "name": "Gabriel Silva Marinho",
+      "imageUrl": "https://danielcmo.github.io/arquivos/GabrielMarinho.webp",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c881dc903f5b281c4d70b5b1c9d8.webp"
+    },
+    {
+      "id": "6b57ec5854ef030d",
+      "name": "Laryssa Machado Rabelo de Paiva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Laryssa.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/ab1540e01e7ab0f8be591488dc2d.jpg"
+    },
+    {
+      "id": "97c2926794034dac",
+      "name": "Willian de Jesus Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Willian.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/9d76818284c1d194bdf10b583540.jpg"
+    },
+    {
+      "id": "e36555a31029453d",
+      "name": "Leonardo Menezes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LeonardoMenezes.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/809089662d1294155099892470d7.jpg"
+    },
+    {
+      "id": "15c8e0e6981cc8eb",
+      "name": "Ugo Gemesio",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ugo.png",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/168312693d277831ae3580583e76.png"
+    },
+    {
+      "id": "0431f26648582546",
+      "name": "Bruno Gabriel Montate da Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/BrunoGabriel.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/62439e58f2631ee9254bfc34f6fc.jpg"
+    },
+    {
+      "id": "f1dcae01e0579f19",
+      "name": "Matheus Lima",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Matheus.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/1cafa85cab48a9a1e599c9452aea.jpg"
+    },
+    {
+      "id": "2a80e7856504c7b9",
+      "name": "Tiago Matos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/TiagoMatos.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/bd2742f02ff02b98fe430e3de3f9.jpg"
+    },
+    {
+      "id": "bc6fc71bc55edeaf",
+      "name": "Bruno Cotelo",
+      "imageUrl": "https://danielcmo.github.io/arquivos/BrunoCotelo.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/68b83ea2648cd3b2b13d55d9b420.jpg"
+    },
+    {
+      "id": "66819a011ea5bc08",
+      "name": "Mariana Coutinho",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Mariana.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c7a7eee6c45c0878051d35cc5cf7.jpg"
+    },
+    {
+      "id": "bd2b6151b70f05a5",
+      "name": "Felipe Gomes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/FelipeGomes.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/392b4e711bcaa4dc59d85fd7ad60.jpg"
+    },
+    {
+      "id": "7b5081b1709859c3",
+      "name": "Wesley Ferreira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/1729136299931.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/81dab37edd3e746f3385f730faef.jpg"
+    },
+    {
+      "id": "ddbb606515bba34f",
+      "name": "Winne Rodrigues",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Winne.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6424377eb69dec7e75295dfb8bec.jpg"
+    },
+    {
+      "id": "d8a2334a97326f9e",
+      "name": "Isaac Ferreira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Isaac.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/354708b6104e41b0a194bd0d78ab.jpg"
+    },
+    {
+      "id": "d5a1068754dd269f",
+      "name": "Camila Ferrari",
+      "imageUrl": "https://danielcmo.github.io/arquivos/CamilaFerrari.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/179d96ec83414810ec0292161f21.jpg"
+    },
+    {
+      "id": "1487f6ef96360389",
+      "name": "Thomaz Lisbôa",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Thomaz.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/36d7aa023bd73bfe2e2d2e63c119.jpg"
+    },
+    {
+      "id": "407872c5e7c88030",
+      "name": "Lorenzo Aceti",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lorenzo.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/27e674924eef77f0baeba7bd0ff8.jpg"
+    },
+    {
+      "id": "1fc81fbbc51b3d36",
+      "name": "Guilherme Fernandes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Guilherme.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/2b43551423d277f301510cf1fb6b.jpg"
+    },
+    {
+      "id": "26bcbc1395035286",
+      "name": "Philippe Simões",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Philippe.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/b5aef8cc22957366225cff78cede.jpg"
+    },
+    {
+      "id": "4e734ba11ebe22b0",
+      "name": "Paula Fernandes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/PaulaFernandes.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/e4bf9f30b1bcfb8bddfa8a7eeedc.jpg"
+    },
+    {
+      "id": "3e64f3844df15762",
+      "name": "Rodrigo Cavote",
+      "imageUrl": "https://danielcmo.github.io/arquivos/RodrigoCavote.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/80e938573721ef10ad8120b819a3.jpg"
+    },
+    {
+      "id": "bf36a7c32ebdef42",
+      "name": "Bruno Belizário",
+      "imageUrl": "https://danielcmo.github.io/arquivos/BrunoBelizario.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/1656120c4127776ed290aff91334.jpg"
+    },
+    {
+      "id": "bbf377e7df1b21d2",
+      "name": "Ana Luisa Esposito",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ana.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c9223ca2244bcba4a364225d965a.jpg"
+    },
+    {
+      "id": "c7c15cdea8402486",
+      "name": "Lucas Rogério Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lucas.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/87bcaa9fb65226ecebebc6a9cf66.jpg"
+    },
+    {
+      "id": "ece06bf615d3ede7",
+      "name": "Rodolfo Chagas",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Rodolfo.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/9c9735a1a8119b08fd70a545568e.jpg"
+    },
+    {
+      "id": "9a355cae13593478",
+      "name": "Geison Leonino De Souza Ferreira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "7dfb12990e74b03a",
+      "name": "Maycon Prata",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Maycon.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/b4d5af5a89f9926bd5dbac98d1ef.jpg"
+    },
+    {
+      "id": "4efbb91c090b37e2",
+      "name": "Caio Wey de Barros",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Caio.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/3177b2e171bdfd14eacd8460a403.jpg"
+    },
+    {
+      "id": "c1b5c71c70eb6714",
+      "name": "Igor Lisboa",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Igor.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/630bb465846210dfbcd21328d51f.jpg"
+    },
+    {
+      "id": "ec86cdaa20bba208",
+      "name": "Yago Azedias",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Yago.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/1b281782fa5a7292163469708005.jpg"
+    },
+    {
+      "id": "d3d300c289137d49",
+      "name": "Nicolas Nascimento Atmatzides",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Nicolas.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/79367446583389cb4f506884e3a5.jpg"
+    },
+    {
+      "id": "425327de2669ad74",
+      "name": "Victor Faria de Souza",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "d8eb4ec738408386",
+      "name": "João Loureiro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/JoaoLoureiro.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/632727e960c2cc19e2d54b1a4aa2.jpg"
+    },
+    {
+      "id": "2cbb4b8f16bcd003",
+      "name": "Lucas Knust",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LucasKnust.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6275e534caa1cdfc45ef06751988.jpg"
+    },
+    {
+      "id": "e21027a38a14a054",
+      "name": "Ramon Santos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ramon.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c11f40698718936ef505d6315c88.jpg"
+    },
+    {
+      "id": "985078a90aeabddf",
+      "name": "Amanda Tamires Inacio",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Amanda.png",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/ca889ba91e6ea8eb1294b2f50c42.png"
+    },
+    {
+      "id": "9d8040c51ea850c1",
+      "name": "Sophia Duboc",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Sophia.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6b86ef8dce2b6e0ad94d1e47ca56.jpg"
+    },
+    {
+      "id": "f044c85559401f84",
+      "name": "Anna Areias",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Anna.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6da33a057de81aa4b8bc23484093.jpg"
+    },
+    {
+      "id": "6814c4cad15fbeaf",
+      "name": "Lenora Beaurepaire Schwaitzer",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lenora.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/44dccd9c295fe28b47db49f4181c.jpg"
+    },
+    {
+      "id": "830f56b97f35117e",
+      "name": "Juliana Mesquita",
+      "imageUrl": "https://danielcmo.github.io/arquivos/JulianaMesquita.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/13590f5c73ce50292c0037e810bf.jpg"
+    },
+    {
+      "id": "825444752e9e0742",
+      "name": "Mateus Kono",
+      "imageUrl": "https://danielcmo.github.io/arquivos/mateus.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/df39562e9a551d6ca9f84fcec136.jpg"
+    },
+    {
+      "id": "3c60ccebbbd6fddb",
+      "name": "Leandro Shibahara",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Leandro.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/3ec860a250e4ab58043d3f3ff03e.jpg"
+    },
+    {
+      "id": "52783553089ba884",
+      "name": "Renato De Vico",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Renato.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/73127a3e4bb633e2110c7ff2b5d3.jpg"
+    },
+    {
+      "id": "0beb3f968382766f",
+      "name": "Daniela Siqueira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "48bf895deb2cd419",
+      "name": "Isabela Alves de Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "5aabc9b4021efb5a",
+      "name": "Diego Duarte",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Diego.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/e50b81767441bb5e6d7f2056ac3e.jpg"
+    },
+    {
+      "id": "cbd6688b820f1d16",
+      "name": "Thiago Prado",
+      "imageUrl": "https://danielcmo.github.io/arquivos/ThiagoPrado.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c742a460cd56893254d027891ea4.jpg"
+    },
+    {
+      "id": "66534ad005427db9",
+      "name": "Suzana Barboza Carvalho",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Suzana.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/159836b3aa7cb3e04723d7ae9f71.jpg"
+    },
+    {
+      "id": "33c408d8ca2a9b91",
+      "name": "Felipe Assad",
+      "imageUrl": "https://danielcmo.github.io/arquivos/FelipeAssad.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/d8d26c63100a7f268218faff1761.jpg"
+    },
+    {
+      "id": "ef16510ca9eadd33",
+      "name": "Jorge Felipe Campos Chagas",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Jorge.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/9856f7b269dcaed23bcda4d431fe.jpg"
+    },
+    {
+      "id": "7dbf951b1b586811",
+      "name": "Bruno Hilario",
+      "imageUrl": "https://danielcmo.github.io/arquivos/BrunoHilario.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/b0f2e07e453fa26aec1a478cdc18.jpg"
+    },
+    {
+      "id": "2df7279a23fd4079",
+      "name": "Victor Olimpio",
+      "imageUrl": "https://danielcmo.github.io/arquivos/VictorOlimpio.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/ad60c56c4dc01db44560ac09a394.jpg"
+    },
+    {
+      "id": "02539fc8288b1ab0",
+      "name": "Ricardo Jose Conceição Junior",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "5274d82ebaa59961",
+      "name": "Caio de Souza e Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "c1ff275bb92bb265",
+      "name": "Rafael Ferreira Ramalho",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ramalho.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/96eca324a580305d278c908376c0.jpg"
+    },
+    {
+      "id": "20f1835a4271f4a9",
+      "name": "Marcelo D'Almeida",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Marcelo.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/491657aeeb5536e020f7431f58de.jpg"
+    },
+    {
+      "id": "cc4c226cbe779a24",
+      "name": "Bernardo Amaral",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Bernardo.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/e5cde6242c47bb42766a0a631c31.jpg"
+    },
+    {
+      "id": "85ee6a400e1ae050",
+      "name": "Paulo Mann",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Mann.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/aa025aecfd799c15f10a9b866074.jpg"
+    },
+    {
+      "id": "ef464ead06b2399b",
+      "name": "Frederico Queiroz",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Fred.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/ddd575c06d602f9f67797f6d532b.jpg"
+    },
+    {
+      "id": "42aa4290a1055ab1",
+      "name": "Arthur Miranda Guimarães",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Arthur.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/5152121db9e51770e55946c45750.jpg"
+    },
+    {
+      "id": "caf346f252927dd0",
+      "name": "Lucas Carreiro Pinheiro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "81804d0fe8c61acc",
+      "name": "Monique Moledo",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Monique.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/b3ceb9efa51f85afaddffe2a4718.jpg"
+    },
+    {
+      "id": "881613379b72ce31",
+      "name": "Mariana Teixeira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/MarianaTeixeira.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/09e8c81564659610c00a95b6c7a9.jpg"
+    },
+    {
+      "id": "6fbf1ee68a10f056",
+      "name": "Fabrizio Moura",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Fabrizio.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/2d69ca3285af2fff92417b2ecd52.jpg"
+    },
+    {
+      "id": "5b782e610f92cc7e",
+      "name": "Guilherme de Souza Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "01a4bce265ada623",
+      "name": "Luciano Nascimento",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Luciano.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/f144ce23ce55f48e84c1f73b1813.jpg"
+    },
+    {
+      "id": "1cfbb31979e49532",
+      "name": "Rômulo Pereira Soares da Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "f515353c64fb1476",
+      "name": "Daniel Rossi Marinho",
+      "imageUrl": "https://danielcmo.github.io/arquivos/DanielRossi.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6d2204cdbbc47096b4da84a183db.jpg"
+    },
+    {
+      "id": "71e587892aaedcb8",
+      "name": "Pedro Develly",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Pedro.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/d0ca6cc56fb781237d896945d338.jpg"
+    },
+    {
+      "id": "32ffd58ba91639c4",
+      "name": "Felipe Tavares",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Felipe.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/3da6885f6b049b37dad1275417be.jpg"
+    },
+    {
+      "id": "925c73018702e760",
+      "name": "Gisele Araujo de Freitas Pereira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Gisele.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/f175258ed57f4d12a2ee8169c7cf.jpg"
+    },
+    {
+      "id": "ac5fb3122017f892",
+      "name": "Maximiano Pereira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Max.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/08b34b47c8cec603951fc7c9a84e.jpg"
+    },
+    {
+      "id": "cb6650a719f1d09b",
+      "name": "Fabiane Lucas",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Fabiane.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/0bdea1e109f53ff4d7609ff72932.jpg"
+    },
+    {
+      "id": "ce8c53d97d4cff65",
+      "name": "Felipe Vieira de Lima",
+      "imageUrl": "https://danielcmo.github.io/arquivos/FelipeVieira.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c4f54ebda3a7396592430cf5cacc.jpg"
+    },
+    {
+      "id": "944a43dd6b60004b",
+      "name": "Jorcyane Lima",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Jorcyane.png",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c34ed85ee6be64c2e2c9873a2ed7.png"
+    },
+    {
+      "id": "2ac51faf478c32d3",
+      "name": "Carlos Maciel",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Carlos.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6ad20396fb0645416cbab334fbd7.jpg"
+    },
+    {
+      "id": "f176f55fde67a7ad",
+      "name": "Bruno Conti",
+      "imageUrl": "https://danielcmo.github.io/arquivos/BrunoConti.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/3c0a243e6684cf5c5e6f7e959328.jpg"
+    },
+    {
+      "id": "c794f8956f245303",
+      "name": "Renan Vinagre Camara",
+      "imageUrl": "https://danielcmo.github.io/arquivos/RenanVinagre.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/af030096f1814614de1b53317b89.jpg"
+    },
+    {
+      "id": "c849806dbe9a789d",
+      "name": "Gisele Alves Carneiro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/GiseleAlves.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/ddbe95c70a0fa845185ef6d7ab3e.jpg"
+    },
+    {
+      "id": "7cc60319c2c1ced3",
+      "name": "Pedro Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "f6bb9677775dc23b",
+      "name": "Lucas Amorim",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LucasAmorim.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/987bf15702ea74f9c50c74882dc6.jpg"
+    },
+    {
+      "id": "8e763d979ad561f4",
+      "name": "Carlos Filipe M. Teixeira Jr.",
+      "imageUrl": "https://danielcmo.github.io/arquivos/CarlosFilipe.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/fba65ae455b041b78e1316b50dcd.jpg"
+    },
+    {
+      "id": "a853716a705cbf02",
+      "name": "Guilherme Rangel",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "a0e35e88a04415f2",
+      "name": "Guilherme Miranda",
+      "imageUrl": "https://danielcmo.github.io/arquivos/GuilhermeMiranda.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/382aec3f0a687d61df936c848cd8.jpg"
+    },
+    {
+      "id": "d0eb0c380ec0d8a3",
+      "name": "João Augusto B. V. de Souza",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "8effd56264f13c34",
+      "name": "Gustavo Tallarida",
+      "imageUrl": "https://danielcmo.github.io/arquivos/GustavoTallarida.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/2611182f99b7ecb0888d4ad61edc.jpg"
+    },
+    {
+      "id": "fd54b938f356d777",
+      "name": "Paulo Henrique Ouverney Bastos",
+      "imageUrl": "https://danielcmo.github.io/arquivos/PH.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/ca796e49cf789010cb5f6ba2a093.jpg"
+    },
+    {
+      "id": "cd0551f3edbc93ff",
+      "name": "Guilherme Gonçalves",
+      "imageUrl": "https://danielcmo.github.io/arquivos/GuilhermeGoncalves.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c0ffb6e68263485a1368161e016d.jpg"
+    },
+    {
+      "id": "a30643011fda7c6c",
+      "name": "Felipe Horta",
+      "imageUrl": "https://danielcmo.github.io/arquivos/FelipeHorta.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/e69f07f74e514c1bde781d796df5.jpg"
+    },
+    {
+      "id": "f50bfcb8eccc6c1c",
+      "name": "Juliano Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "4369374d9f7ed922",
+      "name": "Leonardo Almeida",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "26e5248a5f804563",
+      "name": "Deulysses Dael",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "50f7ec58dc014f9a",
+      "name": "Adeilson Nascimento",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Adeilson.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/4c0b1cba692a60443acead976579.jpg"
+    },
+    {
+      "id": "7b3aa54d6f279b75",
+      "name": "John Mavellin Ferreira de Souza",
+      "imageUrl": "https://danielcmo.github.io/arquivos/John.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/773b9392d246e23776970c2632c1.jpg"
+    },
+    {
+      "id": "e366b9c7a557ad75",
+      "name": "Bruno Cruz",
+      "imageUrl": "https://danielcmo.github.io/arquivos/question.jpg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/6e4c3b4dfc9219183b007106f029.jpg"
+    },
+    {
+      "id": "29687d8e62ce1bcc",
+      "name": "Manuel Almeida",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Manuel.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/90beb1fd2444867a20f351d8da48.jpg"
+    },
+    {
+      "id": "995a00bdce9f1cfa",
+      "name": "Thiago Della Libera Moreira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/ThiagoDella.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/953645e8efef62c59e9e2165a9b7.jpg"
+    },
+    {
+      "id": "dea9a173e3d522ac",
+      "name": "Arthur Nascimento",
+      "imageUrl": "https://danielcmo.github.io/arquivos/ArthurNascimento.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/e39351bebbfd531df083e179784c.jpg"
+    },
+    {
+      "id": "cffed7c78eb7174d",
+      "name": "Daniel Vega Simões",
+      "imageUrl": "https://danielcmo.github.io/arquivos/DanielVega.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/82443a6a67ade92b8568875348b8.jpg"
+    },
+    {
+      "id": "104a6579b8b1b597",
+      "name": "Ricardo Busquet",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ricardo.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/c0a8c9a7359facb310eddf1ab3d7.jpg"
+    },
+    {
+      "id": "f1db93ad06919f00",
+      "name": "Pedro Caminha",
+      "imageUrl": "https://danielcmo.github.io/arquivos/PedroCaminha.jpeg",
+      "url": "https://danielcmo.github.io/li.html",
+      "linkKind": "source",
+      "links": [],
+      "current": false,
+      "image": "/media/b17adf19d8b7df8e054aed4e3bf9.jpg"
+    }
+  ],
+  "collaborators": [
+    {
+      "id": "6c7bded3d9ec1afb",
+      "name": "Marta Mattoso",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Marta.jpeg",
+      "url": "https://www.cos.ufrj.br/~marta/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Marta Mattoso",
+          "url": "https://www.cos.ufrj.br/~marta/"
+        }
+      ],
+      "current": null,
+      "image": "/media/c9f9d7b9713d63a0541d244928b2.jpg"
+    },
+    {
+      "id": "e1f801d12be292f0",
+      "name": "Aline Paes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Aline.jpeg",
+      "url": "https://www.ic.uff.br/~alinepaes",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Aline Paes",
+          "url": "https://www.ic.uff.br/~alinepaes"
+        }
+      ],
+      "current": null,
+      "image": "/media/0caf40a2ece0798be98d380abc93.jpg"
+    },
+    {
+      "id": "30e79a5aa59f4303",
+      "name": "Marcos Lage",
+      "imageUrl": "https://danielcmo.github.io/arquivos/MarcosLage.jpeg",
+      "url": "https://www.ic.uff.br/~mlage",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Marcos Lage",
+          "url": "https://www.ic.uff.br/~mlage"
+        }
+      ],
+      "current": null,
+      "image": "/media/19839946fcb70c931a73b8ef127d.jpg"
+    },
+    {
+      "id": "88fdb3c558b758b3",
+      "name": "Vanessa Braganholo",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Vanessa.jpeg",
+      "url": "https://www.ic.uff.br/~vanessa",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Vanessa Braganholo",
+          "url": "https://www.ic.uff.br/~vanessa"
+        }
+      ],
+      "current": null,
+      "image": "/media/351ea3a525e813658edddae33182.jpg"
+    },
+    {
+      "id": "28b96e835507af52",
+      "name": "Isabel Rosseti",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Isabel.jpeg",
+      "url": "https://www.ic.uff.br/~rosseti",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Isabel Rosseti",
+          "url": "https://www.ic.uff.br/~rosseti"
+        }
+      ],
+      "current": null,
+      "image": "/media/cc2682baead8855435ca675f6037.jpg"
+    },
+    {
+      "id": "4d94cee0f79966d2",
+      "name": "Yuri Frota",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Yuri.jpeg",
+      "url": "https://www.ic.uff.br/~yuri",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Yuri Frota",
+          "url": "https://www.ic.uff.br/~yuri"
+        }
+      ],
+      "current": null,
+      "image": "/media/6369cb943420e3ea81a0418e7480.jpg"
+    },
+    {
+      "id": "6066db7a4eab947a",
+      "name": "Simone Martins",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Simone2.png",
+      "url": "https://www.ic.uff.br/~simone",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Simone Martins",
+          "url": "https://www.ic.uff.br/~simone"
+        }
+      ],
+      "current": null,
+      "image": "/media/a073e9e5a9e455494b6e9e85f43a.png"
+    },
+    {
+      "id": "92e71167fd59f61c",
+      "name": "Marcos Bedo",
+      "imageUrl": "https://danielcmo.github.io/arquivos/MarcosBedo.jpeg",
+      "url": "https://www.professores.uff.br/marcosbedo/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Marcos Bedo",
+          "url": "https://www.professores.uff.br/marcosbedo/"
+        }
+      ],
+      "current": null,
+      "image": "/media/668655965afdb3e78977bff4f8be.jpg"
+    },
+    {
+      "id": "a45c404004ff5baa",
+      "name": "Vania Neves",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Vania.jpeg",
+      "url": "https://www.ic.uff.br/~vania",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Vania Neves",
+          "url": "https://www.ic.uff.br/~vania"
+        }
+      ],
+      "current": null,
+      "image": "/media/93c46494afec004a9cf588d7d5f1.jpg"
+    },
+    {
+      "id": "b1b2ac2abc1aa314",
+      "name": "Alvaro Coutinho",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Alvaro.jpeg",
+      "url": "http://lattes.cnpq.br/6402361744624287",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Alvaro Coutinho",
+          "url": "http://lattes.cnpq.br/6402361744624287"
+        }
+      ],
+      "current": null,
+      "image": "/media/d04251c3319bf4ac47636913f8c5.jpg"
+    },
+    {
+      "id": "0b0f22c8b2f84608",
+      "name": "Fernanda Baião",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Fernanda.jpeg",
+      "url": "https://www.ind.puc-rio.br/equipe/fernanda-baiao/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Fernanda Baião",
+          "url": "https://www.ind.puc-rio.br/equipe/fernanda-baiao/"
+        }
+      ],
+      "current": null,
+      "image": "/media/ce4f152dd5fdca7473899861f915.jpg"
+    },
+    {
+      "id": "52d8e0e76265f7c7",
+      "name": "Victor Ströele",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Victor.jpeg",
+      "url": "http://lattes.cnpq.br/7561791813071961",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Victor Ströele",
+          "url": "http://lattes.cnpq.br/7561791813071961"
+        }
+      ],
+      "current": null,
+      "image": "/media/887d2b3e171045bec3df0b20e518.jpg"
+    },
+    {
+      "id": "f5824d92a0d3acec",
+      "name": "Rodrigo Salvador",
+      "imageUrl": "https://danielcmo.github.io/arquivos/RodrigoSalvador.png",
+      "url": "http://lattes.cnpq.br/0023809873085852",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Rodrigo Salvador",
+          "url": "http://lattes.cnpq.br/0023809873085852"
+        }
+      ],
+      "current": null,
+      "image": "/media/d6fcbdeab8c0b047e6ea6787d002.png"
+    },
+    {
+      "id": "fa51e24886c1cb8d",
+      "name": "Nivan Ferreira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Nivan.jpg",
+      "url": "https://www.cin.ufpe.br/~nivan/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Nivan Ferreira",
+          "url": "https://www.cin.ufpe.br/~nivan/"
+        }
+      ],
+      "current": null,
+      "image": "/media/653641ba472eee156ce790fbd6cc.jpg"
+    },
+    {
+      "id": "85ee6a400e1ae050",
+      "name": "Paulo Mann",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Mann.jpeg",
+      "url": "https://paulomann.github.io/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Paulo Mann",
+          "url": "https://paulomann.github.io/"
+        }
+      ],
+      "current": null,
+      "image": "/media/aa025aecfd799c15f10a9b866074.jpg"
+    },
+    {
+      "id": "a1ca0a72d9ec0e4a",
+      "name": "Elaine Parros",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Elaine.png",
+      "url": "http://lattes.cnpq.br/6253898580239376",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Elaine Parros",
+          "url": "http://lattes.cnpq.br/6253898580239376"
+        }
+      ],
+      "current": null,
+      "image": "/media/293c0a219668211ed57409e8e51f.png"
+    },
+    {
+      "id": "befd80705281da8b",
+      "name": "Cristina Asvolinsque",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Cristina.png",
+      "url": "http://lattes.cnpq.br/6160731201666681",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Cristina Asvolinsque",
+          "url": "http://lattes.cnpq.br/6160731201666681"
+        }
+      ],
+      "current": null,
+      "image": "/media/67b5f949af178a60398c7b8e7903.png"
+    },
+    {
+      "id": "5799441593951a69",
+      "name": "Bruno Francesco Rodrigues de Oliveira",
+      "imageUrl": "https://danielcmo.github.io/arquivos/BrunoFrancesco.jpeg",
+      "url": "https://danielcmo.github.io/collab.html",
+      "linkKind": "source",
+      "links": [],
+      "current": null,
+      "image": "/media/dcd0346099c012dda3274eddfcf7.jpg"
+    },
+    {
+      "id": "0ddfc5be4042ad55",
+      "name": "Débora Barbosa Pina",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Debora.jpeg",
+      "url": "https://danielcmo.github.io/collab.html",
+      "linkKind": "source",
+      "links": [],
+      "current": null,
+      "image": "/media/26fd5b5f604bada8f5b701b7c0fc.jpg"
+    },
+    {
+      "id": "6fd1a1c818c3636e",
+      "name": "Luiz Gustavo Dias",
+      "imageUrl": "https://danielcmo.github.io/arquivos/LuizGustavo.jpeg",
+      "url": "https://integra.ifgoiano.edu.br/portfolio/pessoas/luiz-gustavo-dias/rbi",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Luiz Gustavo Dias",
+          "url": "https://integra.ifgoiano.edu.br/portfolio/pessoas/luiz-gustavo-dias/rbi"
+        }
+      ],
+      "current": null,
+      "image": "/media/0610c0a3211923bf0165c0745fd5.jpg"
+    },
+    {
+      "id": "d677d6b4604cd07a",
+      "name": "Liliane Kunstmann",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Liliane.jpeg",
+      "url": "https://danielcmo.github.io/collab.html",
+      "linkKind": "source",
+      "links": [],
+      "current": null,
+      "image": "/media/671758a57a82bc659105a7265ff5.jpg"
+    },
+    {
+      "id": "870447456cacb8e1",
+      "name": "Flavia Bernardini",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Flavia.jpeg",
+      "url": "https://www.ic.uff.br/~fcbernardini",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Flavia Bernardini",
+          "url": "https://www.ic.uff.br/~fcbernardini"
+        }
+      ],
+      "current": null,
+      "image": "/media/a77507d12cd9a65cceae411306c1.jpg"
+    },
+    {
+      "id": "564f2ef7147de58b",
+      "name": "Agma Traina",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Agma.jpeg",
+      "url": "https://sites.icmc.usp.br/agma/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Agma Traina",
+          "url": "https://sites.icmc.usp.br/agma/"
+        }
+      ],
+      "current": null,
+      "image": "/media/781898ae90e0c60047311b0c52dc.jpg"
+    },
+    {
+      "id": "62c1f8379a360937",
+      "name": "Julia Gschwend",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Julia.jpeg",
+      "url": "https://orcid.org/0000-0003-3023-8362",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "PhD Julia Gschwend",
+          "url": "https://orcid.org/0000-0003-3023-8362"
+        }
+      ],
+      "current": null,
+      "image": "/media/83cd8be0dcd7dc733dae749d72c8.jpg"
+    },
+    {
+      "id": "04348010fffbdaeb",
+      "name": "Luiz Nicolaci da Costa",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Nicolaci.jpeg",
+      "url": "http://lattes.cnpq.br/1349310682644311",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "PhD Luiz Nicolaci da Costa",
+          "url": "http://lattes.cnpq.br/1349310682644311"
+        }
+      ],
+      "current": null,
+      "image": "/media/076b54fcaf1a69e7755df1ead440.jpg"
+    },
+    {
+      "id": "41b8b6bdabe64dc6",
+      "name": "Cristina Boeres",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Boeres.png",
+      "url": "https://www.ic.uff.br/~boeres",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Cristina Boeres",
+          "url": "https://www.ic.uff.br/~boeres"
+        }
+      ],
+      "current": null,
+      "image": "/media/37b4ddca92ee6949235a0fda517f.png"
+    },
+    {
+      "id": "65f3fa0e2d71f0b9",
+      "name": "Bruno Lopes",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Bruno.jpeg",
+      "url": "https://www.ic.uff.br/~bruno",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Bruno Lopes",
+          "url": "https://www.ic.uff.br/~bruno"
+        }
+      ],
+      "current": null,
+      "image": "/media/d79caa14ab6b08dcc16d30a643ce.jpg"
+    },
+    {
+      "id": "fffb9d298ec31ae6",
+      "name": "Leonardo Murta",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Murta.jpg",
+      "url": "https://www.ic.uff.br/~leomurta",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Leonardo Murta",
+          "url": "https://www.ic.uff.br/~leomurta"
+        }
+      ],
+      "current": null,
+      "image": "/media/6759d350bdc3d5f823101647fba9.jpg"
+    },
+    {
+      "id": "07f40d59a4b166d3",
+      "name": "Alexandre Plastino",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Plastino.jpeg",
+      "url": "https://www.ic.uff.br/~plastino",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Alexandre Plastino",
+          "url": "https://www.ic.uff.br/~plastino"
+        }
+      ],
+      "current": null,
+      "image": "/media/c5d7ecd47b99045554eba45d797f.jpg"
+    },
+    {
+      "id": "8e21e7fec9f671cb",
+      "name": "Lucia Drummond",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lucia.jpeg",
+      "url": "https://www.ic.uff.br/~lucia",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Lucia Drummond",
+          "url": "https://www.ic.uff.br/~lucia"
+        }
+      ],
+      "current": null,
+      "image": "/media/96f93f692fabf1f77b7dd04658a6.jpg"
+    },
+    {
+      "id": "6f13370a1b56f38b",
+      "name": "Kary Ocaña",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Kary.jpeg",
+      "url": "https://www.lncc.br/~karyann/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "D.Sc. Kary Ocaña",
+          "url": "https://www.lncc.br/~karyann/"
+        }
+      ],
+      "current": null,
+      "image": "/media/55fb4c264bc609ccd9c07ae783a0.jpg"
+    },
+    {
+      "id": "df8493612b75cf82",
+      "name": "Lenora Schwaitzer",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Lenora.jpeg",
+      "url": "http://lattes.cnpq.br/1747786817645740",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Lenora Schwaitzer",
+          "url": "http://lattes.cnpq.br/1747786817645740"
+        }
+      ],
+      "current": null,
+      "image": "/media/44dccd9c295fe28b47db49f4181c.jpg"
+    },
+    {
+      "id": "d88ae677ea122328",
+      "name": "Fabio Porto",
+      "imageUrl": "https://danielcmo.github.io/arquivos/FabioPorto.jpeg",
+      "url": "https://dexl.lncc.br/team/fabio-porto",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Fabio Porto",
+          "url": "https://dexl.lncc.br/team/fabio-porto"
+        }
+      ],
+      "current": null,
+      "image": "/media/c6ae979fdebe446f90575d8c0310.jpg"
+    },
+    {
+      "id": "9f2583504568baf9",
+      "name": "Javam Machado",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Javam.jpeg",
+      "url": "https://mdcc.ufc.br/pt/corpo-docente/javam-de-castro-machado/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Javam Machado",
+          "url": "https://mdcc.ufc.br/pt/corpo-docente/javam-de-castro-machado/"
+        }
+      ],
+      "current": null,
+      "image": "/media/bc08f3b645f531b5ad84978ff8a8.jpg"
+    },
+    {
+      "id": "af2f78a217e2fad5",
+      "name": "Sergio Lifschitz",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Sergio.jpeg",
+      "url": "https://www.inf.puc-rio.br/blog/professor/sergio-lifschitz/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Sergio Lifschitz",
+          "url": "https://www.inf.puc-rio.br/blog/professor/sergio-lifschitz/"
+        }
+      ],
+      "current": null,
+      "image": "/media/8e24fed705d8092968a35505c8e7.jpg"
+    },
+    {
+      "id": "8d20f1209bd41db2",
+      "name": "José Maria Monteiro",
+      "imageUrl": "https://danielcmo.github.io/arquivos/JoseMaria.jpeg",
+      "url": "https://mdcc.ufc.br/pt/corpo-docente/jose-maria-da-silva-monteiro-filho/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. José Maria Monteiro",
+          "url": "https://mdcc.ufc.br/pt/corpo-docente/jose-maria-da-silva-monteiro-filho/"
+        }
+      ],
+      "current": null,
+      "image": "/media/12f0b3f05fd1cde73765e98ce217.jpg"
+    },
+    {
+      "id": "f5f7e8976fc35266",
+      "name": "Rafaelli Coutinho",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Rafaelli.jpeg",
+      "url": "https://integra.cefet-rj.br/portfolio/pessoas/rafaelli-de-carvalho-coutinho",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Rafaelli Coutinho",
+          "url": "https://integra.cefet-rj.br/portfolio/pessoas/rafaelli-de-carvalho-coutinho"
+        }
+      ],
+      "current": null,
+      "image": "/media/5551d7b427b281000ff6ea2289da.jpg"
+    },
+    {
+      "id": "7df71397b31167c7",
+      "name": "Ubiratam de Paula",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ubiratam.jpeg",
+      "url": "https://sigaa.ufrrj.br/sigaa/public/docente/portal.jsf?siape=2242634",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Ubiratam de Paula",
+          "url": "https://sigaa.ufrrj.br/sigaa/public/docente/portal.jsf?siape=2242634"
+        }
+      ],
+      "current": null,
+      "image": "/media/73d597ec1f51ec66b7b94222bc28.jpg"
+    },
+    {
+      "id": "969bf8aeb948e1ff",
+      "name": "Eduardo Ogasawara",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Eduardo.jpeg",
+      "url": "https://eic.cefet-rj.br/~eogasawara/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Eduardo Ogasawara",
+          "url": "https://eic.cefet-rj.br/~eogasawara/"
+        }
+      ],
+      "current": null,
+      "image": "/media/5822b667118330566ba63c70e5e9.jpg"
+    },
+    {
+      "id": "b0e4ad76a0eddddf",
+      "name": "Patrick Valduriez",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Patrick.jpeg",
+      "url": "https://www.inria.fr/en/patrick-valduriez",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Patrick Valduriez",
+          "url": "https://www.inria.fr/en/patrick-valduriez"
+        }
+      ],
+      "current": null,
+      "image": "/media/dbfc2c1f7b56c9cb1757649b6666.jpg"
+    },
+    {
+      "id": "062b6469fa0251b0",
+      "name": "Adriane Chapman",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Age.jpeg",
+      "url": "https://www.turing.ac.uk/people/researchers/adriane-chapman",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Adriane Chapman",
+          "url": "https://www.turing.ac.uk/people/researchers/adriane-chapman"
+        }
+      ],
+      "current": null,
+      "image": "/media/2d170a212718b850568076b41054.jpg"
+    },
+    {
+      "id": "db185ed3cf7fb7cd",
+      "name": "Fabio Miranda",
+      "imageUrl": "https://danielcmo.github.io/arquivos/FabioMiranda.jpeg",
+      "url": "https://cs.uic.edu/profiles/miranda-fabio/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Fabio Miranda",
+          "url": "https://cs.uic.edu/profiles/miranda-fabio/"
+        }
+      ],
+      "current": null,
+      "image": "/media/8a7f8bdcb48b0b6d3f7c176239f9.jpg"
+    },
+    {
+      "id": "72b00c76b89bee6c",
+      "name": "Luan Teylo",
+      "imageUrl": "https://danielcmo.github.io/arquivos/luan.png",
+      "url": "https://www.luanteylo.com/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "D.Sc. Luan Teylo",
+          "url": "https://www.luanteylo.com/"
+        }
+      ],
+      "current": null,
+      "image": "/media/7af4ed04a6a1a2e671494194ffd1.png"
+    },
+    {
+      "id": "f9cc5a2c37852072",
+      "name": "Rafael Ferreira da Silva",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Rafael.jpeg",
+      "url": "https://www.ornl.gov/staff-profile/rafael-ferreira-da-silva",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Dr. Rafael Ferreira da Silva",
+          "url": "https://www.ornl.gov/staff-profile/rafael-ferreira-da-silva"
+        }
+      ],
+      "current": null,
+      "image": "/media/ad2b0991b49598dbaea369d8d4c8.jpg"
+    },
+    {
+      "id": "630cb9dfb09eb33a",
+      "name": "Vítor Sousa",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Vitor.jpeg",
+      "url": "https://danielcmo.github.io/collab.html",
+      "linkKind": "source",
+      "links": [],
+      "current": null,
+      "image": "/media/f966b6762a79457f05a7f6aaa71f.jpg"
+    },
+    {
+      "id": "ed3647f6dcab70ed",
+      "name": "Paolo Missier",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Paolo.jpeg",
+      "url": "https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/missier-paolo",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Paolo Missier",
+          "url": "https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/missier-paolo"
+        }
+      ],
+      "current": null,
+      "image": "/media/d86052c3e6ef363d9aa94deca167.jpg"
+    },
+    {
+      "id": "a6be154bec147353",
+      "name": "Gaëtan Heidsieck",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Gaetan.jpeg",
+      "url": "https://www.uni-goettingen.de/en/662758.html",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Dr. Gaëtan Heidsieck",
+          "url": "https://www.uni-goettingen.de/en/662758.html"
+        }
+      ],
+      "current": null,
+      "image": "/media/fd7e59776cef648d6842aa0ac716.jpg"
+    },
+    {
+      "id": "faa488ac116e33bd",
+      "name": "Esther Pacitti",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Esther.jpeg",
+      "url": "https://cv.hal.science/esther-pacitti",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Esther Pacitti",
+          "url": "https://cv.hal.science/esther-pacitti"
+        }
+      ],
+      "current": null,
+      "image": "/media/464e83f27e02400b83c5089569b2.jpg"
+    },
+    {
+      "id": "afe00b37a4d4e52a",
+      "name": "Renan Souza",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Renan.jpeg",
+      "url": "https://renansouza.org/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Dr. Renan Souza",
+          "url": "https://renansouza.org/"
+        }
+      ],
+      "current": null,
+      "image": "/media/80380f5bb97a89d61aea70557855.jpg"
+    },
+    {
+      "id": "6d99bb9667066b5d",
+      "name": "Ji Liu",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Ji.jpeg",
+      "url": "https://scholar.google.com/citations?user=C16EBHUAAAAJ&hl=en",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Dr. Ji Liu",
+          "url": "https://scholar.google.com/citations?user=C16EBHUAAAAJ&hl=en"
+        }
+      ],
+      "current": null,
+      "image": "/media/5f8fe99484630992f6dd89813117.jpg"
+    },
+    {
+      "id": "9a7389c0867319c3",
+      "name": "Carolina Veiga",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Carol.jpeg",
+      "url": "https://www.linkedin.com/in/carolvfs/",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Profa. Carolina Veiga",
+          "url": "https://www.linkedin.com/in/carolvfs/"
+        }
+      ],
+      "current": null,
+      "image": "/media/a0df37bb5837e5e572f7a95ac5b1.jpg"
+    },
+    {
+      "id": "26c982d50c621136",
+      "name": "Nils Murrugarra",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Nils.jpeg",
+      "url": "https://www.sci.pitt.edu/people/nils-murrugarra-llerena",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Nils Murrugarra",
+          "url": "https://www.sci.pitt.edu/people/nils-murrugarra-llerena"
+        }
+      ],
+      "current": null,
+      "image": "/media/4520b0dd956b3393e1e7a500de4d.jpg"
+    },
+    {
+      "id": "1c272f1ed47cde12",
+      "name": "Christophe Pradal",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Pradal.jpeg",
+      "url": "https://orcid.org/0000-0002-2555-761X",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. Christophe Pradal",
+          "url": "https://orcid.org/0000-0002-2555-761X"
+        }
+      ],
+      "current": null,
+      "image": "/media/80be727aeaaedffbb582065c8085.jpg"
+    },
+    {
+      "id": "6d2db2ea4769b588",
+      "name": "François Tardieu",
+      "imageUrl": "https://danielcmo.github.io/arquivos/Tardieu.jpeg",
+      "url": "https://orcid.org/0000-0002-7287-0094",
+      "linkKind": "profile",
+      "links": [
+        {
+          "label": "Prof. François Tardieu",
+          "url": "https://orcid.org/0000-0002-7287-0094"
+        }
+      ],
+      "current": null,
+      "image": "/media/4f769266482c41f9d4d3aaa0562f.jpg"
+    }
+  ],
+  "sources": [
+    "https://danielcmo.github.io/li.html",
+    "https://danielcmo.github.io/collab.html"
+  ]
+}

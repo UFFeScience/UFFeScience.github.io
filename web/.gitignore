@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.env*
+!.env.example
+
+data/raw/
+data/sync.lock
+data/*.tmp
+scripts/__pycache__/
+preview-*.jpg
+
+data/sync*.log
+
+preview-*.jpg
+
+out/
+public/media/

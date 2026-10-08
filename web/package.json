@@ -1,0 +1,22 @@
+{
+  "name": "uffescience-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "sync:publications": "node scripts/sync-publications.mjs",
+    "sync:people": "python3 scripts/sync-people.py",
+    "sync:weekly": "node scripts/sync-weekly.mjs",
+    "prebuild": "node scripts/prepare-static.mjs",
+    "sync:github": "node scripts/sync-github.mjs"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.468.0"
+  },
+  "type": "module"
+}

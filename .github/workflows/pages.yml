@@ -1,0 +1,93 @@
+name: Update content and deploy Next.js to Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Brasília is UTC-3: Monday 09:00 = Monday 12:00 UTC.
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+    inputs:
+      refresh_content:
+        description: 'Update stored content before deploying (Apify runs at most once per source per week)'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        working-directory: web
+        run: npm ci
+      - name: Update stored content
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_content)
+        working-directory: web
+        continue-on-error: true
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run sync:weekly
+      - name: Commit only changed content
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_content)
+        run: |
+          git add web/data/publications.json web/data/projects.json web/data/people.json web/data/media
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Update stored research group content [skip ci]'
+            # Never force-push: incorporate concurrent changes or fail on a conflict.
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
+          # GITHUB_TOKEN commits do not trigger another push workflow.
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Export static site
+        working-directory: web
+        env:
+          NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: npm run build
+      - name: Check exported routes and local assets
+        working-directory: web
+        env:
+          NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: node scripts/check-static.mjs
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/out
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
