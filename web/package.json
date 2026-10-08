@@ -10,8 +10,8 @@
     "sync:weekly": "node scripts/sync-weekly.mjs",
     "prebuild": "node scripts/prepare-static.mjs",
     "sync:github": "node scripts/sync-github.mjs",
-    "format": "prettier --write app lib scripts next.config.mjs package.json README.md ../README.md ../.github ../.prettierrc.json",
-    "format:check": "prettier --check app lib scripts next.config.mjs package.json README.md ../README.md ../.github ../.prettierrc.json",
+    "format": "prettier --write app lib scripts next.config.mjs package.json README.md ../README.md ../.github ../.prettierrc.json ../compose.yml",
+    "format:check": "prettier --check app lib scripts next.config.mjs package.json README.md ../README.md ../.github ../.prettierrc.json ../compose.yml",
     "format:python": "python3 -m black scripts",
     "format:python:check": "python3 -m black --check scripts"
   },

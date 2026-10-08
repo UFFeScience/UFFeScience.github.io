@@ -15,6 +15,20 @@ python3 -m http.server 3007 --directory out
 
 `npm run dev -- --port 3007` is also available for editing. No deployed Node.js server, API routes, ISR or remote image optimization is required. Every publication slug and historical alias is generated during the build. HTML, CSS, JavaScript and archived images are published from `out/`.
 
+## Docker Compose
+
+From the repository root (the directory containing `compose.yml`):
+
+```sh
+docker compose up --build -d
+docker compose logs -f web
+docker compose down
+```
+
+Open http://localhost:8080/. To use another port, run `PORT=8081 docker compose up --build -d`.
+
+The multi-stage image builds and validates the static export with Node.js, then serves it with Nginx. It includes the stored content and archived images; no Apify or GitHub credentials are needed or copied into the image. Individual publication URLs work directly, and unknown paths return HTTP 404. Run the build command again after changing source or stored content. Content collection remains in the weekly GitHub Actions workflow.
+
 ## Stored content
 
 - `data/publications.json`: full publication history, stable slugs, authors, dates, original LinkedIn links, deduplication aliases and collection metadata.

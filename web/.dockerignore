@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env*
+public/media
+data/sync.lock
+data/*.tmp
+data/sync*.log
+scripts/__pycache__
+.venv
+*.log
+.DS_Store
