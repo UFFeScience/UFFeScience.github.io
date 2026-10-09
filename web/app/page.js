@@ -23,13 +23,13 @@ export default async function Home() {
               <span /> UNIVERSIDADE FEDERAL FLUMINENSE
             </div>
             <h1>
-              UFF eScience
+              UFFeScience
               <br />
               <span>Research Group</span>
             </h1>
             <p>
-              Welcome to the official page of the UFF eScience Research Group, part of the Instituto
-              de Computação at Universidade Federal Fluminense (UFF).
+              Welcome to the official page of the UFF eScience Research Group, part of the Institute
+              of Computing at Universidade Federal Fluminense (UFF).
             </p>
             <p>
               Our group is dedicated to advancing research in Data Science, Machine Learning, and
@@ -68,6 +68,7 @@ export default async function Home() {
           </div>
           <LinkedinPosts news={news} />
         </section>
+        <People people={people} />
         <section id="projetos" className="projects-section">
           <div className="section-heading">
             <div>
@@ -98,7 +99,6 @@ export default async function Home() {
             </a>
           </div>
         </section>
-        <People people={people} />
       </main>
       <footer>
         <div className="footer-brand">

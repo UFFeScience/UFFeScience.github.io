@@ -32,7 +32,7 @@ export default function People({ people }) {
           <span className="kicker">RESEARCH AND SUPERVISION</span>
           <h3>Daniel de Oliveira</h3>
           <p>
-            Professor at UFF’s Institute of Computing, co-leading UFFeScience research and
+            Associate Professor at Institute of Computing of Universidade Federal Fluminense. Principal Investigator of UFFeScience research group.
             supervising students.
           </p>
         </div>
