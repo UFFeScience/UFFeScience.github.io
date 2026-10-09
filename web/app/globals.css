@@ -12,7 +12,13 @@
 }
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 90px;
+}
+/* Menu anchors land with the section heading near the top of the window. */
+#novidades,
+#artigos,
+#projetos,
+#pessoas {
+  scroll-margin-top: -10px;
 }
 body {
   margin: 0;
@@ -330,9 +336,6 @@ footer {
   }
 }
 @media (max-width: 700px) {
-  html {
-    scroll-padding-top: 20px;
-  }
   .site-header {
     padding: 10px 22px;
     gap: 16px;
@@ -1357,7 +1360,6 @@ footer {
 .people-section {
   padding: 64px 0;
   border-top: 1px solid var(--line, #d7e0e9);
-  scroll-margin-top: 24px;
 }
 .people-lead {
   display: flex;
@@ -1507,7 +1509,6 @@ footer {
 .papers-section {
   padding: 48px 40px 56px;
   border-top: 1px solid var(--line);
-  scroll-margin-top: 24px;
 }
 .papers-year {
   font: inherit;

@@ -40,9 +40,10 @@ export default async function Home() {
               of Computing at Universidade Federal Fluminense (UFF).
             </p>
             <p>
-              Our group is dedicated to advancing research in Data Science, Machine Learning, and
-              their applications to social good and healthcare. Here you will find information about
-              our team, ongoing projects, and scientific publications.
+              Our group is dedicated to advancing research in Data Science, Data Management, Machine
+              Learning, and their applications in multiple domains of Science (Bioinformatics,
+              Astronomy, etc). Here you will find information about our team, ongoing projects, and
+              scientific publications.
             </p>
             <div className="intro-actions">
               <a className="primary-button" href="#projetos">
