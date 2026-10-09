@@ -9,3 +9,7 @@ data/*.tmp
 data/sync*.log
 scripts/__pycache__/
 .venv/
+
+# Lattes exports contain personal data (CPF, RG, address); never commit them.
+*.zip
+*.xml

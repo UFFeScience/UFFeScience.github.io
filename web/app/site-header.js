@@ -11,6 +11,7 @@ export default function SiteHeader() {
       </a>
       <nav aria-label="Main navigation">
         <a href={homePath('#novidades')}>Publications</a>
+        <a href={homePath('#artigos')}>Papers</a>
         <a href={homePath('#projetos')}>Projects</a>
         <a href={homePath('#pessoas')}>Team</a>
       </nav>

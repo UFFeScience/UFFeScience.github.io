@@ -6,6 +6,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const jobs = [
   [process.execPath, ['scripts/sync-github.mjs']],
   [process.env.PEOPLE_PYTHON || 'python3', ['scripts/sync-people.py']],
+  [process.env.PEOPLE_PYTHON || 'python3', ['scripts/sync-papers.py']],
   [process.execPath, ['scripts/sync-publications.mjs']],
 ];
 let failed = false;

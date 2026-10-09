@@ -5,11 +5,18 @@ import LinkedinPosts from './linkedin-posts';
 import SiteHeader from './site-header';
 import People from './people';
 import HomeCarousel from './home-carousel';
+import Papers from './papers';
 import { assetPath } from '../lib/site-path';
 import { readPeople } from '../lib/people-store';
+import { readPapers } from '../lib/papers-store';
 
 export default async function Home() {
-  const [github, news, people] = await Promise.all([getGithub(), getNews(), readPeople()]);
+  const [github, news, people, papers] = await Promise.all([
+    getGithub(),
+    getNews(),
+    readPeople(),
+    readPapers(),
+  ]);
   const activity = {
     items: Object.values(github.details || {}).flatMap((detail) => detail.updates || []),
     fetchedAt: github.fetchedAt,
@@ -72,6 +79,7 @@ export default async function Home() {
           <LinkedinPosts news={news} />
         </section>
         <People people={people} />
+        <Papers papers={papers} />
         <section id="projetos" className="projects-section">
           <div className="section-heading">
             <div>

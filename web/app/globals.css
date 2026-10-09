@@ -1504,3 +1504,120 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+.papers-section {
+  padding: 48px 40px 56px;
+  border-top: 1px solid var(--line);
+  scroll-margin-top: 24px;
+}
+.papers-year {
+  font: inherit;
+  font-size: 12px;
+  color: var(--ink);
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  padding: 8px 10px;
+}
+.papers-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+.paper-entry {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 12px;
+  padding: 20px 0;
+  border-bottom: 1px solid var(--line);
+}
+.paper-year {
+  font-size: 12px;
+  color: var(--muted);
+  padding-top: 3px;
+}
+.paper-entry h3 {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.45;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+.paper-entry h3 a {
+  color: var(--ink);
+}
+.paper-entry h3 a:hover {
+  color: var(--blue);
+}
+.paper-entry h3 svg {
+  vertical-align: -2px;
+}
+.paper-authors,
+.paper-venue {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.7;
+  margin: 6px 0 0;
+}
+.paper-venue {
+  font-style: italic;
+}
+.paper-kind {
+  display: inline-block;
+  font-style: normal;
+  font-size: 10px;
+  color: var(--blue);
+  background: #edf4f9;
+  border-radius: 999px;
+  padding: 1px 8px;
+  margin-right: 8px;
+}
+.papers-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 23px;
+}
+.papers-page {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--muted);
+}
+.papers-pagination button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 34px;
+  height: 34px;
+  font: inherit;
+  font-size: 12px;
+  color: var(--blue);
+  background: #f5f8fb;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  cursor: pointer;
+}
+.papers-pagination button:hover:not(:disabled) {
+  background: #edf4f9;
+}
+.papers-pagination button.active {
+  color: #fff;
+  background: var(--ink);
+  border-color: var(--ink);
+}
+.papers-pagination button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+@media (max-width: 700px) {
+  .papers-section {
+    padding: 34px 22px;
+  }
+  .paper-entry {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+}

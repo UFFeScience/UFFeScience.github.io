@@ -55,11 +55,12 @@ jobs:
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LATTES_DRIVE_URL: ${{ secrets.LATTES_DRIVE_URL }}
         run: npm run sync:weekly
       - name: Commit only changed content
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_content)
         run: |
-          git add web/data/publications.json web/data/projects.json web/data/people.json web/data/media
+          git add web/data/publications.json web/data/projects.json web/data/people.json web/data/papers.json web/data/media
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
