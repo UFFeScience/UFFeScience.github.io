@@ -4,6 +4,7 @@ import Projects from './projects';
 import LinkedinPosts from './linkedin-posts';
 import SiteHeader from './site-header';
 import People from './people';
+import HomeCarousel from './home-carousel';
 import { assetPath } from '../lib/site-path';
 import { readPeople } from '../lib/people-store';
 
@@ -47,16 +48,18 @@ export default async function Home() {
             <div className="intro-location">Institute of Computing · Niterói, Rio de Janeiro</div>
           </div>
           <aside className="intro-campus">
-            <figure>
-              <img
-                src={assetPath('/instituto.jpg')}
-                alt="Institute of Computing at Universidade Federal Fluminense"
-              />
-              <figcaption>
-                <span>Universidade Federal Fluminense</span>
-                <small>Institute of Computing · Niterói, RJ</small>
-              </figcaption>
-            </figure>
+            <HomeCarousel
+              photos={[
+                {
+                  src: '/group.jpeg',
+                  alt: 'Illustration of UFFeScience research group members',
+                },
+                {
+                  src: '/instituto.jpg',
+                  alt: 'Institute of Computing at Universidade Federal Fluminense',
+                },
+              ]}
+            />
           </aside>
         </section>
         <section id="novidades" className="news-section">
