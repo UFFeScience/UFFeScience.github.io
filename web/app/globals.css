@@ -1498,7 +1498,18 @@ footer {
     font-size: 10px;
   }
   .people-section {
-    padding: 40px 0;
+    padding: 40px 22px;
+  }
+}
+@media (max-width: 480px) {
+  .people-lead {
+    flex-direction: column;
+    gap: 16px;
+  }
+  .people-lead > img,
+  .people-lead > .person-initials {
+    width: 120px;
+    height: 145px;
   }
 }
 @media (max-width: 380px) {
