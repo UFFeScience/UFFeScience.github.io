@@ -1156,6 +1156,10 @@ footer {
   line-height: 1.45;
   letter-spacing: -0.35px;
   font-weight: 500;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
   margin: 0 0 12px;
 }
 .publication-preview-content > p {
