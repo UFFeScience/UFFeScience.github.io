@@ -1,4 +1,4 @@
-import { assetPath, homePath } from '../../../lib/site-path';
+import { assetPath } from '../../../lib/site-path';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
@@ -29,7 +29,7 @@ export default async function PublicationPage({ params }) {
     <>
       <SiteHeader />
       <main className="publication-detail">
-        <Link href={homePath('#novidades')} className="publication-back">
+        <Link href={'/publicacoes/'} className="publication-back">
           <ArrowLeft size={15} /> All publications
         </Link>
         <article>
@@ -98,7 +98,7 @@ export default async function PublicationPage({ params }) {
           )}
         </article>
         <div className="publication-detail-footer">
-          <Link href={homePath('#novidades')}>Back to publications</Link>
+          <Link href={'/publicacoes/'}>Back to publications</Link>
           {next && (
             <Link href={`/publicacoes/${next.slug}`}>
               Next publication <ArrowUpRight size={14} />

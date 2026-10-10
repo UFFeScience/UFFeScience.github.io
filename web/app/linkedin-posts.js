@@ -4,10 +4,15 @@ import Link from 'next/link';
 import { useRef, useState } from 'react';
 import { ArrowLeft, ArrowRight, ArrowUpRight } from 'lucide-react';
 import PublicationImage from './publication-image';
-export default function LinkedinPosts({ news }) {
+export default function LinkedinPosts({ news, listing = false }) {
   const track = useRef(null),
     [limit, setLimit] = useState(24);
-  const posts = news.posts;
+  const [query, setQuery] = useState('');
+  const posts = news.posts.filter((post) =>
+    `${post.title} ${post.text} ${post.author.name}`
+      .toLocaleLowerCase()
+      .includes(query.toLocaleLowerCase().trim()),
+  );
   function loadNearEnd(event) {
     const element = event.currentTarget;
     if (
@@ -32,24 +37,38 @@ export default function LinkedinPosts({ news }) {
           {news.lastCollectedAt &&
             ` · last collected on ${new Date(news.lastCollectedAt).toLocaleDateString('en-US')}`}
         </p>
-        <div className="shelf-arrows">
-          <button onClick={() => move(-1)} aria-label="Previous publications">
-            <ArrowLeft size={17} />
-          </button>
-          <button onClick={() => move(1)} aria-label="Next publications">
-            <ArrowRight size={17} />
-          </button>
-        </div>
+        {!listing && (
+          <div className="shelf-arrows">
+            <button onClick={() => move(-1)} aria-label="Previous publications">
+              <ArrowLeft size={17} />
+            </button>
+            <button onClick={() => move(1)} aria-label="Next publications">
+              <ArrowRight size={17} />
+            </button>
+          </div>
+        )}
       </div>
+      {listing && (
+        <label className="catalog-search">
+          Search publications
+          <input
+            type="search"
+            value={query}
+            placeholder="Text or author"
+            onChange={(event) => setQuery(event.target.value)}
+          />
+          <span aria-live="polite">{posts.length} publications</span>
+        </label>
+      )}
       <div
-        className="publication-horizontal-track"
+        className={listing ? 'publication-grid' : 'publication-horizontal-track'}
         ref={track}
         onScroll={loadNearEnd}
         role="region"
-        aria-label="Recent publications, horizontal scrolling"
+        aria-label="Publications"
         tabIndex={0}
       >
-        {posts.slice(0, limit).map((post) => (
+        {posts.slice(0, listing ? posts.length : limit).map((post) => (
           <article className="publication-preview" key={post.id}>
             <Link
               className="publication-cover-link"

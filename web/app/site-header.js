@@ -1,4 +1,5 @@
 import { assetPath, homePath } from '../lib/site-path';
+import Link from 'next/link';
 import { Github, ArrowUpRight } from 'lucide-react';
 export default function SiteHeader() {
   return (
@@ -10,8 +11,8 @@ export default function SiteHeader() {
         </span>
       </a>
       <nav aria-label="Main navigation">
-        <a href={homePath('#novidades')}>Publications</a>
-        <a href={homePath('#artigos')}>Papers</a>
+        <Link href="/publicacoes/">Publications</Link>
+        <Link href="/papers/">Papers</Link>
         <a href={homePath('#projetos')}>Projects</a>
         <a href={homePath('#pessoas')}>Team</a>
       </nav>

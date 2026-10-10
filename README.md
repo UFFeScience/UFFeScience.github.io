@@ -9,3 +9,5 @@ The live website is a static Next.js application in [`web/`](web/README.md). Git
 See [development and content documentation](web/README.md) for local preview, synchronization, storage and deployment details.
 
 To run locally with Docker, execute `docker compose up --build -d` from this directory, then open http://localhost:8080/. Stop it with `docker compose down`.
+
+Browse all news at `/publicacoes/` and scientific papers at `/papers/`. Both catalogs include local text search. Each paper has a statically generated detail page with its stored bibliographic information and an original-source link when available.

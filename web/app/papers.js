@@ -1,4 +1,5 @@
 'use client';
+import Link from 'next/link';
 import { useRef, useState } from 'react';
 import { ArrowLeft, ArrowRight, ArrowUpRight } from 'lucide-react';
 const PAGE_SIZE = 10;
@@ -8,18 +9,23 @@ const pageWindow = (page, pages) =>
   [...new Set([0, page - 1, page, page + 1, pages - 1])]
     .filter((i) => i >= 0 && i < pages)
     .sort((a, b) => a - b);
-function Authors({ authors }) {
+export function Authors({ authors }) {
   const names = authors.slice(0, 10).map((author) => author.name);
   return names.join('; ') + (authors.length > 10 ? '; et al.' : '');
 }
-export default function Papers({ papers }) {
+export default function Papers({ papers, listing = false }) {
   const section = useRef(null);
+  const [query, setQuery] = useState('');
   const [year, setYear] = useState('');
   const [page, setPage] = useState(0);
   const years = [...new Set(papers.papers.map((paper) => paper.year))];
-  const filtered = year
-    ? papers.papers.filter((paper) => paper.year === Number(year))
-    : papers.papers;
+  const filtered = papers.papers.filter(
+    (paper) =>
+      (!year || paper.year === Number(year)) &&
+      `${paper.title} ${paper.venue} ${paper.authors.map((author) => author.name).join(' ')}`
+        .toLocaleLowerCase()
+        .includes(query.toLocaleLowerCase().trim()),
+  );
   const pages = Math.ceil(filtered.length / PAGE_SIZE);
   function go(next) {
     setPage(next);
@@ -56,19 +62,33 @@ export default function Papers({ papers }) {
             `${papers.lattesUpdatedAt}T12:00:00Z`,
           ).toLocaleDateString('en-US')}`}
       </p>
+      {listing ? (
+        <label className="catalog-search">
+          Search papers
+          <input
+            type="search"
+            value={query}
+            placeholder="Title, author or venue"
+            onChange={(event) => {
+              setQuery(event.target.value);
+              setPage(0);
+            }}
+          />
+        </label>
+      ) : (
+        <Link className="publication-back" href="/papers/">
+          View all papers <ArrowRight size={15} />
+        </Link>
+      )}
       <ol className="papers-list">
         {filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE).map((paper) => (
           <li key={`${paper.kind}-${paper.year}-${paper.title}`} className="paper-entry">
             <span className="paper-year">{paper.year}</span>
             <div>
               <h3>
-                {paper.url ? (
-                  <a href={paper.url} target="_blank" rel="noreferrer">
-                    {paper.title} <ArrowUpRight size={14} />
-                  </a>
-                ) : (
-                  paper.title
-                )}
+                <Link href={`/papers/${paper.slug}/`}>
+                  {paper.title} <ArrowUpRight size={14} />
+                </Link>
               </h3>
               <p className="paper-authors">
                 <Authors authors={paper.authors} />

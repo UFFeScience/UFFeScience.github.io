@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { ArrowUpRight, ArrowRight, Github } from 'lucide-react';
 import { getGithub, getNews } from '../lib/data';
 import Projects from './projects';
@@ -77,6 +78,9 @@ export default async function Home() {
               <h2>Publications and news</h2>
             </div>
           </div>
+          <Link className="publication-back" href="/publicacoes/">
+            View all publications <ArrowRight size={15} />
+          </Link>
           <LinkedinPosts news={news} />
         </section>
         <People people={people} />

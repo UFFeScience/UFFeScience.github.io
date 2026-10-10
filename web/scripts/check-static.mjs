@@ -12,6 +12,21 @@ for (const file of ['data/publications.json', 'data/people.json', 'data/projects
   const media = [...new Set(source.match(/\/media\/[a-f0-9]{28}\.(?:jpg|png|webp|gif)/g) || [])];
   for (const asset of media) await fs.access('out' + asset);
 }
+const paperStore = JSON.parse(await fs.readFile('data/papers.json', 'utf8'));
+const paperFiles = await fs.readdir('out/papers', { withFileTypes: true });
+const paperRoutes = paperFiles
+  .filter((entry) => entry.isDirectory())
+  .map((entry) => `out/papers/${entry.name}/index.html`);
+assert.equal(paperRoutes.length, paperStore.papers.length);
+for (const file of paperRoutes) {
+  const html = await fs.readFile(file, 'utf8');
+  assert(html.includes('Published in'));
+  assert(html.includes('All papers'));
+}
+for (const file of ['out/papers/index.html', 'out/publicacoes/index.html']) {
+  assert((await fs.readFile(file, 'utf8')).includes('type="search"'));
+}
+console.log(`Validated ${paperRoutes.length} static paper routes and searchable catalogs.`);
 const home = await fs.readFile('out/index.html', 'utf8');
 assert(!home.includes('/api/projects/'));
 assert(!home.includes('apify_api_'));
@@ -23,6 +38,9 @@ console.log(`Validated ${slugs.length} static publication routes and all stored 
 
 for (const htmlFile of [
   'out/index.html',
+  'out/papers/index.html',
+  'out/publicacoes/index.html',
+  ...paperRoutes,
   ...slugs.map((slug) => `out/publicacoes/${slug}/index.html`),
 ]) {
   const html = await fs.readFile(htmlFile, 'utf8');

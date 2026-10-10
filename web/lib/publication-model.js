@@ -49,8 +49,7 @@ export function normalizePublication(raw, source) {
     text
       .split('\n')
       .map((line) => line.trim())
-      .find((line) => line && !/^🇧🇷\s*(pt-br|português)/i.test(line))
-      ?.slice(0, 160) || 'Publicação do grupo';
+      .find((line) => line && !/^🇧🇷\s*(pt-br|português)/i.test(line)) || 'Publicação do grupo';
   const shared = raw.repostedBy;
   const author = shared || raw.author || {};
   const rawImages =
