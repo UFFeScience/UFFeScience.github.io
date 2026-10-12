@@ -40,7 +40,7 @@ The site reads only stored files during the build. Visits do not call GitHub or 
 
 ## Weekly update and deployment
 
-`.github/workflows/pages.yml` is the only active schedule: Monday 12:00 UTC, equivalent to 09:00 Brasília. GitHub may delay scheduled jobs. Prior Apify and macOS schedules were disabled.
+`.github/workflows/pages.yml` is the only active schedule: Tuesday 12:17 UTC, equivalent to 09:17 Brasília. GitHub may delay scheduled jobs. Prior Apify and macOS schedules were disabled.
 
 The workflow updates GitHub data, people and LinkedIn, commits changed content with GITHUB_TOKEN, builds and deploys Pages. Shared concurrency prevents overlapping runs. Bot commits do not trigger another workflow; `[skip ci]` adds a second safeguard. Pushes to main deploy without collecting LinkedIn. Concurrent human changes are rebased without force-pushing; conflicts stop publication instead of overwriting work.
 
