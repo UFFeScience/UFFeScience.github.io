@@ -2,6 +2,78 @@
   "version": 1,
   "posts": [
     {
+      "id": "7515422854524583937",
+      "originalPostId": "7515422854524583937",
+      "slug": "we-are-proud-to-announce-that-marcello-ribeiro-successfully-defended-his-ph-7515422854524583937",
+      "title": "We are proud to announce that Marcello Ribeiro successfully defended his Ph.D. thesis, “An Approach for Scheduling Scientific Workflows in Hybrid VM–Serverless Cloud Environments,” on October 6 and is now the newest Doctor at the Instituto de Computação at Universidade Federal Fluminense (IC/UFF).",
+      "text": "We are proud to announce that Marcello Ribeiro successfully defended his Ph.D. thesis, “An Approach for Scheduling Scientific Workflows in Hybrid VM–Serverless Cloud Environments,” on October 6 and is now the newest Doctor at the Instituto de Computação at Universidade Federal Fluminense (IC/UFF).\n\nWorkflows increasingly execute on elastic cloud infrastructures, where serverless functions now coexist with traditional Virtual Machines. Each model has its own performance, pricing, and operational constraints, so a scheduler must decide not only when each activation runs, but also where. Marcello’s thesis tackles this underexplored heterogeneous scheduling problem with three complementary contributions:\n\n🔹 Denethor, a provenance capture system for workflows running on serverless platforms, providing empirical execution time and cost data;\n\n 🔹 FLEXE+IP, an integer programming model that formulates the scheduling problem;\n\n 🔹 FLEXE+, a GRASP-based heuristic with VND local search that jointly chooses the execution environment and the execution order, balancing makespan and financial cost.\n\nExperiments with synthetic workflows and a large-scale real bioinformatics workflow show that FLEXE+ reduces makespan or cost depending on the prioritized objective, while reaching near-optimal solutions on instances where the exact model is tractable.\n\nMarcello, thank you for your dedication and for all the contributions you brought to our group over these years. Well deserved!\n\nMarcello was advised by Profs. Daniel de Oliveira and (UFF) Isabel Rosseti (UFF). Our thanks to the examiners for the insightful discussion: Simone Martins, Yuri Frota (UFF), Marta Mattoso (COPPE/UFRJ), Luan Teylo (INRIA), Rafaelli Coutinho (Cefet/RJ), and UBIRATAM CARVALHO DE PAULA JUNIOR (UFRRJ).\n\n#PhD #CloudComputing #Serverless #ScientificWorkflows #Scheduling #Metaheuristics #UFF #eScience",
+      "date": "2026-10-12T14:47:18.323Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7515422852024668161",
+      "tag": "Publicação",
+      "author": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1793232000&v=beta&t=QJshmGOzlK0rUF5WX9SkVdokoVCLDWGAbOnm11DYMtI",
+        "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
+      },
+      "originalAuthor": null,
+      "sourceIds": [
+        "group",
+        "daniel"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQHSvzUA6tk7jA/feedshare-image-high-res/B4DaEwlQqXKIAY-/0/1791816436638?e=1793232000&v=beta&t=pHUfwtWoJDthNmJrIULhAp4cEGriibesDxJGlNEKg70"
+      ],
+      "images": [
+        "/media/d218879389421971258c8af21f98.jpg"
+      ],
+      "cover": "/media/d218879389421971258c8af21f98.jpg",
+      "engagement": {
+        "likes": 9,
+        "comments": 0,
+        "shares": 1
+      },
+      "aliasSlugs": [
+        "we-are-proud-to-announce-that-marcello-ribeiro-successfully-defended-his-ph-7515438772554092544"
+      ]
+    },
+    {
+      "id": "7513968146869829632",
+      "originalPostId": "7513957732085977088",
+      "slug": "new-paper-at-sibgrapi-2026-7513968146869829632",
+      "title": "📢 New paper at SIBGRAPI 2026!",
+      "text": "📢 New paper at SIBGRAPI 2026!\n\nWe're happy to share \"Reveal: A Provenance-Aware System for Multimodal Urban Data Exploration,\" presented at SIBGRAPI 2026.\n\nReveal is a visual analytics system that tackles:\n \n🔎 Multimodal text and image search over a shared CLIP embedding space\n\n 🧩 Set operations to combine and refine urban concepts\n\n 🗺️ Linked views: embedding plots, image galleries, word clouds, and spatial heatmaps\n\n 🧭 An exploration diagram that captures analytical provenance, making each analysis transparent, reproducible, and reusable\n\nIn case studies with an urban planner, Reveal helped expand the Project Sidewalk accessibility taxonomy with 11 new fine-grained categories, covering more than 1,600 newly labeled images. \n\nWe then reused the captured provenance as a \"semantic blueprint\" to replicate the analysis on Chicago street-level imagery.\n\nThis work continues our research line on provenance and scientific data management, applied here to urban visual analytics. It is a collaboration between the UFFeScience Research Group (Daniel de Oliveira, Aline Paes, and Marcos Lage), UIC (Leonardo Ferreira and Fabio Miranda), FGV (Joao Rulff), and UC Berkeley (Maryam Hosseini), and it builds on Leonardo Ferreira's master's work. \n\nCongratulations to all co-authors!\n\n💻 Code and tutorial: https://lnkd.in/dGzXh5V9\n\n#SIBGRAPI2026 #eScience #UFF #Provenance #VisualAnalytics #UrbanComputing #MultimodalData",
+      "date": "2026-10-08T14:26:48.991Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7513957732085977088",
+      "tag": "Compartilhamento",
+      "author": {
+        "name": "Daniel de Oliveira",
+        "url": "https://www.linkedin.com/in/daniel-de-oliveira-b258368?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAGMAc0BuDR8x4UBegJLJ-QzoeFi5jkDjQA",
+        "remoteAvatar": null
+      },
+      "originalAuthor": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts"
+      },
+      "sourceIds": [
+        "daniel"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQHKIMuoItXmug/feedshare-image-high-res/B4DaEbwvPYGkAY-/0/1791467124283?e=1793232000&v=beta&t=nhvLK2y_cSN_TOlPXu0uiMBZnXnMLrTuButmlUFTgN4",
+        "https://media.licdn.com/dms/image/v2/D4D22AQH9jaCFrHkV2w/feedshare-image-high-res/B4DaEbwvO8KsAU-/0/1791467124192?e=1793232000&v=beta&t=rWA50yqGvvaxKkmFoBUbmNsDHtYCIKBGd_NGNYSYySg"
+      ],
+      "images": [
+        "/media/370063908097affad63aa933ef7e.jpg",
+        "/media/0bf08eba730641c7430ab60d0c8d.jpg"
+      ],
+      "cover": "/media/370063908097affad63aa933ef7e.jpg",
+      "engagement": {
+        "likes": 9,
+        "comments": 0,
+        "shares": 1
+      }
+    },
+    {
       "id": "7513957735143751680",
       "slug": "new-paper-at-sibgrapi-2026-7513957735143751680",
       "title": "📢 New paper at SIBGRAPI 2026!",
@@ -30,18 +102,19 @@
       ],
       "cover": "/media/370063908097affad63aa933ef7e.jpg",
       "engagement": {
-        "likes": 5,
+        "likes": 9,
         "comments": 0,
         "shares": 1
       },
       "aliasSlugs": [
         "new-paper-at-sibgrapi-2026-7513968146869829632"
-      ]
+      ],
+      "originalPostId": "7513957735143751680"
     },
     {
       "id": "7507853500349906945",
       "slug": "on-september-17-prof-aline-paes-melll-uff-and-prof-daniel-de-oliveira-uffes-7507853500349906945",
-      "title": "On September 17, Prof. Aline Paes (MeLLL@UFF) and Prof. Daniel de Oliveira (UFFeScience Research Group) had the pleasure of giving a talk at CEFET/RJ – Campus M",
+      "title": "On September 17, Prof. Aline Paes (MeLLL@UFF) and Prof. Daniel de Oliveira (UFFeScience Research Group) had the pleasure of giving a talk at CEFET/RJ – Campus Maria da Graça.",
       "text": "On September 17, Prof. Aline Paes (MeLLL@UFF) and Prof. Daniel de Oliveira (UFFeScience Research Group) had the pleasure of giving a talk at CEFET/RJ – Campus Maria da Graça.\n\nThey presented \"Finding the Unexpected: Machine Learning for the Next Generation of Astronomy,\" based on Camila Lopes's PhD research.\n\nModern telescopes produce so much data that analyzing everything with traditional methods is becoming impossible. In the talk, they showed how machine learning can help astronomers find unusual and potentially important objects hidden in huge datasets. Their focus was Federated Learning, an approach that lets different computers train models together without moving all their data to one central location. Using observations from the Dark Energy Survey (DES), they tested how this approach could support future projects like the Legacy Survey of Space and Time (LSST), comparing configurations by speed, reliability, and cost.\n\nHuge thanks to the CEFET/RJ students for their great questions and genuine curiosity. It's inspiring to see young people so interested in our work! \n\nThanks also to Prof. Carlos Eduardo Pantoja and CEFET/RJ for hosting us and welcoming us so warmly.\n\n#MachineLearning #FederatedLearning #Astronomy #DataScience #eScience #UFF #CEFETRJ",
       "date": "2026-09-21T17:29:23.656Z",
       "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7507853497019756544",
@@ -70,15 +143,16 @@
       ],
       "cover": "/media/98600e0ceddaf37dc0d92a57a83d.jpg",
       "engagement": {
-        "likes": 42,
+        "likes": 43,
         "comments": 1,
         "shares": 2
-      }
+      },
+      "originalPostId": "7507853500349906945"
     },
     {
       "id": "7507155932284563457",
       "slug": "o-governo-do-rio-de-janeiro-recriou-a-secretaria-de-estado-de-ciencia-tecno-7507155932284563457",
-      "title": "O Governo do Rio de Janeiro recriou a Secretaria de Estado de Ciência, Tecnologia e Inovação (Secti) e nomeou o ex-reitor da UFF, Antonio Claudio Lucas da Nóbre",
+      "title": "O Governo do Rio de Janeiro recriou a Secretaria de Estado de Ciência, Tecnologia e Inovação (Secti) e nomeou o ex-reitor da UFF, Antonio Claudio Lucas da Nóbrega, para comandar a pasta.",
       "text": "O Governo do Rio de Janeiro recriou a Secretaria de Estado de Ciência, Tecnologia e Inovação (Secti) e nomeou o ex-reitor da UFF, Antonio Claudio Lucas da Nóbrega, para comandar a pasta.\n\nA nova estrutura, formalizada pelo Decreto nº 50.472, amplia a atuação da secretaria em áreas como pesquisa científica, inovação, inteligência artificial, transformação digital, inclusão digital e formação tecnológica. \n\nCom a reorganização, instituições estratégicas do ecossistema fluminense passam a estar novamente sob coordenação e supervisão direta da Secti, entre elas Uerj, Uenf, Faetec, Cecierj e Faperj. \n\nEntre as atribuições da nova estrutura estão o estímulo à aproximação entre universidades, centros de pesquisa e empresas, além do apoio a startups, incubadoras, aceleradoras e parques tecnológicos. A secretaria também deverá atuar na atração de centros de pesquisa e desenvolvimento para o Rio. \n\nMédico, pesquisador e professor da UFF, Nóbrega acumula mais de 30 anos de experiência acadêmica e já ocupou funções como pró-reitor de Pesquisa, Pós-Graduação e Inovação e vice-reitor da universidade. Pasted markdown\nPara o ecossistema de saúde, ciência e inovação, a mudança coloca novamente no centro da agenda estadual a articulação entre produção de conhecimento, pesquisa, tecnologia e desenvolvimento econômico.\n\nO novo desenho da Secti também abre espaço para acompanhar como o Rio pretende transformar sua capacidade científica e tecnológica em inovação aplicada e novas oportunidades para o setor produtivo.\n\nFonte: O Globo | Diário do Rio",
       "date": "2026-09-19T19:17:30.469Z",
       "url": "https://www.linkedin.com/feed/update/urn:li:share:7506798574366732288",
@@ -106,12 +180,13 @@
         "likes": 182,
         "comments": 5,
         "shares": 8
-      }
+      },
+      "originalPostId": "7506798575373144064"
     },
     {
       "id": "7507154588874166274",
       "slug": "happy-to-share-that-our-paper-entitled-a-workflow-for-automated-cell-type-a-7507154588874166274",
-      "title": "Happy to share that our paper entitled \"A Workflow for Automated Cell-Type Annotation in scRNA-seq Using LLMs and Graph-Based Community Detection\" has been acce",
+      "title": "Happy to share that our paper entitled \"A Workflow for Automated Cell-Type Annotation in scRNA-seq Using LLMs and Graph-Based Community Detection\" has been accepted at the Brazilian Symposium on Bioinformatics (BSB 2026)!",
       "text": "Happy to share that our paper entitled \"A Workflow for Automated Cell-Type Annotation in scRNA-seq Using LLMs and Graph-Based Community Detection\" has been accepted at the Brazilian Symposium on Bioinformatics (BSB 2026)!\n\nThe paper proposes CellLens+, which is a workflow for automated cell-type annotation that brings together graph-based community detection, deterministic molecular inference, and Large Language Models. It detects transcriptionally coherent cell populations, identifies cluster-specific marker genes, and assigns cellular identities through a quantitative scoring framework.\n\nAuthors: Layse Gomes Castro, João Vitor Moraes, and Daniel de Oliveira.\n\nCongratulations, and see you at BSB 2026 in Ribeirão Preto!\n\n#Bioinformatics #SingleCell #scRNAseq #LLM #BSB2026 #UFF",
       "date": "2026-09-19T19:12:10.175Z",
       "url": "https://www.linkedin.com/feed/update/urn:li:share:7507154587628318720",
@@ -141,12 +216,13 @@
       },
       "aliasSlugs": [
         "happy-to-share-that-our-paper-entitled-a-workflow-for-automated-cell-type-a-7507155060217311233"
-      ]
+      ],
+      "originalPostId": "7507154588874166274"
     },
     {
       "id": "7506043663907516416",
       "slug": "congratulations-to-valesca-moura-who-presented-the-work-instrumentation-vs-7506043663907516416",
-      "title": "Congratulations to Valesca Moura, who presented the work \"Instrumentation vs. Observability: Provenance Capture Trade-offs in Agentic Workflows\" at the APeX Sum",
+      "title": "Congratulations to Valesca Moura, who presented the work \"Instrumentation vs. Observability: Provenance Capture Trade-offs in Agentic Workflows\" at the APeX Summit 2026 (Academy, Parsl, Globus Compute).",
       "text": "Congratulations to Valesca Moura, who presented the work \"Instrumentation vs. Observability: Provenance Capture Trade-offs in Agentic Workflows\" at the APeX Summit 2026 (Academy, Parsl, Globus Compute).\n\nAs AI agents increasingly take part in scientific workflows, understanding what they did, why, and with which data becomes important for trust and reproducibility. This work looks at a practical question at the heart of this: when capturing provenance in agentic workflows, what do we gain and what do we pay when we instrument the code explicitly versus relying on observability mechanisms?\n\nAnd there's more good news! The paper has been accepted at WISDOM @ IEEE eScience 2026 and will be published soon. \n\nThis was a truly collaborative effort, and we are grateful to work with such a great team: Valesca Moura, Amal Gueroudji, Daniel Rosendo, Ben Clifford, Kyle Chard, Rafael Ferreira da Silva, Daniel de Oliveira and Renan Souza.\n\nLooking forward to what comes next.\n\n🔗 Program and slides: https://lnkd.in/d9c5draW\n\n#eScience #Provenance #AgenticAI #ScientificWorkflows #Observability",
       "date": "2026-09-16T17:37:45.023Z",
       "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7506043662401982466",
@@ -174,12 +250,51 @@
         "likes": 21,
         "comments": 0,
         "shares": 2
+      },
+      "originalPostId": "7506043663907516416"
+    },
+    {
+      "id": "7504903615078313984",
+      "originalPostId": "7504715320868270080",
+      "slug": "mais-uma-boa-noticia-direto-do-brazilian-symposium-on-databases-sbbd-nosso-7504903615078313984",
+      "title": "Mais uma boa notícia direto do Brazilian Symposium on Databases (SBBD): nosso artigo recebeu o prêmio de Melhor Artigo do XX Brazilian e-Science Workshop (BreSci 2026)! 🏆",
+      "text": "🇧🇷 pt-br\n\nMais uma boa notícia direto do Brazilian Symposium on Databases (SBBD): nosso artigo recebeu o prêmio de Melhor Artigo do XX Brazilian e-Science Workshop (BreSci 2026)! 🏆\n\n\"Mineração de Subárvores Frequentes em Árvores Filogenéticas usando Conjuntos de Itens Frequentes Maximais\" é fruto do trabalho de João Vitor Moraes e Layse Gomes Castro, em parceria com Isabel Rosseti e Daniel de Oliveira, todos do Instituto de Computação UFF.\n\nO ponto de partida é que métodos diferentes produzem árvores filogenéticas distintas a partir dos mesmos dados, e as árvores de consenso — a saída usual — acabam por esconder conflitos topológicos.\n\nO PhyloTreeMiner propõe uma alternativa ao consenso: minerar subárvores frequentes, identificando padrões topológicos recorrentes com base no valor de suporte. Modelamos o problema como mineração de conjuntos de itens frequentes maximais (FPMax), o que reduz o custo computacional, e armazenamos os resultados no Neo4j, permitindo consultas que combinam topologia e metadados.\n\nParabéns, João Vitor e Layse — o prêmio é de vocês! 👏\n\n📄 Artigo: https://lnkd.in/ddQNTUFB\n\n#BreSci2026 #eScience #Filogenia #Bioinformática #DataMining #Neo4j #UFF\n\n🇺🇸 en-us\n\nMore good news from Brazilian Symposium on Databases (SBBD): our paper received the Best Paper Award at the XX Brazilian e-Science Workshop (BreSci 2026)! 🏆\n\n\"Frequent Subtree Mining in Phylogenetic Trees using Maximal Frequent Itemsets\" is the work of João Vitor Moraes and Layse Gomes Castro, together with Isabel Rosseti and Daniel de Oliveira, all from IC/UFF.\n\nDifferent methods produce different phylogenetic trees from the same dataset, and consensus trees—the usual way out—tend to hide topological conflicts and discard relevant evolutionary signal.\n\nPhyloTreeMiner offers an alternative to consensus: mining frequent subtrees to identify recurring topological patterns based on support values. We model the problem as maximal frequent itemset mining (FPMax), which substantially reduces the computational cost, and store the results in Neo4j, enabling queries that combine topology and metadata.\n\nCongratulations, João Vitor and Layse — this award is yours! 👏\n\n📄 Paper: https://lnkd.in/ddQNTUFB\n\n#BreSci2026 #eScience #Phylogenetics #Bioinformatics #DataMining #Neo4j #UFF",
+      "date": "2026-09-13T14:07:36.201Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7504715320868270080",
+      "tag": "Compartilhamento",
+      "author": {
+        "name": "Daniel de Oliveira",
+        "url": "https://www.linkedin.com/in/daniel-de-oliveira-b258368?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAGMAc0BuDR8x4UBegJLJ-QzoeFi5jkDjQA",
+        "remoteAvatar": null
+      },
+      "originalAuthor": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts"
+      },
+      "sourceIds": [
+        "daniel"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQHoEIcbBKZVYw/feedshare-shrink_1280/B4DaCYa0DmK0Ac-/0/1789263561735?e=1793232000&v=beta&t=PBmYovcim2qr3N-qJy0dV6QBIih7C4lp35ofz7IDuWQ",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGxcgC9JMF7Zg/feedshare-image-high-res/B4DaCYazw_HgAU-/0/1789263560335?e=1793232000&v=beta&t=XUdtxX9PWlCUPZCkMRP6ob5ydLHfLlwmxH3cZst4Ids",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGWAPfzHDc0mA/feedshare-shrink_1280/B4DaCYaztDJsAM-/0/1789263560205?e=1793232000&v=beta&t=SvpbkXOwEhiqBVeCiQ2_uPTUJhtkM0uKURRsjZZYYDM"
+      ],
+      "images": [
+        "/media/cb9f71a340119ec477dbb2109720.jpg",
+        "/media/e8fb4a470649c3e7594d77466053.jpg",
+        "/media/67aa3b74c4fac2afbf3c6d2174a9.jpg"
+      ],
+      "cover": "/media/cb9f71a340119ec477dbb2109720.jpg",
+      "engagement": {
+        "likes": 43,
+        "comments": 0,
+        "shares": 3
       }
     },
     {
       "id": "7504886671159623680",
       "slug": "mais-uma-boa-noticia-direto-do-brazilian-symposium-on-databases-sbbd-nosso-7504886671159623680",
-      "title": "Mais uma boa notícia direto do Brazilian Symposium on Databases (SBBD): nosso artigo recebeu o prêmio de Melhor Artigo do XX Brazilian e-Science Workshop (BreSc",
+      "title": "Mais uma boa notícia direto do Brazilian Symposium on Databases (SBBD): nosso artigo recebeu o prêmio de Melhor Artigo do XX Brazilian e-Science Workshop (BreSci 2026)! 🏆",
       "text": "🇧🇷 pt-br\n\nMais uma boa notícia direto do Brazilian Symposium on Databases (SBBD): nosso artigo recebeu o prêmio de Melhor Artigo do XX Brazilian e-Science Workshop (BreSci 2026)! 🏆\n\n\"Mineração de Subárvores Frequentes em Árvores Filogenéticas usando Conjuntos de Itens Frequentes Maximais\" é fruto do trabalho de João Vitor Moraes e Layse Gomes Castro, em parceria com Isabel Rosseti e Daniel de Oliveira, todos do Instituto de Computação UFF.\n\nO ponto de partida é que métodos diferentes produzem árvores filogenéticas distintas a partir dos mesmos dados, e as árvores de consenso — a saída usual — acabam por esconder conflitos topológicos.\n\nO PhyloTreeMiner propõe uma alternativa ao consenso: minerar subárvores frequentes, identificando padrões topológicos recorrentes com base no valor de suporte. Modelamos o problema como mineração de conjuntos de itens frequentes maximais (FPMax), o que reduz o custo computacional, e armazenamos os resultados no Neo4j, permitindo consultas que combinam topologia e metadados.\n\nParabéns, João Vitor e Layse — o prêmio é de vocês! 👏\n\n📄 Artigo: https://lnkd.in/ddQNTUFB\n\n#BreSci2026 #eScience #Filogenia #Bioinformática #DataMining #Neo4j #UFF\n\n🇺🇸 en-us\n\nMore good news from Brazilian Symposium on Databases (SBBD): our paper received the Best Paper Award at the XX Brazilian e-Science Workshop (BreSci 2026)! 🏆\n\n\"Frequent Subtree Mining in Phylogenetic Trees using Maximal Frequent Itemsets\" is the work of João Vitor Moraes and Layse Gomes Castro, together with Isabel Rosseti and Daniel de Oliveira, all from IC/UFF.\n\nDifferent methods produce different phylogenetic trees from the same dataset, and consensus trees—the usual way out—tend to hide topological conflicts and discard relevant evolutionary signal.\n\nPhyloTreeMiner offers an alternative to consensus: mining frequent subtrees to identify recurring topological patterns based on support values. We model the problem as maximal frequent itemset mining (FPMax), which substantially reduces the computational cost, and store the results in Neo4j, enabling queries that combine topology and metadata.\n\nCongratulations, João Vitor and Layse — this award is yours! 👏\n\n📄 Paper: https://lnkd.in/ddQNTUFB\n\n#BreSci2026 #eScience #Phylogenetics #Bioinformatics #DataMining #Neo4j #UFF",
       "date": "2026-09-13T13:00:16.456Z",
       "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7504715320868270080",
@@ -207,13 +322,72 @@
       ],
       "cover": "/media/cb9f71a340119ec477dbb2109720.jpg",
       "engagement": {
-        "likes": 42,
+        "likes": 43,
         "comments": 0,
         "shares": 3
       },
       "aliasSlugs": [
         "mais-uma-boa-noticia-direto-do-brazilian-symposium-on-databases-sbbd-nosso-7504903615078313984"
-      ]
+      ],
+      "originalPostId": "7504886671159623680"
+    },
+    {
+      "id": "7504844265731325952",
+      "originalPostId": "7504723192771403776",
+      "slug": "o-uffescience-research-group-desembarcou-em-sao-carlos-para-o-brazilian-sym-7504844265731325952",
+      "title": "O UFFeScience Research Group desembarcou em São Carlos para o Brazilian Symposium on Databases (SBBD) 2026.",
+      "text": "🇧🇷 pt-br\n\nO UFFeScience Research Group desembarcou em São Carlos para o Brazilian Symposium on Databases (SBBD) 2026.\n\nForam apresentados 11 trabalhos, entre artigos completos, artigos curtos, demonstrações e workshops, abrangendo temas como proveniência de workflows agênticos, IA responsável, arquiteturas HTAP, continuum computacional, grafos de conhecimento e bioinformática.\n\nE dois reconhecimentos que coroaram a semana:\n\n 🏆 Melhor Artigo do BreSci 2026\n 🏅 Menção Honrosa de artigos completos no SBBD 2026\n\nMas o número que mais importa não é nenhum desses, é o nosso grupo. Alunos e alunas que transformaram noites de experimento em resultado, coautores e parceiros de outras instituições que somaram conosco, e uma organização impecável do SBBD e do BreSci que fez tudo acontecer.\n\nObrigado a cada um de vocês.  👏\n\nOs artigos estão todos nos comentários. 👇\n\n#SBBD2026 #BreSci2026 #eScience #UFF #BancoDeDados \n\n🇺🇸 en-us\n\nThe UFFeScience Research Group landed in São Carlos for Brazilian Symposium on Databases (SBBD) 2026.\n\nEleven works were presented as full papers, short papers, a demo, and workshop contributions, covering topics such as provenance for agentic workflows, responsible AI, HTAP architectures, the computing continuum, knowledge graphs, and bioinformatics.\n\nPlus two recognitions that capped the week:\n\n 🏆 Best Paper Award at BreSci 2026\n 🏅Full Paper Honorable Mention at SBBD 2026\n\nBut the number that matters most isn't any of those, it's our team. The students who turned late-night experiments into results, the co-authors and partners from other institutions who joined us, and the SBBD and BreSci organizers who made it all run flawlessly.\n\nThank you, every one of you 👏\n\nAll the papers are in the comments. 👇\n\n#SBBD2026 #BreSci2026 #eScience #UFF #Databases",
+      "date": "2026-09-13T10:11:46.214Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7504723192771403776",
+      "tag": "Compartilhamento",
+      "author": {
+        "name": "Daniel de Oliveira",
+        "url": "https://www.linkedin.com/in/daniel-de-oliveira-b258368?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAGMAc0BuDR8x4UBegJLJ-QzoeFi5jkDjQA",
+        "remoteAvatar": null
+      },
+      "originalAuthor": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts"
+      },
+      "sourceIds": [
+        "daniel"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQGE1BdjQ0gb0Q/feedshare-shrink_1280/B4DaCYh.MPJsAM-/0/1789265438012?e=1793232000&v=beta&t=inx25VihTu1kzol2KaUt0CoWAkIzRrQHOa_dL2LmGSw",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHUM01y7-ogvg/feedshare-image-high-res/B4DaCYh9lbHsAU-/0/1789265435255?e=1793232000&v=beta&t=mIhhDaGJRzwYnQnli2-WC7k0mQFUSuq06f_M37WVrDo",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEdFp6oiylMJg/feedshare-shrink_1280/B4DaCYh99eIgAM-/0/1789265436955?e=1793232000&v=beta&t=QozRM5vlxCs0Nthv1av6tx21zI2oZKTbnu1BtXm5Hdc",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGnnE8KQYHLsg/feedshare-image-high-res/B4DaCYh.SSGkAU-/0/1789265438453?e=1793232000&v=beta&t=-opLPzYbcVJf_VwaxVKd4LOpjQGVZGeQpKJOVXBGyfE",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFKq-WWrzlfTA/feedshare-image-high-res/B4DaCYh.GCKIAU-/0/1789265437842?e=1793232000&v=beta&t=LVBCDyf7-hOyst_yfBjt-pTV0_X-2WCMQKMJrxIRc1w",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHSZMsi8EOZoA/feedshare-shrink_1280/B4DaCYh.DLHwAM-/0/1789265437498?e=1793232000&v=beta&t=FQE72T18JZ7og_LjmKZnsr88xIKcguzV2LmFUqGagS8",
+        "https://media.licdn.com/dms/image/v2/D4D22AQF6eJUT8RIo6w/feedshare-image-high-res/B4DaCYh.L4JoAU-/0/1789265438268?e=1793232000&v=beta&t=n-_IijP2WmrfQV0XaAoxzAIsZaf0IpYSBnzZHvzN_KE",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHlv644mqrE-w/feedshare-image-high-res/B4DaCYh.B7JwAU-/0/1789265437540?e=1793232000&v=beta&t=wSL85oeOfhrqp3Y8Yiolhin0hF-e1C4xRqYMOvS3sF0",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHyrku0FOb3Bw/feedshare-shrink_1280/B4DaCYh.E4GYAM-/0/1789265437631?e=1793232000&v=beta&t=EUUqLMy-x3HULL8UcCvUkPQDNAZdQlJ4ObkVX4vRviM",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHrsRZew8uC3g/feedshare-shrink_1280/B4DaCYh.GqI4AM-/0/1789265437595?e=1793232000&v=beta&t=EUy2breMo-Shd10T8NEHV9trRsLoieKzcvGNRsWAj1c",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEFSuhAqNeHKw/feedshare-image-high-res/B4DaCYh9nwKAAU-/0/1789265435568?e=1793232000&v=beta&t=lrtIWXDSSPMYW3_bLx9HVu__AOxtImuNnDWUHmk1d0Y",
+        "https://media.licdn.com/dms/image/v2/D4D22AQEyPAoflHzLDQ/feedshare-image-high-res/B4DaCYh98yHUAU-/0/1789265437022?e=1793232000&v=beta&t=ItmvnQKDH92BnbRK907hXBIdcxwK8UGsWAdoDrp10R0",
+        "https://media.licdn.com/dms/image/v2/D4D22AQH3gmIaB8yN-g/feedshare-shrink_1280/B4DaCYh94tHsAM-/0/1789265436705?e=1793232000&v=beta&t=WIBoNVxqKRnMXjA-YE1LPCvUkUwAOIphKCZgKwSriGA"
+      ],
+      "images": [
+        "/media/cbe79d71084324e8288697ed3ba4.jpg",
+        "/media/eb8feecb91786a5432b61d2b3b78.jpg",
+        "/media/53e8653fba577cbc7afc4ca774c1.jpg",
+        "/media/e8fb4a470649c3e7594d77466053.jpg",
+        "/media/24c1b8a51c34465f6ca429c92fc9.jpg",
+        "/media/30ec6fd259e2ad5536b9d83b99f2.jpg",
+        "/media/b903837753236c9fac0c2c8ea8de.jpg",
+        "/media/be9aa2f239947f9584b7d7c4c2a9.jpg",
+        "/media/3f4aabbbe6f82c4472a205d25fc9.jpg",
+        "/media/a7b99fa53021175b63345df7d9b7.jpg",
+        "/media/d0722643f55bcc3434367a857122.jpg",
+        "/media/b57c4dcd081c6df128caf670e4c6.jpg",
+        "/media/4089a8efe4255ee27f6dce7b2d24.jpg"
+      ],
+      "cover": "/media/cbe79d71084324e8288697ed3ba4.jpg",
+      "engagement": {
+        "likes": 80,
+        "comments": 11,
+        "shares": 8
+      }
     },
     {
       "id": "7504735617633808384",
@@ -266,18 +440,57 @@
       ],
       "cover": "/media/cbe79d71084324e8288697ed3ba4.jpg",
       "engagement": {
-        "likes": 79,
+        "likes": 80,
         "comments": 11,
         "shares": 8
       },
       "aliasSlugs": [
         "o-uffescience-research-group-desembarcou-em-sao-carlos-para-o-brazilian-sym-7504844265731325952"
-      ]
+      ],
+      "originalPostId": "7504735617633808384"
+    },
+    {
+      "id": "7504716044331229184",
+      "originalPostId": "7504710292224978944",
+      "slug": "noticia-que-da-orgulho-de-compartilhar-o-artigo-associado-a-pesquisa-de-mes-7504716044331229184",
+      "title": "Notícia que dá orgulho de compartilhar: o artigo associado a pesquisa de mestrado da Valesca Moura (orientada pelos Profs. Sandro Rama Fiorini e Daniel de Oliveira) recebeu Menção Honrosa no SBBD 2026!",
+      "text": "🇧🇷 pt-br\n\nNotícia que dá orgulho de compartilhar: o artigo associado a pesquisa de mestrado da Valesca Moura (orientada pelos Profs. Sandro Rama Fiorini e Daniel de Oliveira) recebeu Menção Honrosa no SBBD 2026! \n\nO artigo \"Uma Abordagem Orientada a Dados de Proveniência para Rastreabilidade de Workflows Agênticos\" aborda um problema que cresce com a adoção de agentes de IA: quando um LLM decide as tarefas e as dependências de dados de um workflow, como saber por que o workflow ficou daquele jeito?\n\nA abordagem (ANCHOR) captura a proveniência de workflows agênticos, instrumentando o próprio framework de agentes e representando os dados conforme o padrão W3C PROV. O resultado é a possibilidade de analisar as decisões dos agentes e o impacto delas no workflow gerado, com granularidade superior à dos trabalhos existentes.\n\nParabéns, Valesca! 👏\n\n📄 Artigo: https://lnkd.in/dT2ra9aC\n 💻 Código: https://lnkd.in/dsSVpD-U\n\n#SBBD2026 #Proveniência #WorkflowsAgênticos #AgenticAI #IAResponsável #UFF #eScience\n\n🇺🇸 en-us\n\nProud to share this one: Valesca Moura's master's research (advised by Sandro Fiorini and Daniel de Oliveira) received an Honorable Mention at SBBD 2026! 🏆\n\nThe paper \"A Provenance Data-Oriented Approach for Agentic Workflow Traceability\" tackles a problem that grows with every new AI agent deployment: when an LLM decides tasks and data dependencies, how do we know why a workflow ended up the way it did?\n\nOur approach (ANCHOR) captures provenance from agentic workflows by instrumenting the agent framework itself and representing the data according to the W3C PROV standard. This makes it possible to analyze agents' decisions and their impact on the generated workflow, at a finer granularity than existing approaches offer.\n\nCongratulations, Valesca! 👏\n\n📄 Paper: https://lnkd.in/dT2ra9aC\n 💻 Code: https://lnkd.in/dsSVpD-U\n\n#SBBD2026 #DataProvenance #AgenticWorkflows #AgenticAI #ResponsibleAI #UFF #eScience",
+      "date": "2026-09-13T01:42:15.850Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7504710292224978944",
+      "tag": "Compartilhamento",
+      "author": {
+        "name": "Daniel de Oliveira",
+        "url": "https://www.linkedin.com/in/daniel-de-oliveira-b258368?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAGMAc0BuDR8x4UBegJLJ-QzoeFi5jkDjQA",
+        "remoteAvatar": null
+      },
+      "originalAuthor": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts"
+      },
+      "sourceIds": [
+        "daniel"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQE_uDMgXdYklA/feedshare-shrink_1280/B4DaCYWPmvJgAM-/0/1789262363581?e=1793232000&v=beta&t=NfFd4q4_V_Hhba8hT-nQXCld6rXl7ZYGcr5DJpZZvRo",
+        "https://media.licdn.com/dms/image/v2/D4D22AQE3jtnfw1X_Ag/feedshare-shrink_1280/B4DaCYWPZtJoAM-/0/1789262362858?e=1793232000&v=beta&t=-oB1fTsdGBY6ozo6OpcMKJpWdYyZM9sJ90mNEOwjvo0",
+        "https://media.licdn.com/dms/image/v2/D4D22AQHhFLRxRpqJYA/feedshare-shrink_1280/B4DaCYWPXiIMAM-/0/1789262362707?e=1793232000&v=beta&t=v1ZYhiEwYZY5TiLCU1FQVWsEywRKMO_N0DQKPurjJYo"
+      ],
+      "images": [
+        "/media/d7207c2688809d8f247a604f430b.jpg",
+        "/media/3f4aabbbe6f82c4472a205d25fc9.jpg",
+        "/media/f15855e8fb0d92ba0256880bf6b9.jpg"
+      ],
+      "cover": "/media/d7207c2688809d8f247a604f430b.jpg",
+      "engagement": {
+        "likes": 123,
+        "comments": 3,
+        "shares": 5
+      }
     },
     {
       "id": "7504710294003265536",
       "slug": "noticia-que-da-orgulho-de-compartilhar-o-artigo-associado-a-pesquisa-de-mes-7504710294003265536",
-      "title": "Notícia que dá orgulho de compartilhar: o artigo associado a pesquisa de mestrado da Valesca Moura (orientada pelos Profs. Sandro Rama Fiorini e Daniel de Olive",
+      "title": "Notícia que dá orgulho de compartilhar: o artigo associado a pesquisa de mestrado da Valesca Moura (orientada pelos Profs. Sandro Rama Fiorini e Daniel de Oliveira) recebeu Menção Honrosa no SBBD 2026!",
       "text": "🇧🇷 pt-br\n\nNotícia que dá orgulho de compartilhar: o artigo associado a pesquisa de mestrado da Valesca Moura (orientada pelos Profs. Sandro Rama Fiorini e Daniel de Oliveira) recebeu Menção Honrosa no SBBD 2026! \n\nO artigo \"Uma Abordagem Orientada a Dados de Proveniência para Rastreabilidade de Workflows Agênticos\" aborda um problema que cresce com a adoção de agentes de IA: quando um LLM decide as tarefas e as dependências de dados de um workflow, como saber por que o workflow ficou daquele jeito?\n\nA abordagem (ANCHOR) captura a proveniência de workflows agênticos, instrumentando o próprio framework de agentes e representando os dados conforme o padrão W3C PROV. O resultado é a possibilidade de analisar as decisões dos agentes e o impacto delas no workflow gerado, com granularidade superior à dos trabalhos existentes.\n\nParabéns, Valesca! 👏\n\n📄 Artigo: https://lnkd.in/dT2ra9aC\n 💻 Código: https://lnkd.in/dsSVpD-U\n\n#SBBD2026 #Proveniência #WorkflowsAgênticos #AgenticAI #IAResponsável #UFF #eScience\n\n🇺🇸 en-us\n\nProud to share this one: Valesca Moura's master's research (advised by Sandro Fiorini and Daniel de Oliveira) received an Honorable Mention at SBBD 2026! 🏆\n\nThe paper \"A Provenance Data-Oriented Approach for Agentic Workflow Traceability\" tackles a problem that grows with every new AI agent deployment: when an LLM decides tasks and data dependencies, how do we know why a workflow ended up the way it did?\n\nOur approach (ANCHOR) captures provenance from agentic workflows by instrumenting the agent framework itself and representing the data according to the W3C PROV standard. This makes it possible to analyze agents' decisions and their impact on the generated workflow, at a finer granularity than existing approaches offer.\n\nCongratulations, Valesca! 👏\n\n📄 Paper: https://lnkd.in/dT2ra9aC\n 💻 Code: https://lnkd.in/dsSVpD-U\n\n#SBBD2026 #DataProvenance #AgenticWorkflows #AgenticAI #ResponsibleAI #UFF #eScience",
       "date": "2026-09-13T01:19:24.865Z",
       "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7504710292224978944",
@@ -311,7 +524,8 @@
       },
       "aliasSlugs": [
         "noticia-que-da-orgulho-de-compartilhar-o-artigo-associado-a-pesquisa-de-mes-7504716044331229184"
-      ]
+      ],
+      "originalPostId": "7504710294003265536"
     },
     {
       "id": "7502012071065284608",
@@ -4213,25 +4427,25 @@
       "id": "group",
       "name": "UFFeScience Research Group",
       "url": "https://www.linkedin.com/company/uffescience-research-group",
-      "runId": "wqBLGPhcr0u4VG7eB",
-      "datasetId": "7PcEv4e0klm5kdIgR",
-      "collectedAt": "2026-10-08T16:08:59.934Z",
+      "runId": "eKmhAAxrCh9SdSS1T",
+      "datasetId": "7AL44Muqa2iHMNbaC",
+      "collectedAt": "2026-10-12T19:53:09.082Z",
       "status": "success",
-      "received": 44,
+      "received": 8,
       "limitReached": false
     },
     {
       "id": "daniel",
       "name": "Daniel de Oliveira",
       "url": "https://www.linkedin.com/in/daniel-de-oliveira-b258368/",
-      "runId": "xe43itFUVizUfgCWt",
-      "datasetId": "3Epq7gnZWq1QOQ1AB",
-      "collectedAt": "2026-10-08T16:12:27.850Z",
+      "runId": "RQJzO3UcDASkgE3VU",
+      "datasetId": "DAJ1rvnALqOny8LQr",
+      "collectedAt": "2026-10-12T19:53:17.180Z",
       "status": "success",
-      "received": 121,
+      "received": 7,
       "limitReached": false
     }
   ],
-  "lastCheckedAt": "2026-10-08T16:20:49.574Z",
-  "lastCollectedAt": "2026-10-08T16:12:27.850Z"
+  "lastCheckedAt": "2026-10-12T19:53:19.357Z",
+  "lastCollectedAt": "2026-10-12T19:53:17.180Z"
 }
