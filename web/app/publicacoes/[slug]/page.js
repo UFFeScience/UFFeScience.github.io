@@ -2,7 +2,7 @@ import { assetPath } from '../../../lib/site-path';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
-import { readPublications } from '../../../lib/publication-store';
+import { readPublications, readGroupPublications } from '../../../lib/publication-store';
 import SiteHeader from '../../site-header';
 import PublicationImage from '../../publication-image';
 export const dynamicParams = false;
@@ -23,8 +23,9 @@ export default async function PublicationPage({ params }) {
   const { posts } = await readPublications();
   const post = posts.find((item) => item.slug === slug || item.aliasSlugs?.includes(slug));
   if (!post) notFound();
-  const index = posts.findIndex((item) => item.id === post.id),
-    next = posts[index + 1];
+  const { posts: groupPosts } = await readGroupPublications();
+  const index = groupPosts.findIndex((item) => item.id === post.id),
+    next = groupPosts[index + 1];
   return (
     <>
       <SiteHeader />
@@ -71,6 +72,7 @@ export default async function PublicationPage({ params }) {
             <PublicationImage
               src={post.cover}
               alt={`Publication image by ${post.author.name}`}
+              zoomable
               className="publication-detail-cover"
             />
           )}
@@ -86,6 +88,7 @@ export default async function PublicationPage({ params }) {
                   key={image}
                   src={image}
                   alt={`Publication image ${i + 2}`}
+                  zoomable
                   className="publication-gallery-image"
                 />
               ))}

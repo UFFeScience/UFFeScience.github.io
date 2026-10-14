@@ -29,9 +29,11 @@ try {
 } catch {}
 if (
   !force &&
-  previous.sources?.length === 2 &&
-  previous.sources.every(
-    (source) => source.collectedAt && new Date(source.collectedAt) >= weekStart,
+  publicationSources.every((active) =>
+    previous.sources?.some(
+      (source) =>
+        source.id === active.id && source.collectedAt && new Date(source.collectedAt) >= weekStart,
+    ),
   )
 ) {
   console.log('Publicações já sincronizadas nesta semana. Nenhuma consulta ao Apify.');

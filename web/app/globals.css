@@ -1693,3 +1693,51 @@ footer {
 .paper-entry h3 {
   overflow-wrap: anywhere;
 }
+
+.publication-image-open {
+  display: block;
+  width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  cursor: zoom-in;
+}
+.publication-image-open:focus-visible {
+  outline: 2px solid #167ab4;
+  outline-offset: 4px;
+}
+.publication-image-dialog {
+  max-width: 96vw;
+  max-height: 96vh;
+  padding: 48px 16px 16px;
+  border: 0;
+  border-radius: 6px;
+  background: #fff;
+  overscroll-behavior: contain;
+}
+.publication-image-dialog::backdrop {
+  background: rgb(8 22 35 / 85%);
+}
+.publication-image-dialog > img {
+  display: block;
+  max-width: 88vw;
+  max-height: 77vh;
+  object-fit: contain;
+  margin: auto;
+}
+.publication-image-dialog > a {
+  display: block;
+  text-align: center;
+  margin-top: 12px;
+  font-size: 13px;
+}
+.publication-image-close {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  display: flex;
+  padding: 6px;
+  background: white;
+  border: 0;
+  cursor: pointer;
+}

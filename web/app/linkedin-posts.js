@@ -33,7 +33,7 @@ export default function LinkedinPosts({ news, listing = false }) {
     <div className="publication-shelf">
       <div className="publication-shelf-toolbar">
         <p>
-          UFFeScience Research Group and Daniel de Oliveira · updated weekly
+          UFFeScience Research Group · updated weekly
           {news.lastCollectedAt &&
             ` · last collected on ${new Date(news.lastCollectedAt).toLocaleDateString('en-US')}`}
         </p>

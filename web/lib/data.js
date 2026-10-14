@@ -1,7 +1,7 @@
 import 'server-only';
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { readPublications } from './publication-store';
+import { readGroupPublications } from './publication-store';
 
 export async function getGithub() {
   const store = JSON.parse(
@@ -10,5 +10,5 @@ export async function getGithub() {
   return store;
 }
 export async function getNews() {
-  return readPublications();
+  return readGroupPublications();
 }

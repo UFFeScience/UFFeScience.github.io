@@ -57,10 +57,6 @@ export default function Papers({ papers, listing = false }) {
       </div>
       <p className="section-description">
         Peer-reviewed papers since 2013 · {filtered.length} papers
-        {papers.lattesUpdatedAt &&
-          ` · from Daniel de Oliveira’s Lattes CV, updated on ${new Date(
-            `${papers.lattesUpdatedAt}T12:00:00Z`,
-          ).toLocaleDateString('en-US')}`}
       </p>
       {listing ? (
         <label className="catalog-search">

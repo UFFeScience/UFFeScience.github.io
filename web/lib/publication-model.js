@@ -5,11 +5,6 @@ export const publicationSources = [
     name: 'UFFeScience Research Group',
     url: 'https://www.linkedin.com/company/uffescience-research-group',
   },
-  {
-    id: 'daniel',
-    name: 'Daniel de Oliveira',
-    url: 'https://www.linkedin.com/in/daniel-de-oliveira-b258368/',
-  },
 ];
 export function slugify(text) {
   return text

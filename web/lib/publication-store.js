@@ -19,3 +19,16 @@ export async function readPublications() {
     })),
   };
 }
+
+export async function readGroupPublications() {
+  const store = await readPublications();
+  return {
+    ...store,
+    posts: store.posts.filter(
+      (post) =>
+        post.sourceIds?.includes('group') &&
+        (post.author.url?.includes('/company/uffescience-research-group') ||
+          post.author.name === 'UFFeScience Research Group'),
+    ),
+  };
+}

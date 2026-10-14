@@ -54,3 +54,16 @@ for (const htmlFile of [
   }
 }
 console.log('Internal page links and asset URLs verified.');
+
+for (const file of ['out/index.html', 'out/publicacoes/index.html']) {
+  const html = await fs.readFile(file, 'utf8');
+  assert(
+    !html.includes('>Daniel de Oliveira</span>'),
+    'Personal LinkedIn posts must not appear in catalogs',
+  );
+  assert(!html.includes('from Daniel de Oliveira’s Lattes CV'));
+}
+const apifyConfig = JSON.parse(await fs.readFile('data/apify-config.json', 'utf8'));
+assert.equal(apifyConfig.tasks.length, 1);
+assert(apifyConfig.tasks[0].url.includes('/company/uffescience-research-group'));
+console.log('Group-only publication catalogs and collection configuration verified.');
