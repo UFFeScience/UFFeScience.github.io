@@ -124,6 +124,24 @@ export default async function Home() {
             <small>Institute of Computing · Universidade Federal Fluminense</small>
           </p>
         </div>
+        <div className="footer-institutions" aria-label="Institutional affiliations">
+          <a href="https://www.ic.uff.br/" target="_blank" rel="noreferrer">
+            <img
+              src={assetPath('/ic-uff-logo.png')}
+              alt="Institute of Computing — UFF"
+              width="104"
+              height="78"
+            />
+          </a>
+          <a href="https://www.uff.br/" target="_blank" rel="noreferrer">
+            <img
+              src={assetPath('/uff-logo.svg')}
+              alt="Universidade Federal Fluminense"
+              width="126"
+              height="60"
+            />
+          </a>
+        </div>
         <a href="#inicio">Back to top ↑</a>
         <a
           href="https://github.com/UFFeScience"
