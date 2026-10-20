@@ -625,7 +625,7 @@
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:45.448Z"
+      "fetchedAt": "2026-10-20T17:10:13.724Z"
     },
     "akoflow": {
       "contributors": [
@@ -1790,7 +1790,7 @@
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:44.865Z"
+      "fetchedAt": "2026-10-20T17:10:13.212Z"
     },
     "akoflow-examples": {
       "contributors": [
@@ -2064,7 +2064,7 @@
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:44.899Z"
+      "fetchedAt": "2026-10-20T17:10:13.211Z"
     },
     "akoflow-desktop": {
       "contributors": [
@@ -2095,7 +2095,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:45.274Z"
+      "fetchedAt": "2026-10-20T17:10:13.620Z"
     },
     "sscad-2026": {
       "contributors": [
@@ -2122,14 +2122,14 @@
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:44.070Z"
+      "fetchedAt": "2026-10-20T17:10:12.629Z"
     },
     "flexe_plus": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:45.558Z"
+      "fetchedAt": "2026-10-20T17:10:13.950Z"
     },
     "FedObserve": {
       "contributors": [
@@ -2142,7 +2142,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:46.062Z"
+      "fetchedAt": "2026-10-20T17:10:14.203Z"
     },
     "anchor": {
       "contributors": [
@@ -2155,7 +2155,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:46.080Z"
+      "fetchedAt": "2026-10-20T17:10:14.567Z"
     },
     "phylotreeminer": {
       "contributors": [
@@ -2168,14 +2168,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:46.584Z"
+      "fetchedAt": "2026-10-20T17:10:14.568Z"
     },
     "jidm-analysis": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:46.375Z"
+      "fetchedAt": "2026-10-20T17:10:14.889Z"
     },
     "triptych": {
       "contributors": [
@@ -2188,7 +2188,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:46.816Z"
+      "fetchedAt": "2026-10-20T17:10:14.927Z"
     },
     "UTK-PROV": {
       "contributors": [
@@ -2201,7 +2201,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:46.863Z"
+      "fetchedAt": "2026-10-20T17:10:15.290Z"
     },
     "denethor": {
       "contributors": [
@@ -2214,14 +2214,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:47.342Z"
+      "fetchedAt": "2026-10-20T17:10:15.290Z"
     },
     "llm-clinical-analysis": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:47.177Z"
+      "fetchedAt": "2026-10-20T17:10:15.629Z"
     },
     "MemoirGRASP": {
       "contributors": [
@@ -2234,7 +2234,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:47.504Z"
+      "fetchedAt": "2026-10-20T17:10:15.658Z"
     },
     ".github": {
       "contributors": [
@@ -2247,7 +2247,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:47.648Z"
+      "fetchedAt": "2026-10-20T17:10:15.949Z"
     },
     "akoflow-example-wf-etl-clothing": {
       "contributors": [
@@ -2260,7 +2260,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:47.755Z"
+      "fetchedAt": "2026-10-20T17:10:16.051Z"
     },
     "akoflow-driver-dataverse-uploader": {
       "contributors": [
@@ -2273,7 +2273,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:48.158Z"
+      "fetchedAt": "2026-10-20T17:10:16.399Z"
     },
     "protector": {
       "contributors": [
@@ -2286,7 +2286,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:48.028Z"
+      "fetchedAt": "2026-10-20T17:10:16.372Z"
     },
     "akoflow-driver-gcs-uploader": {
       "contributors": [
@@ -2299,7 +2299,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:48.598Z"
+      "fetchedAt": "2026-10-20T17:10:16.822Z"
     },
     "akoflow-driver-s3-uploader": {
       "contributors": [
@@ -2312,7 +2312,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:48.582Z"
+      "fetchedAt": "2026-10-20T17:10:16.822Z"
     },
     "-PROVGov-SoS": {
       "contributors": [],
@@ -2365,7 +2365,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:48.922Z"
+      "fetchedAt": "2026-10-20T17:10:17.182Z"
     },
     "SciCumulus": {
       "contributors": [
@@ -2378,7 +2378,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:48.896Z"
+      "fetchedAt": "2026-10-20T17:10:17.108Z"
     },
     "akorunner": {
       "contributors": [
@@ -2417,7 +2417,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:49.436Z"
+      "fetchedAt": "2026-10-20T17:10:17.623Z"
     },
     "cyclops": {
       "contributors": [
@@ -2440,7 +2440,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:49.566Z"
+      "fetchedAt": "2026-10-20T17:10:17.882Z"
     },
     "arani": {
       "contributors": [
@@ -2453,7 +2453,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:49.745Z"
+      "fetchedAt": "2026-10-20T17:10:17.947Z"
     },
     "CrimeDashboard": {
       "contributors": [
@@ -2484,7 +2484,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:49.962Z"
+      "fetchedAt": "2026-10-20T17:10:18.374Z"
     },
     "dlprov": {
       "contributors": [
@@ -2497,7 +2497,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:50.337Z"
+      "fetchedAt": "2026-10-20T17:10:18.658Z"
     },
     "Flower-PROV": {
       "contributors": [
@@ -2515,7 +2515,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:50.446Z"
+      "fetchedAt": "2026-10-20T17:10:18.659Z"
     },
     "marin": {
       "contributors": [
@@ -2528,7 +2528,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:50.784Z"
+      "fetchedAt": "2026-10-20T17:10:19.017Z"
     },
     "lsst-uff": {
       "contributors": [
@@ -2553,21 +2553,21 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:50.696Z"
+      "fetchedAt": "2026-10-20T17:10:19.056Z"
     },
     "okinawa": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:50.985Z"
+      "fetchedAt": "2026-10-20T17:10:19.301Z"
     },
     "GRASPCC-LB": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:51.028Z"
+      "fetchedAt": "2026-10-20T17:10:19.392Z"
     },
     "MAESTRO": {
       "contributors": [
@@ -2580,7 +2580,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:51.462Z"
+      "fetchedAt": "2026-10-20T17:10:19.760Z"
     },
     "REPLACE": {
       "contributors": [
@@ -2598,7 +2598,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:51.604Z"
+      "fetchedAt": "2026-10-20T17:10:19.901Z"
     },
     "NMFSt.P": {
       "contributors": [
@@ -2616,7 +2616,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:51.952Z"
+      "fetchedAt": "2026-10-20T17:10:20.170Z"
     },
     "SAMbA": {
       "contributors": [
@@ -2639,7 +2639,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:52.045Z"
+      "fetchedAt": "2026-10-20T17:10:20.388Z"
     },
     "SambA-SciPhy": {
       "contributors": [
@@ -2657,7 +2657,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:52.355Z"
+      "fetchedAt": "2026-10-20T17:10:20.521Z"
     },
     "ALTES": {
       "contributors": [
@@ -2675,7 +2675,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:52.544Z"
+      "fetchedAt": "2026-10-20T17:10:20.934Z"
     },
     "instructor": {
       "contributors": [
@@ -2701,7 +2701,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:52.641Z"
+      "fetchedAt": "2026-10-20T17:10:20.854Z"
     },
     "TiME": {
       "contributors": [
@@ -2714,7 +2714,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:53.060Z"
+      "fetchedAt": "2026-10-20T17:10:21.184Z"
     },
     "CrimeRoutes": {
       "contributors": [],
@@ -2728,7 +2728,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:53.311Z"
+      "fetchedAt": "2026-10-20T17:10:21.406Z"
     },
     "DfAnalyzer": {
       "contributors": [
@@ -2746,7 +2746,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:53.408Z"
+      "fetchedAt": "2026-10-20T17:10:21.734Z"
     },
     "Hurricane": {
       "contributors": [
@@ -2759,7 +2759,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:53.645Z"
+      "fetchedAt": "2026-10-20T17:10:21.738Z"
     },
     "Polyflow": {
       "contributors": [
@@ -2772,7 +2772,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:53.744Z"
+      "fetchedAt": "2026-10-20T17:10:22.052Z"
     },
     "bioprov": {
       "contributors": [
@@ -2790,14 +2790,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:54.065Z"
+      "fetchedAt": "2026-10-20T17:10:22.095Z"
     },
     "newscollab": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:54.017Z"
+      "fetchedAt": "2026-10-20T17:10:22.397Z"
     },
     "ReASSIgN": {
       "contributors": [
@@ -2810,7 +2810,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:54.309Z"
+      "fetchedAt": "2026-10-20T17:10:22.434Z"
     },
     "orbiter": {
       "contributors": [
@@ -2823,14 +2823,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:54.339Z"
+      "fetchedAt": "2026-10-20T17:10:22.635Z"
     },
     "dimply": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:54.580Z"
+      "fetchedAt": "2026-10-20T17:10:22.926Z"
     },
     "diversity_browsing": {
       "contributors": [
@@ -2843,7 +2843,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:54.741Z"
+      "fetchedAt": "2026-10-20T17:10:22.893Z"
     },
     "uff_snap": {
       "contributors": [],
@@ -2857,7 +2857,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:54.868Z"
+      "fetchedAt": "2026-10-20T17:10:23.131Z"
     },
     "OntoExpLine": {
       "contributors": [
@@ -2870,7 +2870,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:55.057Z"
+      "fetchedAt": "2026-10-20T17:10:23.215Z"
     },
     "LetItRain": {
       "contributors": [
@@ -2896,7 +2896,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:55.167Z"
+      "fetchedAt": "2026-10-20T17:10:23.444Z"
     },
     "POStURE": {
       "contributors": [
@@ -2914,7 +2914,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:55.438Z"
+      "fetchedAt": "2026-10-20T17:10:23.565Z"
     },
     "Phenomanager": {
       "contributors": [
@@ -2927,7 +2927,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:55.560Z"
+      "fetchedAt": "2026-10-20T17:10:23.734Z"
     },
     "OFIP": {
       "contributors": [],
@@ -2947,7 +2947,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:56.299Z"
+      "fetchedAt": "2026-10-20T17:10:24.079Z"
     },
     "Wf-GPU": {
       "contributors": [
@@ -2965,14 +2965,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:55.811Z"
+      "fetchedAt": "2026-10-20T17:10:23.862Z"
     },
     "LDA-DB": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:56.104Z"
+      "fetchedAt": "2026-10-20T17:10:24.147Z"
     },
     "Myria": {
       "contributors": [
@@ -2985,14 +2985,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:56.382Z"
+      "fetchedAt": "2026-10-20T17:10:24.323Z"
     },
     "SciManager": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:56.669Z"
+      "fetchedAt": "2026-10-20T17:10:24.586Z"
     },
     "PRELUDE": {
       "contributors": [
@@ -3005,7 +3005,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:56.789Z"
+      "fetchedAt": "2026-10-20T17:10:24.626Z"
     },
     "Df-ASet": {
       "contributors": [
@@ -3018,7 +3018,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:56.929Z"
+      "fetchedAt": "2026-10-20T17:10:24.869Z"
     },
     "Tennis-Analytics": {
       "contributors": [
@@ -3031,7 +3031,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:57.176Z"
+      "fetchedAt": "2026-10-20T17:10:24.881Z"
     },
     "C-ParGRES": {
       "contributors": [
@@ -3044,14 +3044,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:57.275Z"
+      "fetchedAt": "2026-10-20T17:10:25.150Z"
     },
     "OPTIC": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:57.564Z"
+      "fetchedAt": "2026-10-20T17:10:25.356Z"
     },
     "CRiMINaL": {
       "contributors": [
@@ -3069,14 +3069,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:57.815Z"
+      "fetchedAt": "2026-10-20T17:10:25.205Z"
     },
     "FTT": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:58.101Z"
+      "fetchedAt": "2026-10-20T17:10:25.647Z"
     },
     "Cognitive-Game-Analytics": {
       "contributors": [
@@ -3089,21 +3089,21 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:57.965Z"
+      "fetchedAt": "2026-10-20T17:10:25.536Z"
     },
     "FFT": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:58.262Z"
+      "fetchedAt": "2026-10-20T17:10:25.876Z"
     },
     "CognitiveTraining": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:58.397Z"
+      "fetchedAt": "2026-10-20T17:10:25.850Z"
     },
     "Systematic-Mapping-of-Software-Requirements-Negotiation-Techniques": {
       "contributors": [
@@ -3116,7 +3116,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:58.647Z"
+      "fetchedAt": "2026-10-20T17:10:26.150Z"
     },
     "PredFail": {
       "contributors": [
@@ -3129,14 +3129,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:58.644Z"
+      "fetchedAt": "2026-10-20T17:10:26.322Z"
     },
     "Tupi": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:58.898Z"
+      "fetchedAt": "2026-10-20T17:10:26.600Z"
     },
     "SciAgile": {
       "contributors": [
@@ -3154,7 +3154,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:59.053Z"
+      "fetchedAt": "2026-10-20T17:10:26.495Z"
     },
     "Spielzyklus": {
       "contributors": [
@@ -3167,7 +3167,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:59.131Z"
+      "fetchedAt": "2026-10-20T17:10:26.866Z"
     },
     "ParGRES": {
       "contributors": [
@@ -3180,8 +3180,8 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-10-20T17:08:59.467Z"
+      "fetchedAt": "2026-10-20T17:10:27.166Z"
     }
   },
-  "fetchedAt": "2026-10-20T17:08:59.467Z"
+  "fetchedAt": "2026-10-20T17:10:27.166Z"
 }
