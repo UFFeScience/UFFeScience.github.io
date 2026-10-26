@@ -2,6 +2,72 @@
   "version": 1,
   "posts": [
     {
+      "id": "7519026809250816000",
+      "originalPostId": "7519026809250816000",
+      "slug": "can-llms-recognize-ableism-our-latest-work-at-kdmile-7519026809250816000",
+      "title": "Can LLMs recognize ableism? Our latest work at KDMiLe! ⛏️📊",
+      "text": "Can LLMs recognize ableism? Our latest work at KDMiLe! ⛏️📊\n\nAnother paper from the UFFeScience Research Group, in collaboration with MeLLL@UFF, at KDMiLe - Knowledge Discovery, Mining and Learning 2026!\n\nYesterday in Cuiabá, Gabriel Assis presented our paper “Beyond Toxicity: Evaluating Language Models for Ableism Detection in Online Social Media” at KDMiLe 2026.\n\nAbleism on social media isn’t always explicit. It often shows up as stereotypes, jokes, and comments that traditional toxicity detection approaches miss. \n\nThis paper is part of Daniele Pimenta's undergrad final project and analyzes how LLMs handle this task when given more context about the events being analyzed, one piece at a time.\n\n👥 Authors: Annie Amorim, Gabriel Assis, Daniele Pimenta, Débora Pina, Aline Paes, and Daniel de Oliveira. \n\nCongratulations to the whole team! 👏\n\n📄 Read the paper: https://lnkd.in/de9Fh63e\n\n#KDMiLe #LLMs #NLP #Ableism #Accessibility #ArtificialIntelligence #UFF #UFFeScience #MeLLL",
+      "date": "2026-10-22T13:28:08.088Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7519026807870992384",
+      "tag": "Publicação",
+      "author": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1794441600&v=beta&t=FKtTfPMMJ24Ae4GPOsHDl5QaRC8h4ssrzkYamaIAsc8",
+        "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
+      },
+      "originalAuthor": null,
+      "sourceIds": [
+        "group"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQEG_AgForIzdg/feedshare-shrink_480/B4DaFjzCbUJIAk-/0/1792675686309?e=1794441600&v=beta&t=R-PBOELJX5S6Ws-38O29FKJj51u-dsIwIRpWCGUg08c",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGVpSjTrEECOA/feedshare-image-high-res/B4DaFjzCckIwAU-/0/1792675686543?e=1794441600&v=beta&t=s2mzKkhIPzynSmdH5WgkOHrxfBuyXTvDOWsWjgETz3A"
+      ],
+      "images": [
+        "/media/eb8d58856b5ce8d0daec36f30c79.jpg",
+        "/media/f416c2760a4f3ead63db0a569869.jpg"
+      ],
+      "cover": "/media/eb8d58856b5ce8d0daec36f30c79.jpg",
+      "engagement": {
+        "likes": 16,
+        "comments": 1,
+        "shares": 3
+      }
+    },
+    {
+      "id": "7518642762989223936",
+      "originalPostId": "7518642762989223936",
+      "slug": "akoflow-is-heading-to-tomorrow-blue-economy-2026-7518642762989223936",
+      "title": "🌊 AkôFlow is heading to Tomorrow.Blue Economy 2026!",
+      "text": "🌊 AkôFlow is heading to Tomorrow.Blue Economy 2026!\n\nWe are happy to share that our student, Wesley Ferreira, had his talk proposal selected in the AGIR/PROPPI–UFF internal call for proposals for Tomorrow.Blue Economy, taking place November 25–26, 2026, at Arena Niterói.\n\nWesley will present AkôFlow, the open-source engine developed by the UFFeScience Research Group for running containerized workflows across the computing continuum, from edge devices to the cloud. \n\nData-intensive problems, including those at the heart of the ocean economy, increasingly depend on infrastructure that can move computation to where the data lives. We are excited to bring this discussion to one of the world's largest blue economy events, right here in Niterói.\n\nCongratulations, Wesley! 👏 \n\nAnd many thanks to AGIR and PROPPI/UFF for the opportunity.\n\n🔗 AkôFlow on GitHub: https://lnkd.in/eqdx_3iK\n\n#AkôFlow #BlueEconomy #TomorrowBlueEconomy #eScience #UFF #Workflows #CloudComputing #EdgeComputing #OpenSource #Niterói",
+      "date": "2026-10-21T12:02:04.324Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7518642761621721088",
+      "tag": "Publicação",
+      "author": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1794441600&v=beta&t=FKtTfPMMJ24Ae4GPOsHDl5QaRC8h4ssrzkYamaIAsc8",
+        "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
+      },
+      "originalAuthor": null,
+      "sourceIds": [
+        "group"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQGFv4u6hyHirw/feedshare-shrink_1280/B4DaFeVwE1HkAU-/0/1792584123142?e=1794441600&v=beta&t=6FW1rD90LNexNgk8a1cw70cX8kmNt44JxlUn0hXQDjs"
+      ],
+      "images": [
+        "/media/1406603bd590017da90c0329f436.jpg"
+      ],
+      "cover": "/media/1406603bd590017da90c0329f436.jpg",
+      "engagement": {
+        "likes": 7,
+        "comments": 1,
+        "shares": 2
+      }
+    },
+    {
       "id": "7517712852489797632",
       "originalPostId": "7517712852489797632",
       "slug": "paper-accepted-at-sscad-2026-7517712852489797632",
@@ -13,7 +79,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1793836800&v=beta&t=0xDquDMZqyr2LdglCAY4hUIzigWR00_gvAwf76PKkN4",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1794441600&v=beta&t=FKtTfPMMJ24Ae4GPOsHDl5QaRC8h4ssrzkYamaIAsc8",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -21,16 +87,16 @@
         "group"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEbjdSlS87zUw/feedshare-shrink_1280/B4DaFRIAFhLIAM-/0/1792362414710?e=1793836800&v=beta&t=nSB805R025GbU0Pzf5ymWF1A8lXH2Y94mml8H4Of-v8"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEbjdSlS87zUw/feedshare-shrink_1280/B4DaFRIAFhLIAM-/0/1792362414710?e=1794441600&v=beta&t=CVyTnThRWGsXnOw--73pjTg5LypeCIN7J1wpn4wXjRI"
       ],
       "images": [
         "/media/053df82f037c1b253a5803037ba6.jpg"
       ],
       "cover": "/media/053df82f037c1b253a5803037ba6.jpg",
       "engagement": {
-        "likes": 5,
+        "likes": 7,
         "comments": 0,
-        "shares": 2
+        "shares": 3
       }
     },
     {
@@ -45,7 +111,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1793836800&v=beta&t=0xDquDMZqyr2LdglCAY4hUIzigWR00_gvAwf76PKkN4",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1794441600&v=beta&t=FKtTfPMMJ24Ae4GPOsHDl5QaRC8h4ssrzkYamaIAsc8",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -54,7 +120,7 @@
         "daniel"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHSvzUA6tk7jA/feedshare-image-high-res/B4DaEwlQqXKIAY-/0/1791816436638?e=1793836800&v=beta&t=Q8a0nk4MiGcHG0O39W8KK93czDtt1-63Vu-WU33EC0A"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHSvzUA6tk7jA/feedshare-image-high-res/B4DaEwlQqXKIAY-/0/1791816436638?e=1794441600&v=beta&t=6hsMfIBJx_kbbNPD57xaWvTn_2N5_55kGBF1n9tWi-g"
       ],
       "images": [
         "/media/d218879389421971258c8af21f98.jpg"
@@ -116,7 +182,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1793836800&v=beta&t=0xDquDMZqyr2LdglCAY4hUIzigWR00_gvAwf76PKkN4",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1794441600&v=beta&t=FKtTfPMMJ24Ae4GPOsHDl5QaRC8h4ssrzkYamaIAsc8",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -125,8 +191,8 @@
         "daniel"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHKIMuoItXmug/feedshare-image-high-res/B4DaEbwvPYGkAY-/0/1791467124283?e=1793836800&v=beta&t=hn_Ll0OocPsgP4a7z8feXIPj4UHaPd_f6L6w6ZfgN_4",
-        "https://media.licdn.com/dms/image/v2/D4D22AQH9jaCFrHkV2w/feedshare-image-high-res/B4DaEbwvO8KsAU-/0/1791467124192?e=1793836800&v=beta&t=GAyw5aBER8qOtNFUK3UBA4ffHjhugYZGfg0TANqp5Ms"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHKIMuoItXmug/feedshare-image-high-res/B4DaEbwvPYGkAY-/0/1791467124283?e=1794441600&v=beta&t=tWms9lDEvB6hSPqxl48zny0zKFHM8YaSxlkRRYLYbig",
+        "https://media.licdn.com/dms/image/v2/D4D22AQH9jaCFrHkV2w/feedshare-image-high-res/B4DaEbwvO8KsAU-/0/1791467124192?e=1794441600&v=beta&t=4_YHz5IU2AMs5VJLLRUgHzdLw2J5-ZIXsDSIDg9lWls"
       ],
       "images": [
         "/media/370063908097affad63aa933ef7e.jpg",
@@ -4459,15 +4525,14 @@
       "id": "group",
       "name": "UFFeScience Research Group",
       "url": "https://www.linkedin.com/company/uffescience-research-group",
-      "runId": "ux34lhVBq3MO8ZD5B",
-      "datasetId": "ffA6wsyH8pkHRsdfS",
-      "collectedAt": "2026-10-19T14:17:56.403Z",
-      "status": "error",
+      "runId": "irYkHjd3K8fxQrOvs",
+      "datasetId": "qwiw0DI1ANshdX26H",
+      "collectedAt": "2026-10-26T23:38:40.950Z",
+      "status": "success",
       "received": 5,
-      "limitReached": false,
-      "error": "Apify respondeu HTTP 404."
+      "limitReached": false
     }
   ],
-  "lastCheckedAt": "2026-10-26T23:38:37.690Z",
-  "lastCollectedAt": "2026-10-19T14:17:56.403Z"
+  "lastCheckedAt": "2026-10-26T23:47:38.167Z",
+  "lastCollectedAt": "2026-10-26T23:38:40.950Z"
 }
