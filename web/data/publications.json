@@ -4462,11 +4462,12 @@
       "runId": "ux34lhVBq3MO8ZD5B",
       "datasetId": "ffA6wsyH8pkHRsdfS",
       "collectedAt": "2026-10-19T14:17:56.403Z",
-      "status": "success",
+      "status": "error",
       "received": 5,
-      "limitReached": false
+      "limitReached": false,
+      "error": "Apify respondeu HTTP 404."
     }
   ],
-  "lastCheckedAt": "2026-10-19T14:17:57.616Z",
+  "lastCheckedAt": "2026-10-26T23:38:37.690Z",
   "lastCollectedAt": "2026-10-19T14:17:56.403Z"
 }
