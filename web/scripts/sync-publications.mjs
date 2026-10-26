@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
+import { createApifyClient, openPublicationStore } from '../lib/apify-client.js';
 import {
   normalizePublication,
   mergePublications,
@@ -51,17 +52,7 @@ try {
   console.log('Uma sincronização já está em andamento.');
   process.exit(0);
 }
-async function api(endpoint, { method = 'GET', body } = {}) {
-  const response = await fetch(`https://api.apify.com/v2/${endpoint}`, {
-    method,
-    headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
-    body: body === undefined ? undefined : JSON.stringify(body),
-    signal: AbortSignal.timeout(30000),
-  });
-  if (!response.ok) throw new Error(`Apify respondeu HTTP ${response.status}.`);
-  if (response.status === 204) return null;
-  return response.json();
-}
+const api = createApifyClient(token);
 const mediaCache = new Map();
 async function archiveImage(url) {
   if (!mediaUrl(url)) return null;
@@ -108,6 +99,7 @@ async function archiveImage(url) {
 }
 try {
   const config = JSON.parse(await fs.readFile(path.join(dataDir, 'apify-config.json'), 'utf8'));
+  const storeId = await openPublicationStore(api, config);
   const incoming = [],
     sources = [];
   for (let index = 0; index < config.tasks.length; index++) {
@@ -123,9 +115,9 @@ try {
       // Persist the run ID remotely before waiting. Retries resume it instead of starting another extraction.
       const record = `WEEK-${weekKey}-${source.id}`;
       try {
-        run = await api(`key-value-stores/${config.storeId}/records/${record}`);
+        run = await api(`key-value-stores/${storeId}/records/${record}`);
       } catch (error) {
-        if (!error.message.includes('404')) throw error;
+        if (error.status !== 404) throw error;
       }
       if (!run) {
         const runs = (await api(`actor-tasks/${task.id}/runs?limit=100&desc=1`)).data.items;
@@ -146,7 +138,7 @@ try {
               },
             })
           ).data;
-        await api(`key-value-stores/${config.storeId}/records/${record}`, {
+        await api(`key-value-stores/${storeId}/records/${record}`, {
           method: 'PUT',
           body: { id: run.id },
         });
@@ -242,9 +234,9 @@ try {
   const temporary = `${storePath}.tmp`;
   await fs.writeFile(temporary, JSON.stringify(store, null, 2));
   await fs.rename(temporary, storePath);
-  if (config.storeId) {
+  if (storeId) {
     try {
-      await api(`key-value-stores/${config.storeId}/records/PUBLICATIONS`, {
+      await api(`key-value-stores/${storeId}/records/PUBLICATIONS`, {
         method: 'PUT',
         body: store,
       });
