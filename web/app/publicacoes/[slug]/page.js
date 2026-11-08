@@ -14,9 +14,34 @@ export async function generateMetadata({ params }) {
   const { slug } = await params;
   const { posts } = await readPublications();
   const post = posts.find((item) => item.slug === slug || item.aliasSlugs?.includes(slug));
-  return post
-    ? { title: `${post.title} — UFFeScience`, description: post.text.slice(0, 160) }
-    : { title: 'Publication not found — UFFeScience' };
+  if (!post) return { title: 'Publication not found — UFFeScience' };
+  const title = `${post.title} — UFFeScience`;
+  const description = post.text.slice(0, 160);
+  const url = new URL(`/publicacoes/${post.slug}/`, 'https://uffescience.ic.uff.br').href;
+  const image = new URL(
+    assetPath(post.cover || '/uffescience-logo.png'),
+    'https://uffescience.ic.uff.br',
+  ).href;
+  return {
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      type: 'article',
+      title,
+      description,
+      url,
+      siteName: 'UFFeScience',
+      publishedTime: post.date,
+      images: [{ url: image, alt: post.title }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [image],
+    },
+  };
 }
 export default async function PublicationPage({ params }) {
   const { slug } = await params;
