@@ -5,6 +5,7 @@ import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { readPublications, readGroupPublications } from '../../../lib/publication-store';
 import SiteHeader from '../../site-header';
 import PublicationImage from '../../publication-image';
+import { publicationLinks } from '../../../lib/publication-links';
 export const dynamicParams = false;
 export async function generateStaticParams() {
   const { posts } = await readPublications();
@@ -103,7 +104,17 @@ export default async function PublicationPage({ params }) {
           )}
           <div className="publication-full-text">
             {post.text.split(/\n\s*\n/).map((paragraph, i) => (
-              <p key={i}>{paragraph}</p>
+              <p key={i}>
+                {publicationLinks(paragraph).map((part, index) =>
+                  part.href ? (
+                    <a key={index} href={part.href} target="_blank" rel="noopener noreferrer">
+                      {part.text}
+                    </a>
+                  ) : (
+                    part.text
+                  ),
+                )}
+              </p>
             ))}
           </div>
           {post.images?.length > 1 && (
