@@ -2,6 +2,38 @@
   "version": 1,
   "posts": [
     {
+      "id": "7524862130165223424",
+      "originalPostId": "7524862130165223424",
+      "slug": "uffescience-research-group-at-sscad-2026-7524862130165223424",
+      "title": "🎤 UFFeScience Research Group at SSCAD 2026!",
+      "text": "🎤 UFFeScience Research Group at SSCAD 2026!\n\nProf. Daniel de Oliveira was in Natal this week for the Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2026), where he presented our paper:\n\n📄 “Can Large Language Models Engineer Parallel Workflows?”\n Authors: Paula W., Liliane Kunstmann, Débora Pina, Marta Mattoso, Daniel de Oliveira\n\nLLMs are increasingly used to write code, but can they build correct parallel scientific workflows? In this paper, we evaluate how well LLMs compose workflows for parallel workflow systems such as Parsl, PyCOMPSs, and Nextflow, and discuss where they succeed and where human expertise still matters.\n\nThe paper is part of Paula Woyames’s Master’s research, and we’re already working on the next steps of this line of work. Stay tuned! 🚀\n\nThanks to the SSCAD organizers and to everyone who joined the session for the great discussion.\n\n🔗 Read the paper: https://lnkd.in/dekjEUjj\n\n#SSCAD2026 #HPC #LLM #ScientificWorkflows #ParallelComputing #AI #eScience #UFF",
+      "date": "2026-11-07T15:55:37.009Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7524862128814583808",
+      "tag": "Publicação",
+      "author": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795651200&v=beta&t=04AKUsWQDltPK79iuWAT-0z30z3O-hEmoWyZyan6zGQ",
+        "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
+      },
+      "originalAuthor": null,
+      "sourceIds": [
+        "group"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQHkJFyt0-fpsg/feedshare-shrink_1280/B4DaG2uO.yH8AI-/0/1794066936223?e=1795651200&v=beta&t=cZoKI7zyd3_rMM4uUq-vSzGUvlBVpdwCf7rWRD_nhD8"
+      ],
+      "images": [
+        "/media/9efe466e385e363618ded62a5836.jpg"
+      ],
+      "cover": "/media/9efe466e385e363618ded62a5836.jpg",
+      "engagement": {
+        "likes": 52,
+        "comments": 0,
+        "shares": 2
+      }
+    },
+    {
       "id": "7519026809250816000",
       "originalPostId": "7519026809250816000",
       "slug": "can-llms-recognize-ableism-our-latest-work-at-kdmile-7519026809250816000",
@@ -13,7 +45,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795046400&v=beta&t=avVhVfwnUqP-PmYFIO6AsBR5KDGH5qFM8rtZ9nFmxlE",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795651200&v=beta&t=04AKUsWQDltPK79iuWAT-0z30z3O-hEmoWyZyan6zGQ",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -21,8 +53,8 @@
         "group"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEG_AgForIzdg/feedshare-shrink_480/B4DaFjzCbUJIAk-/0/1792675686309?e=1795046400&v=beta&t=B-F6A3PPyZOGQCa8YuIYwjD-iy7MS1UJNmU59dbfoKM",
-        "https://media.licdn.com/dms/image/v2/D4D22AQGVpSjTrEECOA/feedshare-image-high-res/B4DaFjzCckIwAU-/0/1792675686543?e=1795046400&v=beta&t=9M6Kpx-43xde-1OMa4g2wrHlINw9i-1Mo0wE4sr_rTE"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEG_AgForIzdg/feedshare-shrink_480/B4DaFjzCbUJIAk-/0/1792675686309?e=1795651200&v=beta&t=Wr7pbIkonkBAt3fGmA30-FoMBvkgLy8CBKrMIi7vuRs",
+        "https://media.licdn.com/dms/image/v2/D4D22AQGVpSjTrEECOA/feedshare-image-high-res/B4DaFjzCckIwAU-/0/1792675686543?e=1795651200&v=beta&t=ZovJc39ZmLCbHRJ3HzLpOUss297duxJCxVwTBrwmkkc"
       ],
       "images": [
         "/media/eb8d58856b5ce8d0daec36f30c79.jpg",
@@ -30,7 +62,7 @@
       ],
       "cover": "/media/eb8d58856b5ce8d0daec36f30c79.jpg",
       "engagement": {
-        "likes": 18,
+        "likes": 19,
         "comments": 1,
         "shares": 3
       }
@@ -47,7 +79,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795046400&v=beta&t=avVhVfwnUqP-PmYFIO6AsBR5KDGH5qFM8rtZ9nFmxlE",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795651200&v=beta&t=04AKUsWQDltPK79iuWAT-0z30z3O-hEmoWyZyan6zGQ",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -55,7 +87,7 @@
         "group"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQGFv4u6hyHirw/feedshare-shrink_1280/B4DaFeVwE1HkAU-/0/1792584123142?e=1795046400&v=beta&t=_8LDh4PPtUpBkJbP4v7l1tcMLdHmX5fcvUd4Lum5BJY"
+        "https://media.licdn.com/dms/image/v2/D4D22AQGFv4u6hyHirw/feedshare-shrink_1280/B4DaFeVwE1HkAU-/0/1792584123142?e=1795651200&v=beta&t=LySvhZ3lM-AROt-E2R17ne_n6AmteaVybCSoxbWM94o"
       ],
       "images": [
         "/media/1406603bd590017da90c0329f436.jpg"
@@ -79,7 +111,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795046400&v=beta&t=avVhVfwnUqP-PmYFIO6AsBR5KDGH5qFM8rtZ9nFmxlE",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795651200&v=beta&t=04AKUsWQDltPK79iuWAT-0z30z3O-hEmoWyZyan6zGQ",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -87,7 +119,7 @@
         "group"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQEbjdSlS87zUw/feedshare-shrink_1280/B4DaFRIAFhLIAM-/0/1792362414710?e=1795046400&v=beta&t=Z6iAv3oAqni9y79QsFe7M1kOxr7JMOTkOwxNyO1GLiM"
+        "https://media.licdn.com/dms/image/v2/D4D22AQEbjdSlS87zUw/feedshare-shrink_1280/B4DaFRIAFhLIAM-/0/1792362414710?e=1795651200&v=beta&t=8I18pSuLtgbh3h1TZpvDOcUlnfieBB28EJr66UA0DCA"
       ],
       "images": [
         "/media/053df82f037c1b253a5803037ba6.jpg"
@@ -111,7 +143,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795046400&v=beta&t=avVhVfwnUqP-PmYFIO6AsBR5KDGH5qFM8rtZ9nFmxlE",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1795651200&v=beta&t=04AKUsWQDltPK79iuWAT-0z30z3O-hEmoWyZyan6zGQ",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -120,7 +152,7 @@
         "daniel"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHSvzUA6tk7jA/feedshare-image-high-res/B4DaEwlQqXKIAY-/0/1791816436638?e=1795046400&v=beta&t=qmOV-YhZCMq0zB2_r3ogmmyTz0t1pioqCu-xSYN63tc"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHSvzUA6tk7jA/feedshare-image-high-res/B4DaEwlQqXKIAY-/0/1791816436638?e=1795651200&v=beta&t=_F9PkB4oAeFuSkEN8gxUZPibWVZTRs83HiTDVeZmKUY"
       ],
       "images": [
         "/media/d218879389421971258c8af21f98.jpg"
@@ -4525,14 +4557,14 @@
       "id": "group",
       "name": "UFFeScience Research Group",
       "url": "https://www.linkedin.com/company/uffescience-research-group",
-      "runId": "heUt9OD5RONnsGniy",
-      "datasetId": "MKsrbsWy2vmCK2Bgq",
-      "collectedAt": "2026-11-02T13:00:55.328Z",
+      "runId": "4r60QxtgsGZzw7SZX",
+      "datasetId": "gdFsmb8fJmp8XjJIY",
+      "collectedAt": "2026-11-08T23:38:01.394Z",
       "status": "success",
       "received": 5,
       "limitReached": false
     }
   ],
-  "lastCheckedAt": "2026-11-02T13:01:00.618Z",
-  "lastCollectedAt": "2026-11-02T13:00:55.328Z"
+  "lastCheckedAt": "2026-11-08T23:38:05.773Z",
+  "lastCollectedAt": "2026-11-08T23:38:01.394Z"
 }
