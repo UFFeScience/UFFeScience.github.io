@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { createHash } from 'node:crypto';
+import { createHash, randomUUID } from 'node:crypto';
 import { createApifyClient, openPublicationStore } from '../lib/apify-client.js';
 import {
   normalizePublication,
@@ -20,6 +20,9 @@ const dataDir = path.join(root, 'data'),
   storePath = path.join(dataDir, 'publications.json');
 await fs.mkdir(mediaDir, { recursive: true });
 const force = process.argv.includes('--force');
+const executionKey = process.env.GITHUB_RUN_ID
+  ? `${process.env.GITHUB_RUN_ID}-${process.env.GITHUB_RUN_ATTEMPT || '1'}`
+  : randomUUID();
 const weekStart = new Date();
 weekStart.setUTCHours(0, 0, 0, 0);
 weekStart.setUTCDate(weekStart.getUTCDate() - ((weekStart.getUTCDay() + 6) % 7));
@@ -108,20 +111,22 @@ try {
     try {
       const prior = previous.sources?.find((item) => item.id === source.id);
       let run;
-      if (prior?.collectedAt && new Date(prior.collectedAt) >= weekStart) {
+      if (!force && prior?.collectedAt && new Date(prior.collectedAt) >= weekStart) {
         sources.push(prior);
         continue;
       }
       // Persist the run ID remotely before waiting. Retries resume it instead of starting another extraction.
-      const record = `WEEK-${weekKey}-${source.id}`;
+      const record = force ? `MANUAL-${executionKey}-${source.id}` : `WEEK-${weekKey}-${source.id}`;
       try {
         run = await api(`key-value-stores/${storeId}/records/${record}`);
       } catch (error) {
         if (error.status !== 404) throw error;
       }
       if (!run) {
-        const runs = (await api(`actor-tasks/${task.id}/runs?limit=100&desc=1`)).data.items;
-        run = runs.find((item) => new Date(item.startedAt) >= weekStart);
+        if (!force) {
+          const runs = (await api(`actor-tasks/${task.id}/runs?limit=100&desc=1`)).data.items;
+          run = runs.find((item) => new Date(item.startedAt) >= weekStart);
+        }
         if (!run)
           run = (
             await api(`actor-tasks/${task.id}/runs`, {
@@ -246,8 +251,9 @@ try {
     }
   }
   console.log(
-    `Sincronização concluída: ${posts.length} publicações armazenadas. Weekly extraction guarded by source and week.`,
+    `Sincronização concluída: ${posts.length} publicações armazenadas. Modo: ${force ? 'manual, nova coleta' : 'semanal'}.`,
   );
+  if (sources.some((source) => source.status === 'error')) process.exitCode = 1;
 } finally {
   await lock.close();
   await fs.unlink(path.join(dataDir, 'sync.lock')).catch(() => {});

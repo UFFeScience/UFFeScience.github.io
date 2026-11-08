@@ -82,9 +82,11 @@ def parse_page(html, kind):
     for n in p.root.walk():
         if n.tag == "h2" and kind == "students":
             current = "current" in n.text().lower()
-        if ("card" if kind == "students" else "news-card") not in n.attrs.get(
-            "class", ""
-        ).split():
+        classes = n.attrs.get("class", "").split()
+        if not {
+            "person-card",
+            "card" if kind == "students" else "news-card",
+        }.intersection(classes):
             continue
         image = next((c for c in n.walk() if c.tag == "img"), None)
         body = next(
@@ -93,7 +95,10 @@ def parse_page(html, kind):
         if not body:
             continue
         anchors = [c for c in body.walk() if c.tag == "a"]
-        if kind == "students":
+        heading = next((c for c in body.walk() if c.tag == "h4"), None)
+        if heading:
+            name = clean(heading.text())
+        elif kind == "students":
             # First text before <br> contains the name; links below refer to theses, not profiles.
             name = ""
             for c in body.children:

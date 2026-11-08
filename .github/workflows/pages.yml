@@ -56,7 +56,7 @@ jobs:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LATTES_DRIVE_URL: ${{ secrets.LATTES_DRIVE_URL }}
-        run: npm run sync:weekly
+        run: npm run sync:weekly -- ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
       - name: Commit only changed content
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_content)
         run: |

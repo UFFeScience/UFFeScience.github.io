@@ -11,6 +11,7 @@ const jobs = [
 ];
 let failed = false;
 for (const [command, args] of jobs) {
+  if (process.argv.includes('--force')) args.push('--force');
   const result = spawnSync(command, args, { cwd: root, stdio: 'inherit' });
   if (result.error || result.status !== 0) {
     failed = true;
