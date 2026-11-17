@@ -2,6 +2,40 @@
   "version": 1,
   "posts": [
     {
+      "id": "7528528714888933376",
+      "originalPostId": "7528528714888933376",
+      "slug": "tracking-why-ai-agents-do-what-they-do-prov-agent-loop-at-sc26-7528528714888933376",
+      "title": "Tracking why AI agents do what they do: PROV-AGENT-LOOP at SC26!",
+      "text": "Tracking why AI agents do what they do: PROV-AGENT-LOOP at SC26!\n\nValesca Moura presented PROV-AGENT-LOOP: provenance for agentic loops at the AgenticAI4HPC workshop. Valesca is a master's student at UFF and is a member of the UFFeScience Research Group at Universidade Federal Fluminense (UFF).\n\nAs AI agents take on more of the work in scientific computing, a key question arises: how do we know why an agent did what it did? Agentic loop engineering designs how an agent works towards a goal by planning, acting, observing, evaluating, and deciding whether to continue, revise, or stop. PROV-AGENT-LOOP records that loop and connects each decision to execution evidence, including workflow tasks, jobs, models, datasets, and GPU telemetry.\n\nThanks to our co-authors and collaborators Gabriele Padovani, Daniel de Oliveira, Renan Souza, Rafael Ferreira da Silva for making this work possible.\n\nA collaboration between Instituto de Computação UFF, the University of Trento, and Oak Ridge National Laboratory.\n\n#SC26 #AgenticAI #HPC #Provenance #AgenticAI4HPC #Flowcept",
+      "date": "2026-11-17T18:45:18.929Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528160199086497792",
+      "tag": "Publicação",
+      "author": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1796256000&v=beta&t=Jx9Dfz_dAmykDbKDkQV_jVGh5xE2SyJhxV2P5HSniBc",
+        "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
+      },
+      "originalAuthor": null,
+      "sourceIds": [
+        "group"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQFPGc6qoOy7yg/feedshare-image-high-res/B4DaHllzw_GcAc-/0/1794853256542?e=1796256000&v=beta&t=DAsQTA4pjgpTMOiRl5scnMZOGP6D3nH2YMcSV0dlUJQ",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFX7dhW5uEjQw/feedshare-image-high-res/B4DaHllzwxKsAU-/0/1794853256532?e=1796256000&v=beta&t=NjVLLIaxmb7Zd56sRsQWME4Be_3iJFARjdtQPVc1QOY"
+      ],
+      "images": [
+        "/media/6b47cef027dde16648038b19a154.jpg",
+        "/media/e9eae915d1e6f9ad5d9c8d79cfbf.jpg"
+      ],
+      "cover": "/media/6b47cef027dde16648038b19a154.jpg",
+      "engagement": {
+        "likes": 5,
+        "comments": 0,
+        "shares": 2
+      }
+    },
+    {
       "id": "7525904792695488512",
       "originalPostId": "7525904792695488512",
       "slug": "how-is-ai-changing-the-way-we-train-computer-scientists-7525904792695488512",
@@ -30,7 +64,7 @@
       ],
       "cover": "/media/60c388aea37ede74c8b83010913b.jpg",
       "engagement": {
-        "likes": 27,
+        "likes": 29,
         "comments": 0,
         "shares": 1
       }
@@ -62,7 +96,7 @@
       ],
       "cover": "/media/9efe466e385e363618ded62a5836.jpg",
       "engagement": {
-        "likes": 97,
+        "likes": 98,
         "comments": 1,
         "shares": 2
       }
@@ -4591,14 +4625,14 @@
       "id": "group",
       "name": "UFFeScience Research Group",
       "url": "https://www.linkedin.com/company/uffescience-research-group",
-      "runId": "JslZB3FW5TkixmT8o",
-      "datasetId": "2tjTH8MkwbQokEcgq",
-      "collectedAt": "2026-11-16T13:01:34.931Z",
+      "runId": "MBphkbTcqKMi1c9o6",
+      "datasetId": "u0YGVLxmxN8eUxcqm",
+      "collectedAt": "2026-11-17T19:07:39.695Z",
       "status": "success",
-      "received": 5,
+      "received": 6,
       "limitReached": false
     }
   ],
-  "lastCheckedAt": "2026-11-16T13:01:37.357Z",
-  "lastCollectedAt": "2026-11-16T13:01:34.931Z"
+  "lastCheckedAt": "2026-11-17T19:07:42.616Z",
+  "lastCollectedAt": "2026-11-17T19:07:39.695Z"
 }
