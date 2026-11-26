@@ -5,7 +5,7 @@
       "description": "AkôFlow is an open-source engine for orchestrating and executing container-based scientific workflows in the computing continuum. It was originally developed within the e-Science Research Group at the Institute of Computing, Fluminense Federal University (UFF).",
       "html_url": "https://github.com/UFFeScience/akoflow",
       "stargazers_count": 65,
-      "pushed_at": "2026-11-24T02:41:54Z"
+      "pushed_at": "2026-11-25T03:14:17Z"
     },
     {
       "name": "akoflow-examples",
@@ -632,7 +632,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:19.392Z"
+      "fetchedAt": "2026-11-26T20:11:53.037Z"
     },
     "akoflow": {
       "contributors": [
@@ -664,6 +664,136 @@
       ],
       "updates": [
         {
+          "id": "21213310923",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "joined a discussion",
+          "title": "Support lightweight updates for the AkôFlow daemon and Desktop frontend",
+          "url": "https://github.com/UFFeScience/akoflow/issues/348#issuecomment-7151880009",
+          "category": "Discussion",
+          "date": "2026-11-25T03:24:07Z"
+        },
+        {
+          "id": "21213242965",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "github-actions[bot]",
+          "avatar": "https://avatars.githubusercontent.com/u/41898282?",
+          "profileUrl": "https://github.com/github-actions[bot]",
+          "action": "published a release",
+          "title": "v1.0.36",
+          "url": "https://github.com/UFFeScience/akoflow/releases/tag/v1.0.36",
+          "category": "New release",
+          "date": "2026-11-25T03:23:09Z"
+        },
+        {
+          "id": "21212597359",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated a contribution",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow",
+          "category": "Collaboration",
+          "date": "2026-11-25T03:13:56Z"
+        },
+        {
+          "id": "28273665166",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow",
+          "category": "Development",
+          "date": "2026-11-25T03:10:28Z"
+        },
+        {
+          "id": "21212271305",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "chatgpt-codex-connector[bot]",
+          "avatar": "https://avatars.githubusercontent.com/u/199175422?",
+          "profileUrl": "https://github.com/chatgpt-codex-connector[bot]",
+          "action": "reviewed a contribution",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow/pull/349#pullrequestreview-6051280281",
+          "category": "Review",
+          "date": "2026-11-25T03:09:20Z"
+        },
+        {
+          "id": "28269803191",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow",
+          "category": "Development",
+          "date": "2026-11-25T03:08:06Z"
+        },
+        {
+          "id": "21212090018",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "chatgpt-codex-connector[bot]",
+          "avatar": "https://avatars.githubusercontent.com/u/199175422?",
+          "profileUrl": "https://github.com/chatgpt-codex-connector[bot]",
+          "action": "joined a discussion",
+          "title": "AKO-348 Publish signed Desktop component releases",
+          "url": "https://github.com/UFFeScience/akoflow/pull/349#issuecomment-7151601422",
+          "category": "Discussion",
+          "date": "2026-11-25T03:06:48Z"
+        },
+        {
+          "id": "21212075659",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "proposed a contribution",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow",
+          "category": "Collaboration",
+          "date": "2026-11-25T03:06:36Z"
+        },
+        {
+          "id": "21211371632",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated a task",
+          "title": "Support lightweight updates for the AkôFlow daemon and Desktop frontend",
+          "url": "https://github.com/UFFeScience/akoflow/issues/348",
+          "category": "Tasks",
+          "date": "2026-11-25T02:56:30Z"
+        },
+        {
+          "id": "21211371245",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "opened a task",
+          "title": "Support lightweight updates for the AkôFlow daemon and Desktop frontend",
+          "url": "https://github.com/UFFeScience/akoflow/issues/348",
+          "category": "Tasks",
+          "date": "2026-11-25T02:56:29Z"
+        },
+        {
           "id": "21084979518",
           "project": "akoflow",
           "repoUrl": "https://github.com/UFFeScience/akoflow",
@@ -688,6 +818,19 @@
           "url": "https://github.com/UFFeScience/akoflow",
           "category": "Development",
           "date": "2026-11-24T02:39:48Z"
+        },
+        {
+          "id": "28204646784",
+          "project": "akoflow",
+          "repoUrl": "https://github.com/UFFeScience/akoflow",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow",
+          "category": "Development",
+          "date": "2026-11-23T15:59:39Z"
         },
         {
           "id": "28062807002",
@@ -1819,154 +1962,11 @@
           "url": "https://github.com/UFFeScience/akoflow",
           "category": "Development",
           "date": "2026-11-17T04:21:08Z"
-        },
-        {
-          "id": "20231155654",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "github-actions[bot]",
-          "avatar": "https://avatars.githubusercontent.com/u/41898282?",
-          "profileUrl": "https://github.com/github-actions[bot]",
-          "action": "published a release",
-          "title": "v1.0.21",
-          "url": "https://github.com/UFFeScience/akoflow/releases/tag/v1.0.21",
-          "category": "New release",
-          "date": "2026-11-16T05:32:25Z"
-        },
-        {
-          "id": "20229184802",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "completed a task",
-          "title": "Preserve reproducible artifact origins and recipes in workflow YAML",
-          "url": "https://github.com/UFFeScience/akoflow/issues/253",
-          "category": "Tasks",
-          "date": "2026-11-16T04:59:55Z"
-        },
-        {
-          "id": "20229183698",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "updated a contribution",
-          "title": "",
-          "url": "https://github.com/UFFeScience/akoflow",
-          "category": "Collaboration",
-          "date": "2026-11-16T04:59:53Z"
-        },
-        {
-          "id": "20228526820",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "proposed a contribution",
-          "title": "",
-          "url": "https://github.com/UFFeScience/akoflow",
-          "category": "Collaboration",
-          "date": "2026-11-16T04:48:10Z"
-        },
-        {
-          "id": "20227485859",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "updated a contribution",
-          "title": "",
-          "url": "https://github.com/UFFeScience/akoflow",
-          "category": "Collaboration",
-          "date": "2026-11-16T04:29:44Z"
-        },
-        {
-          "id": "20226732034",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "proposed a contribution",
-          "title": "",
-          "url": "https://github.com/UFFeScience/akoflow",
-          "category": "Collaboration",
-          "date": "2026-11-16T04:16:56Z"
-        },
-        {
-          "id": "20224997138",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "completed a task",
-          "title": "Publish AkôFlow Hub launch tutorial with export and import walkthroughs",
-          "url": "https://github.com/UFFeScience/akoflow/issues/252",
-          "category": "Tasks",
-          "date": "2026-11-16T03:45:34Z"
-        },
-        {
-          "id": "20224996631",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "updated a contribution",
-          "title": "",
-          "url": "https://github.com/UFFeScience/akoflow",
-          "category": "Collaboration",
-          "date": "2026-11-16T03:45:31Z"
-        },
-        {
-          "id": "20224861636",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "proposed a contribution",
-          "title": "",
-          "url": "https://github.com/UFFeScience/akoflow",
-          "category": "Collaboration",
-          "date": "2026-11-16T03:42:50Z"
-        },
-        {
-          "id": "27308250285",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "updated the project",
-          "title": "",
-          "url": "https://github.com/UFFeScience/akoflow",
-          "category": "Development",
-          "date": "2026-11-16T03:42:48Z"
-        },
-        {
-          "id": "20224344929",
-          "project": "akoflow",
-          "repoUrl": "https://github.com/UFFeScience/akoflow",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "opened a task",
-          "title": "Diagnose macOS updates launched from read-only DMG or translocation",
-          "url": "https://github.com/UFFeScience/akoflow/issues/255",
-          "category": "Tasks",
-          "date": "2026-11-16T03:33:12Z"
         }
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:18.058Z"
+      "fetchedAt": "2026-11-26T20:11:51.683Z"
     },
     "akoflow-examples": {
       "contributors": [
@@ -1977,6 +1977,32 @@
         }
       ],
       "updates": [
+        {
+          "id": "28178945152",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-11-23T12:09:19Z"
+        },
+        {
+          "id": "28178667508",
+          "project": "akoflow-examples",
+          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
+          "actor": "ovvesley",
+          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
+          "profileUrl": "https://github.com/ovvesley",
+          "action": "updated the project",
+          "title": "",
+          "url": "https://github.com/UFFeScience/akoflow-examples",
+          "category": "Development",
+          "date": "2026-11-23T12:06:03Z"
+        },
         {
           "id": "28112301085",
           "project": "akoflow-examples",
@@ -3250,37 +3276,11 @@
           "url": "https://github.com/UFFeScience/akoflow-examples/issues/31",
           "category": "Tasks",
           "date": "2026-11-15T17:17:01Z"
-        },
-        {
-          "id": "20191659910",
-          "project": "akoflow-examples",
-          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "completed a task",
-          "title": "Add Docker OpenOil ensemble examples with 8, 16 and 32 members",
-          "url": "https://github.com/UFFeScience/akoflow-examples/issues/27",
-          "category": "Tasks",
-          "date": "2026-11-15T17:06:40Z"
-        },
-        {
-          "id": "20191659812",
-          "project": "akoflow-examples",
-          "repoUrl": "https://github.com/UFFeScience/akoflow-examples",
-          "actor": "ovvesley",
-          "avatar": "https://avatars.githubusercontent.com/u/12123871?",
-          "profileUrl": "https://github.com/ovvesley",
-          "action": "updated a contribution",
-          "title": "",
-          "url": "https://github.com/UFFeScience/akoflow-examples",
-          "category": "Collaboration",
-          "date": "2026-11-15T17:06:37Z"
         }
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:17.705Z"
+      "fetchedAt": "2026-11-26T20:11:51.195Z"
     },
     "akoflow-desktop": {
       "contributors": [
@@ -3311,7 +3311,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:19.530Z"
+      "fetchedAt": "2026-11-26T20:11:53.334Z"
     },
     "sscad-2026": {
       "contributors": [
@@ -3324,14 +3324,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:19.126Z"
+      "fetchedAt": "2026-11-26T20:11:52.734Z"
     },
     "flexe_plus": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:19.689Z"
+      "fetchedAt": "2026-11-26T20:11:53.341Z"
     },
     "FedObserve": {
       "contributors": [
@@ -3344,7 +3344,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:19.859Z"
+      "fetchedAt": "2026-11-26T20:11:53.823Z"
     },
     "anchor": {
       "contributors": [
@@ -3357,7 +3357,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:19.987Z"
+      "fetchedAt": "2026-11-26T20:11:53.985Z"
     },
     "phylotreeminer": {
       "contributors": [
@@ -3370,14 +3370,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:20.142Z"
+      "fetchedAt": "2026-11-26T20:11:54.140Z"
     },
     "jidm-analysis": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:20.276Z"
+      "fetchedAt": "2026-11-26T20:11:54.263Z"
     },
     "triptych": {
       "contributors": [
@@ -3390,7 +3390,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:20.422Z"
+      "fetchedAt": "2026-11-26T20:11:54.408Z"
     },
     "UTK-PROV": {
       "contributors": [
@@ -3403,7 +3403,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:20.562Z"
+      "fetchedAt": "2026-11-26T20:11:54.564Z"
     },
     "denethor": {
       "contributors": [
@@ -3448,14 +3448,14 @@
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:18.523Z"
+      "fetchedAt": "2026-11-26T20:11:52.238Z"
     },
     "llm-clinical-analysis": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:20.657Z"
+      "fetchedAt": "2026-11-26T20:11:54.720Z"
     },
     "MemoirGRASP": {
       "contributors": [
@@ -3468,7 +3468,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:20.878Z"
+      "fetchedAt": "2026-11-26T20:11:54.873Z"
     },
     ".github": {
       "contributors": [
@@ -3481,7 +3481,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:20.914Z"
+      "fetchedAt": "2026-11-26T20:11:55.046Z"
     },
     "akoflow-example-wf-etl-clothing": {
       "contributors": [
@@ -3494,7 +3494,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:21.222Z"
+      "fetchedAt": "2026-11-26T20:11:55.181Z"
     },
     "akoflow-driver-dataverse-uploader": {
       "contributors": [
@@ -3507,7 +3507,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:21.212Z"
+      "fetchedAt": "2026-11-26T20:11:55.563Z"
     },
     "protector": {
       "contributors": [
@@ -3520,7 +3520,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:21.552Z"
+      "fetchedAt": "2026-11-26T20:11:55.499Z"
     },
     "akoflow-driver-gcs-uploader": {
       "contributors": [
@@ -3533,7 +3533,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:21.509Z"
+      "fetchedAt": "2026-11-26T20:11:56.098Z"
     },
     "akoflow-driver-s3-uploader": {
       "contributors": [
@@ -3546,7 +3546,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:21.819Z"
+      "fetchedAt": "2026-11-26T20:11:56.178Z"
     },
     "-PROVGov-SoS": {
       "contributors": [],
@@ -3599,7 +3599,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:22.098Z"
+      "fetchedAt": "2026-11-26T20:11:56.470Z"
     },
     "SciCumulus": {
       "contributors": [
@@ -3612,7 +3612,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:21.796Z"
+      "fetchedAt": "2026-11-26T20:11:56.388Z"
     },
     "akorunner": {
       "contributors": [
@@ -3651,7 +3651,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:22.137Z"
+      "fetchedAt": "2026-11-26T20:11:56.935Z"
     },
     "cyclops": {
       "contributors": [
@@ -3674,7 +3674,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:22.398Z"
+      "fetchedAt": "2026-11-26T20:11:57.161Z"
     },
     "arani": {
       "contributors": [
@@ -3687,7 +3687,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:22.477Z"
+      "fetchedAt": "2026-11-26T20:11:57.197Z"
     },
     "CrimeDashboard": {
       "contributors": [
@@ -3718,7 +3718,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:22.675Z"
+      "fetchedAt": "2026-11-26T20:11:57.521Z"
     },
     "dlprov": {
       "contributors": [
@@ -3731,7 +3731,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:23.030Z"
+      "fetchedAt": "2026-11-26T20:11:57.964Z"
     },
     "Flower-PROV": {
       "contributors": [
@@ -3749,7 +3749,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:22.991Z"
+      "fetchedAt": "2026-11-26T20:11:57.783Z"
     },
     "marin": {
       "contributors": [
@@ -3762,7 +3762,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:23.368Z"
+      "fetchedAt": "2026-11-26T20:11:58.275Z"
     },
     "lsst-uff": {
       "contributors": [
@@ -3787,21 +3787,21 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:23.291Z"
+      "fetchedAt": "2026-11-26T20:11:58.273Z"
     },
     "okinawa": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:23.551Z"
+      "fetchedAt": "2026-11-26T20:11:58.578Z"
     },
     "GRASPCC-LB": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:23.648Z"
+      "fetchedAt": "2026-11-26T20:11:58.624Z"
     },
     "MAESTRO": {
       "contributors": [
@@ -3814,7 +3814,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:23.835Z"
+      "fetchedAt": "2026-11-26T20:11:59.372Z"
     },
     "REPLACE": {
       "contributors": [
@@ -3832,7 +3832,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:23.945Z"
+      "fetchedAt": "2026-11-26T20:11:59.144Z"
     },
     "NMFSt.P": {
       "contributors": [
@@ -3850,7 +3850,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:24.196Z"
+      "fetchedAt": "2026-11-26T20:11:59.719Z"
     },
     "SAMbA": {
       "contributors": [
@@ -3873,7 +3873,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:24.218Z"
+      "fetchedAt": "2026-11-26T20:11:59.898Z"
     },
     "SambA-SciPhy": {
       "contributors": [
@@ -3891,7 +3891,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:24.497Z"
+      "fetchedAt": "2026-11-26T20:12:00.222Z"
     },
     "ALTES": {
       "contributors": [
@@ -3909,7 +3909,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:24.562Z"
+      "fetchedAt": "2026-11-26T20:12:00.494Z"
     },
     "instructor": {
       "contributors": [
@@ -3935,7 +3935,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:24.773Z"
+      "fetchedAt": "2026-11-26T20:12:00.535Z"
     },
     "TiME": {
       "contributors": [
@@ -3948,7 +3948,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:24.847Z"
+      "fetchedAt": "2026-11-26T20:12:00.947Z"
     },
     "CrimeRoutes": {
       "contributors": [],
@@ -3962,7 +3962,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:25.127Z"
+      "fetchedAt": "2026-11-26T20:12:01.195Z"
     },
     "DfAnalyzer": {
       "contributors": [
@@ -3980,7 +3980,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:25.080Z"
+      "fetchedAt": "2026-11-26T20:12:01.313Z"
     },
     "Hurricane": {
       "contributors": [
@@ -3993,7 +3993,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:25.360Z"
+      "fetchedAt": "2026-11-26T20:12:01.521Z"
     },
     "Polyflow": {
       "contributors": [
@@ -4006,7 +4006,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:25.455Z"
+      "fetchedAt": "2026-11-26T20:12:01.610Z"
     },
     "bioprov": {
       "contributors": [
@@ -4024,14 +4024,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:25.639Z"
+      "fetchedAt": "2026-11-26T20:12:02.030Z"
     },
     "newscollab": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:25.709Z"
+      "fetchedAt": "2026-11-26T20:12:01.962Z"
     },
     "ReASSIgN": {
       "contributors": [
@@ -4044,7 +4044,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:25.950Z"
+      "fetchedAt": "2026-11-26T20:12:02.258Z"
     },
     "orbiter": {
       "contributors": [
@@ -4057,14 +4057,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:25.987Z"
+      "fetchedAt": "2026-11-26T20:12:02.626Z"
     },
     "dimply": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:26.205Z"
+      "fetchedAt": "2026-11-26T20:12:02.889Z"
     },
     "diversity_browsing": {
       "contributors": [
@@ -4077,7 +4077,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:26.299Z"
+      "fetchedAt": "2026-11-26T20:12:02.763Z"
     },
     "uff_snap": {
       "contributors": [],
@@ -4091,7 +4091,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:26.496Z"
+      "fetchedAt": "2026-11-26T20:12:03.074Z"
     },
     "OntoExpLine": {
       "contributors": [
@@ -4104,7 +4104,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:26.605Z"
+      "fetchedAt": "2026-11-26T20:12:03.211Z"
     },
     "LetItRain": {
       "contributors": [
@@ -4130,7 +4130,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:26.795Z"
+      "fetchedAt": "2026-11-26T20:12:03.337Z"
     },
     "POStURE": {
       "contributors": [
@@ -4148,7 +4148,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:26.928Z"
+      "fetchedAt": "2026-11-26T20:12:03.582Z"
     },
     "Phenomanager": {
       "contributors": [
@@ -4161,7 +4161,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:27.070Z"
+      "fetchedAt": "2026-11-26T20:12:03.725Z"
     },
     "OFIP": {
       "contributors": [],
@@ -4181,7 +4181,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:27.368Z"
+      "fetchedAt": "2026-11-26T20:12:04.133Z"
     },
     "Wf-GPU": {
       "contributors": [
@@ -4199,14 +4199,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:27.307Z"
+      "fetchedAt": "2026-11-26T20:12:04.051Z"
     },
     "LDA-DB": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:27.539Z"
+      "fetchedAt": "2026-11-26T20:12:04.322Z"
     },
     "Myria": {
       "contributors": [
@@ -4219,14 +4219,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:27.657Z"
+      "fetchedAt": "2026-11-26T20:12:04.455Z"
     },
     "SciManager": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:27.888Z"
+      "fetchedAt": "2026-11-26T20:12:04.723Z"
     },
     "PRELUDE": {
       "contributors": [
@@ -4239,7 +4239,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:27.979Z"
+      "fetchedAt": "2026-11-26T20:12:04.850Z"
     },
     "Df-ASet": {
       "contributors": [
@@ -4252,7 +4252,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:28.151Z"
+      "fetchedAt": "2026-11-26T20:12:05.001Z"
     },
     "Tennis-Analytics": {
       "contributors": [
@@ -4265,7 +4265,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:28.320Z"
+      "fetchedAt": "2026-11-26T20:12:05.123Z"
     },
     "C-ParGRES": {
       "contributors": [
@@ -4278,14 +4278,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:28.438Z"
+      "fetchedAt": "2026-11-26T20:12:05.295Z"
     },
     "OPTIC": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:28.746Z"
+      "fetchedAt": "2026-11-26T20:12:05.617Z"
     },
     "CRiMINaL": {
       "contributors": [
@@ -4303,14 +4303,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:28.634Z"
+      "fetchedAt": "2026-11-26T20:12:05.871Z"
     },
     "FTT": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:29.022Z"
+      "fetchedAt": "2026-11-26T20:12:06.180Z"
     },
     "Cognitive-Game-Analytics": {
       "contributors": [
@@ -4323,21 +4323,21 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:28.921Z"
+      "fetchedAt": "2026-11-26T20:12:06.023Z"
     },
     "FFT": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:29.233Z"
+      "fetchedAt": "2026-11-26T20:12:06.291Z"
     },
     "CognitiveTraining": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:29.330Z"
+      "fetchedAt": "2026-11-26T20:12:06.431Z"
     },
     "Systematic-Mapping-of-Software-Requirements-Negotiation-Techniques": {
       "contributors": [
@@ -4350,7 +4350,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:29.627Z"
+      "fetchedAt": "2026-11-26T20:12:06.742Z"
     },
     "PredFail": {
       "contributors": [
@@ -4363,14 +4363,14 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:29.487Z"
+      "fetchedAt": "2026-11-26T20:12:06.829Z"
     },
     "Tupi": {
       "contributors": [],
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:29.882Z"
+      "fetchedAt": "2026-11-26T20:12:07.175Z"
     },
     "SciAgile": {
       "contributors": [
@@ -4388,7 +4388,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:29.924Z"
+      "fetchedAt": "2026-11-26T20:12:07.180Z"
     },
     "Spielzyklus": {
       "contributors": [
@@ -4401,7 +4401,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:30.244Z"
+      "fetchedAt": "2026-11-26T20:12:07.507Z"
     },
     "ParGRES": {
       "contributors": [
@@ -4414,7 +4414,7 @@
       "updates": [],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:30.218Z"
+      "fetchedAt": "2026-11-26T20:12:07.623Z"
     },
     "gawa": {
       "contributors": [
@@ -4503,7 +4503,7 @@
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:19.174Z"
+      "fetchedAt": "2026-11-26T20:11:52.999Z"
     },
     "akoflow-community-explorer": {
       "contributors": [
@@ -5154,7 +5154,7 @@
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:18.481Z"
+      "fetchedAt": "2026-11-26T20:11:51.894Z"
     },
     "PROVGov-SoS": {
       "contributors": [
@@ -5181,8 +5181,8 @@
       ],
       "contributorsAvailable": true,
       "updatesAvailable": true,
-      "fetchedAt": "2026-11-24T22:26:18.826Z"
+      "fetchedAt": "2026-11-26T20:11:52.255Z"
     }
   },
-  "fetchedAt": "2026-11-24T22:26:30.244Z"
+  "fetchedAt": "2026-11-26T20:12:07.623Z"
 }

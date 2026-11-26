@@ -2,6 +2,38 @@
   "version": 1,
   "posts": [
     {
+      "id": "7531811747620593665",
+      "originalPostId": "7531811747620593665",
+      "slug": "uffescience-research-group-at-tomorrow-blue-economy-niteroi-7531811747620593665",
+      "title": "🌊 UFFeScience Research Group at Tomorrow Blue Economy Niterói!",
+      "text": "🌊 UFFeScience Research Group at Tomorrow Blue Economy Niterói!\n\nOn November 25–26, the Tomorrow Blue Economy Niterói brought together leaders from the offshore supply chain, ports, marine biotechnology, government, academia, and investors. The event was an international exchange on the blue economy and the maritime energy transition.\n\nOur master's student Wesley Ferreira (IC-UFF) gave the talk \"AkôFlow: computational support for modeling, efficient execution and monitoring of simulations in the blue economy.\"\n\nAkôFlow is an open-source engine our group develops for containerized workflows across the computing continuum (cloud, edge, and on-premises infrastructure). \n\nIn the talk, Wesley showed how AkôFlow supports the whole lifecycle of a computational simulation: modeling the workflow, running it efficiently, and monitoring the experiments. Simulations like these matter to anyone who researches or works with the ocean.\n\nCongratulations, Wesley, on a great presentation! Thank you to the organizers for making room for scientific computing in this conversation. 👏\n\n🔗 Learn more about AkôFlow: https://lnkd.in/eqdx_3iK\n\n#BlueEconomy #EnergyTransition #ScientificWorkflows #eScience #ScientificComputing #OpenSource #UFF #Niteroi",
+      "date": "2026-11-26T20:10:54.928Z",
+      "url": "https://www.linkedin.com/feed/update/urn:li:share:7531811744717881345",
+      "tag": "Publicação",
+      "author": {
+        "name": "UFFeScience Research Group",
+        "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1797465600&v=beta&t=ZrAmQo6c3uIWBhywkbzqlegaXcu2ESpHV5qH1UHXKo8",
+        "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
+      },
+      "originalAuthor": null,
+      "sourceIds": [
+        "group"
+      ],
+      "remoteImages": [
+        "https://media.licdn.com/dms/image/v2/D4D22AQFleSrRuk68hA/feedshare-image-high-res/B4DaIZe3tIKEAQ-/0/1795723853083?e=1797465600&v=beta&t=CNV4Jr35wbljt8ybPm-poIW2R5HMBJNUjjUyE8yWbEE"
+      ],
+      "images": [
+        "/media/0e05954225d3a99b4a12b070add2.jpg"
+      ],
+      "cover": "/media/0e05954225d3a99b4a12b070add2.jpg",
+      "engagement": {
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    },
+    {
       "id": "7528528714888933376",
       "originalPostId": "7528528714888933376",
       "slug": "tracking-why-ai-agents-do-what-they-do-prov-agent-loop-at-sc26-7528528714888933376",
@@ -13,7 +45,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1796860800&v=beta&t=ql8UG0TRHUMRFTuFQurwfjxzQaRXVHsQorAWiausRgs",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1797465600&v=beta&t=ZrAmQo6c3uIWBhywkbzqlegaXcu2ESpHV5qH1UHXKo8",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -21,8 +53,8 @@
         "group"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFPGc6qoOy7yg/feedshare-image-high-res/B4DaHllzw_GcAc-/0/1794853256542?e=1796860800&v=beta&t=21W74fiVAQPKObBebcYno6GWMWTTYz1q6kspcxdSX2M",
-        "https://media.licdn.com/dms/image/v2/D4D22AQFX7dhW5uEjQw/feedshare-image-high-res/B4DaHllzwxKsAU-/0/1794853256532?e=1796860800&v=beta&t=6BMPst1o6Pkjf41ihG0Ie0JMWfI8-YS6u4wDLn4sSBs"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFPGc6qoOy7yg/feedshare-image-high-res/B4DaHllzw_GcAc-/0/1794853256542?e=1797465600&v=beta&t=6P2dIyDt2DxwdxEoqYaKEk_k-OK28QZDo9b84oVy60A",
+        "https://media.licdn.com/dms/image/v2/D4D22AQFX7dhW5uEjQw/feedshare-image-high-res/B4DaHllzwxKsAU-/0/1794853256532?e=1797465600&v=beta&t=SvwvfRafjcS3XhKOmqTuYtMWuQ7nDF1LEnuQ6485b1Y"
       ],
       "images": [
         "/media/6b47cef027dde16648038b19a154.jpg",
@@ -30,7 +62,7 @@
       ],
       "cover": "/media/6b47cef027dde16648038b19a154.jpg",
       "engagement": {
-        "likes": 33,
+        "likes": 37,
         "comments": 1,
         "shares": 5
       }
@@ -47,7 +79,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1796860800&v=beta&t=ql8UG0TRHUMRFTuFQurwfjxzQaRXVHsQorAWiausRgs",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1797465600&v=beta&t=ZrAmQo6c3uIWBhywkbzqlegaXcu2ESpHV5qH1UHXKo8",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -55,8 +87,8 @@
         "group"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQFqhSK2_n4OCw/feedshare-image-high-res/B4DaHFih1eK0AQ-/0/1794315525716?e=1796860800&v=beta&t=5qFguUrBTgwRm-WmiDjKFb5N5MhdqqADUBd3lZxY2Ac",
-        "https://media.licdn.com/dms/image/v2/D4D22AQE2lhDaz6pwOw/feedshare-image-high-res/B4DaHFih2yKEAY-/0/1794315525782?e=1796860800&v=beta&t=ojDJM6ebszobLiL-fek-GreHfBkhouNzS66VoUShfk4"
+        "https://media.licdn.com/dms/image/v2/D4D22AQFqhSK2_n4OCw/feedshare-image-high-res/B4DaHFih1eK0AQ-/0/1794315525716?e=1797465600&v=beta&t=bJNCXf24Uf8_bDHOlLU0u_orOiE4QM7IraWObL0YVIQ",
+        "https://media.licdn.com/dms/image/v2/D4D22AQE2lhDaz6pwOw/feedshare-image-high-res/B4DaHFih2yKEAY-/0/1794315525782?e=1797465600&v=beta&t=R5TqBD3S9MzbF2d4uAzRUwuW8wELhKNxs00ptugTzzY"
       ],
       "images": [
         "/media/60c388aea37ede74c8b83010913b.jpg",
@@ -64,7 +96,7 @@
       ],
       "cover": "/media/60c388aea37ede74c8b83010913b.jpg",
       "engagement": {
-        "likes": 29,
+        "likes": 31,
         "comments": 0,
         "shares": 1
       }
@@ -81,7 +113,7 @@
       "author": {
         "name": "UFFeScience Research Group",
         "url": "https://www.linkedin.com/company/uffescience-research-group/posts",
-        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1796860800&v=beta&t=ql8UG0TRHUMRFTuFQurwfjxzQaRXVHsQorAWiausRgs",
+        "remoteAvatar": "https://media.licdn.com/dms/image/v2/D4D0BAQGqr9uPTv6wNQ/company-logo_400_400/B4DZk2t6GFJAAY-/0/1757559628542?e=1797465600&v=beta&t=ZrAmQo6c3uIWBhywkbzqlegaXcu2ESpHV5qH1UHXKo8",
         "avatar": "/media/e42f886c1805e6a8db4e91ef9944.jpg"
       },
       "originalAuthor": null,
@@ -89,7 +121,7 @@
         "group"
       ],
       "remoteImages": [
-        "https://media.licdn.com/dms/image/v2/D4D22AQHkJFyt0-fpsg/feedshare-shrink_1280/B4DaG2uO.yH8AI-/0/1794066936223?e=1796860800&v=beta&t=MY3KwNujl41tsaR-VBYZHN6mTM_TApdJ_ITGTBz4lFE"
+        "https://media.licdn.com/dms/image/v2/D4D22AQHkJFyt0-fpsg/feedshare-shrink_1280/B4DaG2uO.yH8AI-/0/1794066936223?e=1797465600&v=beta&t=SQVUsAiJwW-kndWkCBIIQ1L2J-jentV9PiIIU2rQFkY"
       ],
       "images": [
         "/media/9efe466e385e363618ded62a5836.jpg"
@@ -4625,14 +4657,14 @@
       "id": "group",
       "name": "UFFeScience Research Group",
       "url": "https://www.linkedin.com/company/uffescience-research-group",
-      "runId": "rFhN3xma3S7r1YvXW",
-      "datasetId": "6HzrIjc8ZJcxUK9Ew",
-      "collectedAt": "2026-11-23T13:01:00.076Z",
+      "runId": "DRBcBOUp8Zdw3dQHC",
+      "datasetId": "YHOiv7Jzdwiwemtbc",
+      "collectedAt": "2026-11-26T20:12:14.571Z",
       "status": "success",
-      "received": 3,
+      "received": 4,
       "limitReached": false
     }
   ],
-  "lastCheckedAt": "2026-11-23T13:01:01.243Z",
-  "lastCollectedAt": "2026-11-23T13:01:00.076Z"
+  "lastCheckedAt": "2026-11-26T20:12:16.860Z",
+  "lastCollectedAt": "2026-11-26T20:12:14.571Z"
 }
